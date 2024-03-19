@@ -8,19 +8,19 @@ from sqlalchemy.orm.exc import UnmappedInstanceError
 
 app = FastAPI()
 
-# origins = ['http://localhost:3000', 'https://localhost:3000']
+origins = [
+    'http://localhost:3000', 
+    'https://localhost:3000'
+    'http://localhost'
+    'https://localhost']
 
-# app.add_middleware(
-#     CORSMiddleware,
-#     allow_origins=origins,
-#     allow_credentials=True,
-#     allow_methods=["*"],
-#     allow_headers=["*"],
-# )
-
-
-app = FastAPI()
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def read_root():
@@ -122,7 +122,7 @@ async def read_item(item_id: int):
 
 
 @app.get("/api/category/{category_id}")
-async def read_item_by_categoty(category_id: int):
+async def read_items_by_category(category_id: int):
     db = DBSession()
     try:
         items = db.query(models.Item).filter(models.Item.category_id == category_id).all()
@@ -142,14 +142,22 @@ async def create_item(item: ItemCreateInput):
                     "msg": "Empty fields" 
                 }
             )
+        if item.bel_version:
+            new_item = models.Item(
+                xml_id=item.xml_id,
+                bel_version=item.bel_version,
+                eng_version=item.eng_version,
+                ru_version=item.ru_version,
+                category_id=item.category_id,
+            )
+        else:
+            new_item = models.Item(
+                xml_id=item.xml_id,
+                eng_version=item.eng_version,
+                ru_version=item.ru_version,
+                category_id=item.category_id,
+            )
 
-        new_item = models.Item(
-            xml_id=item.xml_id,
-            bel_version=None,
-            eng_version=item.eng_version,
-            ru_version=item.ru_version,
-            category_id=item.category_id
-        )
         db.add(new_item)
         db.commit()
         db.refresh(new_item)
@@ -171,6 +179,7 @@ async def update_item(item_id: int, update_item: ItemPutInput):
     try:
         item = db.query(models.Item).filter(models.Item.id == item_id).first()
         item.bel_version = update_item.bel_version
+        item.readiness = update_item.readiness
         db.commit()
         db.refresh(item)
     finally:

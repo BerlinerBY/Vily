@@ -1,1 +1,4 @@
 /__pycache__
+/model/__pycache__
+/alembic/__pycache__
+/alembic/versions/__pycache__
