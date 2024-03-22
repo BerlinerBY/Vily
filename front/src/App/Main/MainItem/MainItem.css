@@ -10,7 +10,7 @@
 }
 
 .Main-Item-SourceStrings {
-    height: calc(35% - 1px);
+    height: calc(40% - 1px);
     width: 100%;
 
     .Main-Item-SourceStrings-entry {
@@ -96,12 +96,22 @@
             flex-direction: column;
             display: flex;
             flex-grow: 1;
+            height: calc(100% - 50px);
 
             .Main-Item-SourceStrings-Strings-Versions {
                 flex-direction: column;
                 display: flex;
                 margin-top: auto;
                 margin-bottom: auto;
+                height: calc(100% - 80px);
+                justify-content: center;
+                overflow-y: scroll;
+
+                .Main-Item-SourceStrings-Strings-Versions-version {
+                    max-height: calc(50% - 5px);
+                    margin-bottom: 10px;
+                    font-size: 1vw;
+                }
             }
 
             .Main-Item-SourceStrings-Strings-Context {
@@ -125,7 +135,7 @@
 
 
 .Main-Item-TargetField {
-    height: calc(35% - 1px);
+    height: calc(40% - 1px);
     width: 100%;
 
     .Main-Item-TargetField-entry {
@@ -222,7 +232,7 @@
 }
 
 .Main-Item-Comments {
-    height: calc(30% - 1px);
+    height: calc(20% - 1px);
     width: 100%;    
 
     .Main-Item-Comments-Entry {

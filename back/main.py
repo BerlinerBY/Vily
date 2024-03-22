@@ -3,8 +3,9 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from model.database import DBSession
 from model import models
-from schemas import CategoryInput, ItemPutInput, ItemCreateInput
+from schemas import CategoryInput, ItemPutInput, ItemCreateInput, UploadItems
 from sqlalchemy.orm.exc import UnmappedInstanceError
+from typing import List
 
 app = FastAPI()
 
@@ -166,6 +167,50 @@ async def create_item(item: ItemCreateInput):
 
     return new_item
 
+### Upload items
+@app.post("/api/items/upload")
+async def upload_items(requset: List[ItemCreateInput]):
+    db = DBSession()
+    try:
+        arr = []
+        for item in requset:
+            if len(item.xml_id) == 0 and len(item.eng_version) == 0 and len(item.ru_version) == 0:
+                raise HTTPException(
+                    status_code=400, detail={
+                        "status": "Error 400 - Bad Request",
+                        "msg": f"Empty fields. {item.xml_id}" 
+                    }
+                )
+            if item.bel_version:
+                new_item = models.Item(
+                    xml_id=item.xml_id,
+                    bel_version=item.bel_version,
+                    eng_version=item.eng_version,
+                    ru_version=item.ru_version,
+                    category_id=item.category_id,
+                )
+            else:
+                new_item = models.Item(
+                    xml_id=item.xml_id,
+                    eng_version=item.eng_version,
+                    ru_version=item.ru_version,
+                    category_id=item.category_id,
+                )
+    
+            db.add(new_item)
+            db.commit()
+            db.refresh(new_item)
+            arr.append(item)
+    finally:
+        db.close()
+
+    return HTTPException(
+        status_code=200, detail={
+            "status": "200",
+            "msg": "Successfully"
+        }
+    )
+
 @app.put("/api/items/update/{item_id}")
 async def update_item(item_id: int, update_item: ItemPutInput):
     if len(update_item.bel_version) == 0:
@@ -207,4 +252,25 @@ async def delete_item(item_id):
     return {
         "status": "200",
         "msg": "Item deleted successfully"
+    }
+
+
+@app.delete("/api/items/delete/all/{category_id}")
+async def delete_items(category_id):
+    db = DBSession()
+    try:
+        value = models.Item.__table__.delete().where(models.Item.category_id == category_id)
+        db.execute(value)
+        db.commit()
+    except UnmappedInstanceError:
+        raise  HTTPException(status_code=400, detail={
+            "status": "Error 400 - Bad Request",
+            "msg": f"Item with 'id': "
+        })
+    finally:
+        db.close()
+
+    return {
+        "status": "200",
+        "msg": "Items deleted successfully"
     }

@@ -1,3 +1,7 @@
 /env
 TODO.txt
 curios_table.xlsx
+json_files/*
+json_temp/*
+xlsx_files/*
+xlsx_files_temp/*

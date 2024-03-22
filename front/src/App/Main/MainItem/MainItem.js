@@ -98,14 +98,11 @@ function MainItem({changeBackground, itemsLength,
                             </div>
                             <div className='Main-Item-SourceStrings-Strings'>
                                 <div className='Main-Item-SourceStrings-Strings-Versions'>
-                                    <div>
-                                        <div >
-                                            {item.eng_version}
-                                        </div>
-                                        <div>
-                                            {item.ru_version}
-                                        </div>
-    
+                                    <div className='Main-Item-SourceStrings-Strings-Versions-version'>
+                                        {item.eng_version}
+                                    </div>
+                                    <div className='Main-Item-SourceStrings-Strings-Versions-version'>
+                                        {item.ru_version}
                                     </div>
                                 </div>
                                 <div className='Main-Item-SourceStrings-Strings-Context'>

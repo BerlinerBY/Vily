@@ -36,7 +36,6 @@
     width: calc(100% - 20px);
     border-radius: 15px;
     display: flex;
-    /* align-items: center; */
     justify-content: center;
     flex-direction: column;
     font-size: 1.5rem;
@@ -54,6 +53,14 @@
 }
 
 .Main-content-count {
+    height: 30px;
+}
+.Main-content-items {
+    height: calc(98% - 30px);
+    overflow-y: scroll;
+}
+
+.Main-content-count {
     margin-top: 10px;
     margin-left: 25px;
     font-size: 1.5rem;
@@ -68,6 +75,11 @@
     justify-content: flex-start;
     align-items: center;
     border-radius: 15px;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .Content-item-body:hover {

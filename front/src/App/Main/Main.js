@@ -37,6 +37,14 @@ function Main({selectedCategoryFromStore, itemsFromStore}) {
         return new_data.reverse().join("/");
     };
 
+    const formatTitle = (title) => {
+        if (title.length < 41) {
+            return title;
+        } else {
+            return (title.substr(0, 41) + '...');
+        }
+    };
+
     useEffect(() => {
         getItemsRequest(selectedCategory, dispatch);
         // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -78,7 +86,7 @@ function Main({selectedCategoryFromStore, itemsFromStore}) {
                                                         <img src={no_image} alt=''/>}
                                                 </div>
                                                 <div className='item-body-text'>
-                                                    <div className='eng_version'>{item.eng_version}</div>
+                                                    <div className='eng_version'>{formatTitle(item.eng_version)}</div>
                                                     <div className='change_date'>{convertData(item.date_updated)}</div>
                                                 </div>
                                             </div>
