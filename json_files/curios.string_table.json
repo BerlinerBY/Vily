@@ -1,0 +1,3033 @@
+[
+    {
+        "xml_id": "str_curio_title_nothing",
+        "eng_version": "Error - no curio found!",
+        "ru_version": "Ошибка: диковинка не найдена!",
+        "category_id": 1,
+        "bel_version": "Памылка - кур'ёз не знойдзены!"
+    },
+    {
+        "xml_id": "str_curio_content_nothing",
+        "eng_version": "Error - no curio found!",
+        "ru_version": "Ошибка: диковинка не найдена!",
+        "category_id": 1,
+        "bel_version": "Памылка - кур'ёз не знойдзены!"
+    },
+    {
+        "xml_id": "str_curio_no_negative_quirks_to_remove",
+        "eng_version": "No negative quirks to remove.",
+        "ru_version": "Негативных черт нет.",
+        "category_id": 1,
+        "bel_version": "Няма негатыўных дзівацтваў, якія трэба выдаліць."
+    },
+    {
+        "xml_id": "str_curio_title_bandits_trapped_chest",
+        "eng_version": "Bandit's Trapped Chest",
+        "ru_version": "Сундук с ловушкой",
+        "category_id": 1,
+        "bel_version": "Куфар бандыта ў пастцы"
+    },
+    {
+        "xml_id": "str_curio_content_bandits_trapped_chest",
+        "eng_version": "Something doesn't look quite right with this one...",
+        "ru_version": "Что-то с ним не так...",
+        "category_id": 1,
+        "bel_version": "З гэтым нешта не так..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_bandits_trapped_chest",
+        "eng_version": "Open the chest...",
+        "ru_version": "Открыть сундук...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце куфар..."
+    },
+    {
+        "xml_id": "str_curio_bandits_trapped_chest_effect",
+        "eng_version": "It's trapped!",
+        "ru_version": "Здесь ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта ў пастцы!"
+    },
+    {
+        "xml_id": "str_curio_bandits_trapped_chest_skeleton_key_loot",
+        "eng_version": "The key is used to safely open the chest.",
+        "ru_version": "Ключ отпирает сундук.",
+        "category_id": 1,
+        "bel_version": "Ключ выкарыстоўваецца для бяспечнага адкрыцця куфра."
+    },
+    {
+        "xml_id": "str_curio_title_unlocked_strongbox",
+        "eng_version": "Unlocked Strongbox",
+        "ru_version": "Незапертая шкатулка",
+        "category_id": 1,
+        "bel_version": "Разблакіраваны сейф"
+    },
+    {
+        "xml_id": "str_curio_content_unlocked_strongbox",
+        "eng_version": "A long-forgotten strongbox sits on the cold stone floor, its contents unknown.",
+        "ru_version": "На холодном каменном полу стоит позабытая шкатулка. Интересно, что в ней?",
+        "category_id": 1,
+        "bel_version": "На халоднай каменнай падлозе стаіць даўно забытая скрыня, змесціва якой невядома."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_unlocked_strongbox",
+        "eng_version": "Open the chest...",
+        "ru_version": "Открыть сундук...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце куфар..."
+    },
+    {
+        "xml_id": "str_curio_unlocked_strongbox_nothing",
+        "eng_version": "The strongbox is empty.",
+        "ru_version": "Шкатулка пуста.",
+        "category_id": 1,
+        "bel_version": "Скрыня пустая."
+    },
+    {
+        "xml_id": "str_curio_unlocked_strongbox_loot",
+        "eng_version": "The contents are yours!",
+        "ru_version": "Содержимое ваше!",
+        "category_id": 1,
+        "bel_version": "Змесціва ваша!"
+    },
+    {
+        "xml_id": "str_curio_unlocked_strongbox_effect",
+        "eng_version": "It's trapped!",
+        "ru_version": "Здесь ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта ў пастцы!"
+    },
+    {
+        "xml_id": "str_curio_title_locked_strongbox",
+        "eng_version": "Locked Strongbox",
+        "ru_version": "Запертая шкатулка",
+        "category_id": 1,
+        "bel_version": "Зачынены сейф"
+    },
+    {
+        "xml_id": "str_curio_content_locked_strongbox",
+        "eng_version": "A long-forgotten lockbox sits on the cold stone floor, its contents unknown.",
+        "ru_version": "На холодном каменном полу стоит позабытая шкатулка. Интересно, что в ней?",
+        "category_id": 1,
+        "bel_version": "На халоднай каменнай падлозе стаіць даўно забытая скрыня, яе змесціва невядома."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_locked_strongbox",
+        "eng_version": "Open the chest...",
+        "ru_version": "Открыть сундук...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце куфар..."
+    },
+    {
+        "xml_id": "str_curio_locked_strongbox_nothing",
+        "eng_version": "The lockbox is empty.",
+        "ru_version": "Шкатулка пуста.",
+        "category_id": 1,
+        "bel_version": "Скрыня пустая."
+    },
+    {
+        "xml_id": "str_curio_locked_strongbox_effect",
+        "eng_version": "It's trapped!",
+        "ru_version": "Здесь ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта ў пастцы!"
+    },
+    {
+        "xml_id": "str_curio_locked_strongbox_skeleton_key_loot",
+        "eng_version": "The key safely unlocks the chest, disarming any trap!",
+        "ru_version": "Ключ отпирает сундук и обезвреживает ловушку!",
+        "category_id": 1,
+        "bel_version": "Ключ бяспечна адмыкае куфар, раззброіўшы любую пастку!"
+    },
+    {
+        "xml_id": "str_curio_locked_strongbox_shovel_nothing",
+        "eng_version": "You destroy the chest and its contents the attempt to force it open.",
+        "ru_version": "При попытке взломать сундук вы уничтожили его со всем содержимым.",
+        "category_id": 1,
+        "bel_version": "Вы знішчаеце куфар і яго змесціва, спрабуючы адкрыць яго сілай."
+    },
+    {
+        "xml_id": "str_curio_locked_strongbox_shovel_loot",
+        "eng_version": "You pry the lid open successfully...",
+        "ru_version": "Крышка успешно открыта...",
+        "category_id": 1,
+        "bel_version": "Вы паспяхова адкрываеце вечка..."
+    },
+    {
+        "xml_id": "str_curio_title_goal_strongbox",
+        "eng_version": "Large Strongbox",
+        "ru_version": "Большая шкатулка",
+        "category_id": 1,
+        "bel_version": "Вялікі сейф"
+    },
+    {
+        "xml_id": "str_curio_content_goal_strongbox",
+        "eng_version": "An impressive, gilded chest sits proudly before you.",
+        "ru_version": "Рядом с вами стоит внушительный золочёный сундук.",
+        "category_id": 1,
+        "bel_version": "Уражлівы пазалочаны куфар горда стаіць перад вамі."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_goal_strongbox",
+        "eng_version": "Open the chest...",
+        "ru_version": "Открыть сундук...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце куфар..."
+    },
+    {
+        "xml_id": "str_curio_goal_strongbox_loot",
+        "eng_version": "The contents are yours!",
+        "ru_version": "Содержимое ваше!",
+        "category_id": 1,
+        "bel_version": "Змесціва ваша!"
+    },
+    {
+        "xml_id": "str_curio_title_heirloom_chest",
+        "eng_version": "Heirloom Chest",
+        "ru_version": "Фамильный сундук",
+        "category_id": 1,
+        "bel_version": "Куфар з рэліквіяй"
+    },
+    {
+        "xml_id": "str_curio_content_heirloom_chest",
+        "eng_version": "A chest with your family's sigil.",
+        "ru_version": "Сундук с вашим фамильным гербом.",
+        "category_id": 1,
+        "bel_version": "Куфар з сімвалам вашай сям'і."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_heirloom_chest",
+        "eng_version": "Open the chest...",
+        "ru_version": "Открыть сундук...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце куфар..."
+    },
+    {
+        "xml_id": "str_curio_heirloom_chest_nothing",
+        "eng_version": "The chest is empty.",
+        "ru_version": "Сундук пуст.",
+        "category_id": 1,
+        "bel_version": "Куфар пусты."
+    },
+    {
+        "xml_id": "str_curio_heirloom_chest_loot",
+        "eng_version": "The contents are yours!",
+        "ru_version": "Содержимое ваше!",
+        "category_id": 1,
+        "bel_version": "Змесціва ваша!"
+    },
+    {
+        "xml_id": "str_curio_heirloom_chest_effect",
+        "eng_version": "It's trapped!",
+        "ru_version": "Здесь ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта ў пастцы!"
+    },
+    {
+        "xml_id": "str_curio_heirloom_chest_skeleton_key_loot",
+        "eng_version": "The key unlocks a hidden compartment!",
+        "ru_version": "Ключ отпер потайное отделение!",
+        "category_id": 1,
+        "bel_version": "Ключ адмыкае схаванае аддзяленне!"
+    },
+    {
+        "xml_id": "str_curio_heirloom_chest_antivenom_loot",
+        "eng_version": "The antivenom neutralizes a poison trap in a hidden compartment!",
+        "ru_version": "Противоядие обезвредило яд в потайном отделении!",
+        "category_id": 1,
+        "bel_version": "Супрацьяда нейтралізуе атрутную пастку ў схаваным адсеку!"
+    },
+    {
+        "xml_id": "str_curio_title_eldritch_altar",
+        "eng_version": "Eldritch Altar",
+        "ru_version": "Мистический алтарь",
+        "category_id": 1,
+        "bel_version": "Алтар Элдрыча"
+    },
+    {
+        "xml_id": "str_curio_content_eldritch_altar",
+        "eng_version": "An altar dedicated to unholy abominations. Perhaps a great power lies within.",
+        "ru_version": "Алтарь во славу мерзкой нечисти. Возможно, в нём сокрыта великая сила.",
+        "category_id": 1,
+        "bel_version": "Алтар, прысвечаны бязбожным мярзотам. Магчыма, вялікая сіла знаходзіцца ўнутры."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_eldritch_altar",
+        "eng_version": "Touch the altar...",
+        "ru_version": "Коснуться алтаря...",
+        "category_id": 1,
+        "bel_version": "Дакрануцца да алтара..."
+    },
+    {
+        "xml_id": "str_curio_eldritch_altar_nothing",
+        "eng_version": "The altar's purpose is purely decorative.",
+        "ru_version": "Алтарь чисто декоративный.",
+        "category_id": 1,
+        "bel_version": "Прызначэнне алтара - выключна дэкаратыўнае."
+    },
+    {
+        "xml_id": "str_curio_eldritch_altar_effect",
+        "eng_version": "A terrifying presence is felt nearby!",
+        "ru_version": "Вы чувствуете зловещее присутствие!",
+        "category_id": 1,
+        "bel_version": "Страшная прысутнасць адчуваецца побач!"
+    },
+    {
+        "xml_id": "str_curio_eldritch_altar_purge",
+        "eng_version": "An aura engulfs the hero, shattering an illness within.",
+        "ru_version": "Героя окутывает аура и избавляет его от болезни.",
+        "category_id": 1,
+        "bel_version": "Аўра ахоплівае героя, разбураючы хваробу ўнутры."
+    },
+    {
+        "xml_id": "str_curio_eldritch_altar_holy_water",
+        "eng_version": "The holy water purifies the altar!",
+        "ru_version": "Святая вода очистила алтарь!",
+        "category_id": 1,
+        "bel_version": "Святая вада ачышчае алтар!"
+    },
+    {
+        "xml_id": "str_curio_title_shamblers_altar",
+        "eng_version": "Shambler's Altar",
+        "ru_version": "Алтарь тьманника",
+        "category_id": 1,
+        "bel_version": "Алтар Шамблера"
+    },
+    {
+        "xml_id": "str_curio_content_shamblers_altar",
+        "eng_version": "It says: \"The sacrifice of fire is the gate to ruin! Place a torch if you crave the void!\"",
+        "ru_version": "Написано: \"Пожертвуй огнём! Поставь факел, если ищешь путь в бездну!\"",
+        "category_id": 1,
+        "bel_version": "Там сказана: \"Ахвяра агню - гэта брама да пагібелі! Пастаў факел, калі прагнеш пустэчы!\""
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_shamblers_altar",
+        "eng_version": "Touch the altar...",
+        "ru_version": "Коснуться алтаря...",
+        "category_id": 1,
+        "bel_version": "Дакрануцца да алтара..."
+    },
+    {
+        "xml_id": "str_curio_shamblers_altar_nothing",
+        "eng_version": "Touching the altar has no effect.",
+        "ru_version": "От прикосновения ничего не произошло.",
+        "category_id": 1,
+        "bel_version": "Дотык да алтара не мае ніякага эфекту."
+    },
+    {
+        "xml_id": "str_curio_shamblers_altar_torch_summon_summon_mash_shambler",
+        "eng_version": "A terrifying figure emerges from the darkness!",
+        "ru_version": "Из тьмы появляется ужасающая фигура!",
+        "category_id": 1,
+        "bel_version": "Жудасная постаць выходзіць з цемры!"
+    },
+    {
+        "xml_id": "str_curio_title_altar_of_light",
+        "eng_version": "Altar of Light",
+        "ru_version": "Алтарь Света",
+        "category_id": 1,
+        "bel_version": "Алтар святла"
+    },
+    {
+        "xml_id": "str_curio_content_altar_of_light",
+        "eng_version": "A small holy altar seems out of place against the backdrop of corruption.",
+        "ru_version": "Маленький священный алтарь выглядит странно среди разрухи.",
+        "category_id": 1,
+        "bel_version": "Маленькі святы алтар здаецца недарэчным на фоне карупцыі."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_altar_of_light",
+        "eng_version": "Pray at the altar...",
+        "ru_version": "Помолиться у алтаря...",
+        "category_id": 1,
+        "bel_version": "Маліцеся ля алтара..."
+    },
+    {
+        "xml_id": "str_curio_altar_of_light_nothing",
+        "eng_version": "The altar is a pleasant symbol of good, but little more.",
+        "ru_version": "Алтарь символизирует добро, но не более.",
+        "category_id": 1,
+        "bel_version": "Алтар — прыемны сімвал дабра, але крыху больш."
+    },
+    {
+        "xml_id": "str_curio_altar_of_light_effect",
+        "eng_version": "A soothing, pale light engulfs the hero.",
+        "ru_version": "Мягкий бледный свет окутывает героя.",
+        "category_id": 1,
+        "bel_version": "Заспакаяльнае, бледнае святло ахоплівае героя."
+    },
+    {
+        "xml_id": "str_curio_altar_of_light_holy_water_effect",
+        "eng_version": "You have curried favor from the gods!",
+        "ru_version": "Вы снискали милость богов!",
+        "category_id": 1,
+        "bel_version": "Вы заслужылі ласку ў багоў!"
+    },
+    {
+        "xml_id": "str_curio_title_stack_of_books",
+        "eng_version": "Stack of Books",
+        "ru_version": "Стопка книг",
+        "category_id": 1,
+        "bel_version": "Стос кніг"
+    },
+    {
+        "xml_id": "str_curio_content_stack_of_books",
+        "eng_version": "A stack of literary treasures in an unlikely location.",
+        "ru_version": "Сокровища литературы в странном месте.",
+        "category_id": 1,
+        "bel_version": "Стос літаратурных скарбаў у неверагодным месцы."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_stack_of_books",
+        "eng_version": "Flip through the volumes...",
+        "ru_version": "Полистать книги...",
+        "category_id": 1,
+        "bel_version": "Гартайце тамы..."
+    },
+    {
+        "xml_id": "str_curio_stack_of_books_nothing",
+        "eng_version": "The volumes are desiccated and unremarkable.",
+        "ru_version": "Эти книги иссохлись и ничего примечательного в них нет.",
+        "category_id": 1,
+        "bel_version": "Тамы высахлыя і нічым не характэрныя."
+    },
+    {
+        "xml_id": "str_curio_stack_of_books_quirk",
+        "eng_version": "Reading a few pages has a lasting effect on the hero...",
+        "ru_version": "Прочтение нескольких страниц оказывает длительное воздействие на героя...",
+        "category_id": 1,
+        "bel_version": "Прачытанне некалькіх старонак надоўга ўздзейнічае на героя..."
+    },
+    {
+        "xml_id": "str_curio_stack_of_books_effect",
+        "eng_version": "The hero reads a most unsettling passage.",
+        "ru_version": "Герой читает очень неприятный отрывок.",
+        "category_id": 1,
+        "bel_version": "Герой чытае самы трывожны ўрывак."
+    },
+    {
+        "xml_id": "str_curio_stack_of_books_torch_effect",
+        "eng_version": "The hero destroyed knowledge, and now must bear the guilt of it!",
+        "ru_version": "Герой уничтожил знание и должен теперь жить с этой виной!",
+        "category_id": 1,
+        "bel_version": "Герой знішчыў веды, і цяпер павінен несці віну за гэта!"
+    },
+    {
+        "xml_id": "str_curio_stack_of_books_loot",
+        "eng_version": "An old journal entry!",
+        "ru_version": "Записка из старого дневника!",
+        "category_id": 1,
+        "bel_version": "Стары запіс у журнале!"
+    },
+    {
+        "xml_id": "str_curio_title_iron_maiden",
+        "eng_version": "Iron Maiden",
+        "ru_version": "Железная дева",
+        "category_id": 1,
+        "bel_version": "Iron Maiden"
+    },
+    {
+        "xml_id": "str_curio_content_iron_maiden",
+        "eng_version": "A rusty iron maiden stands against the wall, clasped shut.",
+        "ru_version": "У стены стоит ржавая закрытая \"железная дева\".",
+        "category_id": 1,
+        "bel_version": "Іржавая жалезная дзева стаіць каля сцяны, зачыненая."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_iron_maiden",
+        "eng_version": "Open the torture device and search it...",
+        "ru_version": "Открыть орудие пытки и заглянуть в него...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце прыладу катаванняў і абшукайце яе..."
+    },
+    {
+        "xml_id": "str_curio_iron_maiden_nothing",
+        "eng_version": "The maiden squeaks open to reveal only foul smelling air.",
+        "ru_version": "Дева со скрипом открывается, но внутри лишь спёртый воздух.",
+        "category_id": 1,
+        "bel_version": "Дзяўчына з рыпаннем адчыняецца, каб паказаць толькі непрыемны пах паветра."
+    },
+    {
+        "xml_id": "str_curio_iron_maiden_loot",
+        "eng_version": "Stashed loot!",
+        "ru_version": "Клад!",
+        "category_id": 1,
+        "bel_version": "Схаваны здабычу!"
+    },
+    {
+        "xml_id": "str_curio_iron_maiden_quirk",
+        "eng_version": "The maiden swings shut on its own, trapping the hero!",
+        "ru_version": "Железная дева сама собой захлопывается с героем внутри!",
+        "category_id": 1,
+        "bel_version": "Дзяўчына сама зачыняецца, ловячы героя ў пастку!"
+    },
+    {
+        "xml_id": "str_curio_iron_maiden_disease",
+        "eng_version": "The hero inhales foul vapours.",
+        "ru_version": "Герой вдыхает зловонные испарения.",
+        "category_id": 1,
+        "bel_version": "Герой удыхае смуродныя пары."
+    },
+    {
+        "xml_id": "str_curio_iron_maiden_medicinal_herbs_loot",
+        "eng_version": "The herbs cleanse the maiden, allowing a thorough search!",
+        "ru_version": "Травы очищают \"деву\", позволяя как следует обыскать её!",
+        "category_id": 1,
+        "bel_version": "Травы ачышчаюць дзеву, дазваляючы дбайны пошук!"
+    },
+    {
+        "xml_id": "str_curio_title_pile_of_bones",
+        "eng_version": "Pile of Bones",
+        "ru_version": "Куча костей",
+        "category_id": 1,
+        "bel_version": "Куча костак"
+    },
+    {
+        "xml_id": "str_curio_content_pile_of_bones",
+        "eng_version": "All that's left of a previous adventurer, perhaps.",
+        "ru_version": "Возможно, это всё, что осталось от прошлого искателя приключений.",
+        "category_id": 1,
+        "bel_version": "Магчыма, усё, што засталося ад папярэдняга авантурыста."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_pile_of_bones",
+        "eng_version": "Rummage through the bones...",
+        "ru_version": "Покопаться в костях...",
+        "category_id": 1,
+        "bel_version": "Перабірайце косці..."
+    },
+    {
+        "xml_id": "str_curio_pile_of_bones_nothing",
+        "eng_version": "There is nothing of value in the remains.",
+        "ru_version": "Среди останков нет ничего ценного.",
+        "category_id": 1,
+        "bel_version": "У парэштках няма нічога каштоўнага."
+    },
+    {
+        "xml_id": "str_curio_pile_of_bones_loot",
+        "eng_version": "Loot!",
+        "ru_version": "Добыча!",
+        "category_id": 1,
+        "bel_version": "Бабло!"
+    },
+    {
+        "xml_id": "str_curio_pile_of_bones_quirk",
+        "eng_version": "The hero becomes strangely fascinated with the remains...",
+        "ru_version": "Герой проявляет странный интерес к останкам...",
+        "category_id": 1,
+        "bel_version": "Герой дзіўным чынам захапляецца астанкамі..."
+    },
+    {
+        "xml_id": "str_curio_pile_of_bones_disease",
+        "eng_version": "The hero is infected by the rotten pile.",
+        "ru_version": "Гнилая куча заразила героя.",
+        "category_id": 1,
+        "bel_version": "Герой заражаны гнілой кучай."
+    },
+    {
+        "xml_id": "str_curio_pile_of_bones_holy_water_loot",
+        "eng_version": "The pile is purified, allowing a thorough search!",
+        "ru_version": "Куча очищена, и теперь её можно осмотреть!",
+        "category_id": 1,
+        "bel_version": "Куча ачышчана, што дазваляе дбайны пошук!"
+    },
+    {
+        "xml_id": "str_curio_discarded_pack_nothing",
+        "eng_version": "The pack has already been looted.",
+        "ru_version": "Отсюда уже всё забрали.",
+        "category_id": 1,
+        "bel_version": "Зграя ўжо разрабавана."
+    },
+    {
+        "xml_id": "str_curio_discarded_pack_loot",
+        "eng_version": "The pack contains loot!",
+        "ru_version": "В мешке добыча!",
+        "category_id": 1,
+        "bel_version": "Пакет змяшчае здабычу!"
+    },
+    {
+        "xml_id": "str_curio_discarded_pack_scout",
+        "eng_version": "The pack has a map inside!",
+        "ru_version": "В мешке карта!",
+        "category_id": 1,
+        "bel_version": "Унутры пакета мапа!"
+    },
+    {
+        "xml_id": "str_curio_sconce_nothing",
+        "eng_version": "The torch is expired.",
+        "ru_version": "Факел сгорел.",
+        "category_id": 1,
+        "bel_version": "Факел пратэрмінаваны."
+    },
+    {
+        "xml_id": "str_curio_sconce_loot",
+        "eng_version": "You salvage the unburned torch.",
+        "ru_version": "Вы нашли свежий факел.",
+        "category_id": 1,
+        "bel_version": "Вы ратуеце нязгарэлы факел."
+    },
+    {
+        "xml_id": "str_curio_crate_nothing",
+        "eng_version": "The crate is empty.",
+        "ru_version": "Ящик пуст.",
+        "category_id": 1,
+        "bel_version": "Скрыня пустая."
+    },
+    {
+        "xml_id": "str_curio_crate_loot",
+        "eng_version": "The crate contains stashed heirlooms!",
+        "ru_version": "В ящике фамильные ценности!",
+        "category_id": 1,
+        "bel_version": "Скрыня змяшчае схаваныя рэліквіі!"
+    },
+    {
+        "xml_id": "str_curio_sack_nothing",
+        "eng_version": "The sack is empty.",
+        "ru_version": "Мешок пуст.",
+        "category_id": 1,
+        "bel_version": "Мяшок пусты."
+    },
+    {
+        "xml_id": "str_curio_sack_loot",
+        "eng_version": "The sack's contents are yours...",
+        "ru_version": "Содержимое мешка ваше...",
+        "category_id": 1,
+        "bel_version": "Змесціва мяшка тваё..."
+    },
+    {
+        "xml_id": "str_curio_sack_scout",
+        "eng_version": "The sack contains a hastily scrawled map!",
+        "ru_version": "В мешке спешно нарисованная карта!",
+        "category_id": 1,
+        "bel_version": "У мяшку наспех надрапаная карта!"
+    },
+    {
+        "xml_id": "curio_tooltip_pass",
+        "eng_version": "Ignore",
+        "ru_version": "Не нужно",
+        "category_id": 1,
+        "bel_version": "Ігнараваць"
+    },
+    {
+        "xml_id": "str_curio_item_had_no_effect",
+        "eng_version": "That item had no effect.",
+        "ru_version": "Предмет не возымел эффекта.",
+        "category_id": 1,
+        "bel_version": "Гэты пункт не меў ніякага эфекту."
+    },
+    {
+        "xml_id": "curio_tooltip_item_slot",
+        "eng_version": "[OPTIONAL] Drag an item here to use it on this object.",
+        "ru_version": "[НЕОБЯЗАТЕЛЬНО] Перетащите сюда предмет, чтобы применить его.",
+        "category_id": 1,
+        "bel_version": "[НЕАБАВЯЗКОВА] Перацягніце сюды прадмет, каб выкарыстоўваць яго на гэтым аб'екце."
+    },
+    {
+        "xml_id": "curio_tooltip_item_slot_gather_curio",
+        "eng_version": "[This is quest curio. No item is necessary to open it.]",
+        "ru_version": "[Эта диковинка относится к заданию. Чтобы открыть её, ничего не требуется.]",
+        "category_id": 1,
+        "bel_version": "[Гэта цікавы квэст. Ніякія элементы не патрэбныя, каб адкрыць яго.]"
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_quest_gather",
+        "eng_version": "Open it...",
+        "ru_version": "Открыть...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце..."
+    },
+    {
+        "xml_id": "str_curio_title_reliquary",
+        "eng_version": "Reliquary",
+        "ru_version": "Реликварий",
+        "category_id": 1,
+        "bel_version": "Рэлікварый"
+    },
+    {
+        "xml_id": "str_curio_content_reliquary",
+        "eng_version": "An ancient looking dusty idol of the Light.",
+        "ru_version": "Старинный пыльный идол Света.",
+        "category_id": 1,
+        "bel_version": "Старажытны на выгляд запылены ідал Святла."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_reliquary",
+        "eng_version": "Open the old reliquary...",
+        "ru_version": "Открыть старый реликварий...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце стары рэліквіярый..."
+    },
+    {
+        "xml_id": "str_curio_reliquary_loot",
+        "eng_version": "A Holy Relic - the object of the search!",
+        "ru_version": "Предмет поисков – святая реликвия!",
+        "category_id": 1,
+        "bel_version": "Святая рэліквія - аб'ект пошуку!"
+    },
+    {
+        "xml_id": "curio_tooltip_item_slot_reliquary",
+        "eng_version": "Blah blah",
+        "ru_version": "Тра-ля-ля",
+        "category_id": 1,
+        "bel_version": "Бла-бла"
+    },
+    {
+        "xml_id": "str_curio_title_chirurgeons_satchel",
+        "eng_version": "Chirurgeon's Satchel",
+        "ru_version": "Ранец хирурга",
+        "category_id": 1,
+        "bel_version": "Сумка хірурга"
+    },
+    {
+        "xml_id": "str_curio_content_chirurgeons_satchel",
+        "eng_version": "A doctor's toolkit.",
+        "ru_version": "Врачебные инструменты.",
+        "category_id": 1,
+        "bel_version": "Інструментар доктара."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_chirurgeons_satchel",
+        "eng_version": "Open the satchel...",
+        "ru_version": "Открыть ранец...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце ранец..."
+    },
+    {
+        "xml_id": "str_curio_chirurgeons_satchel_loot",
+        "eng_version": "A vial of powerful medicines - the object of your search!",
+        "ru_version": "Предмет поисков – склянка с сильнодействующим лекарством!",
+        "category_id": 1,
+        "bel_version": "Флакон з моцнадзейнымі лекамі - аб'ект вашых пошукаў!"
+    },
+    {
+        "xml_id": "str_curio_title_foodstuff_crate",
+        "eng_version": "Foodstuff Crate",
+        "ru_version": "Ящик провизии",
+        "category_id": 1,
+        "bel_version": "Скрыня з харчовымі прадуктамі"
+    },
+    {
+        "xml_id": "str_curio_content_foodstuff_crate",
+        "eng_version": "The crate still bears the faded sigil of your family.",
+        "ru_version": "На ящике виден ваш полустёртый фамильный герб.",
+        "category_id": 1,
+        "bel_version": "На скрыні па-ранейшаму красуецца выцвілы сімвал вашай сям'і."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_foodstuff_crate",
+        "eng_version": "Pry open the crate...",
+        "ru_version": "Открыть ящик...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце скрыню..."
+    },
+    {
+        "xml_id": "str_curio_foodstuff_crate_loot",
+        "eng_version": "A sack of uneaten grain - the object of your search!",
+        "ru_version": "Предмет поисков – мешок зерна!",
+        "category_id": 1,
+        "bel_version": "Мяшок недаедзенага збожжа - аб'ект вашых пошукаў!"
+    },
+    {
+        "xml_id": "str_curio_title_shipment_crates",
+        "eng_version": "Ancestor's Relic",
+        "ru_version": "Фамильная реликвия",
+        "category_id": 1,
+        "bel_version": "Рэліквія продкаў"
+    },
+    {
+        "xml_id": "str_curio_content_shipment_crates",
+        "eng_version": "A massive crate containing some terrible relic from a forgotten corner of the world.",
+        "ru_version": "Массивный ящик с какой-то ужасной реликвией из дальнего уголка мира.",
+        "category_id": 1,
+        "bel_version": "Велізарная скрыня, якая змяшчае нейкую жудасную рэліквію з забытага кутка свету."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_shipment_crates",
+        "eng_version": "Search the crate with your family sigil...",
+        "ru_version": "Обыскать ящик с фамильным гербом...",
+        "category_id": 1,
+        "bel_version": "Абшукайце скрыню з сімвалам вашай сям'і..."
+    },
+    {
+        "xml_id": "str_curio_shipment_crates_loot",
+        "eng_version": "The object of your search!",
+        "ru_version": "То, что вы ищете!",
+        "category_id": 1,
+        "bel_version": "Аб'ект вашых пошукаў!"
+    },
+    {
+        "xml_id": "str_curio_title_corrupted_altar",
+        "eng_version": "Corrupted Altar",
+        "ru_version": "Осквернённый алтарь",
+        "category_id": 1,
+        "bel_version": "Сапсаваны алтар"
+    },
+    {
+        "xml_id": "str_curio_content_corrupted_altar",
+        "eng_version": "A defaced, blasphemous altar. [QUEST]",
+        "ru_version": "Осквернённый нечестивый алтарь. [ЗАДАНИЕ]",
+        "category_id": 1,
+        "bel_version": "Знявечаны, блюзнерскі алтар. [КВЭСТ]"
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_corrupted_altar_with_quest_item",
+        "eng_version": "This requires use of a QUEST ITEM from inventory.",
+        "ru_version": "Для этого нужен ПРЕДМЕТ ДЛЯ ЗАДАНИЯ из инвентаря.",
+        "category_id": 1,
+        "bel_version": "Гэта патрабуе выкарыстання QUEST ПРАДМЕТА з інвентара."
+    },
+    {
+        "xml_id": "str_curio_title_infected_corpse",
+        "eng_version": "Infected Corpse",
+        "ru_version": "Заражённый труп",
+        "category_id": 1,
+        "bel_version": "Заражаны труп"
+    },
+    {
+        "xml_id": "str_curio_content_infected_corpse",
+        "eng_version": "A blighted, fattened corpse. [QUEST]",
+        "ru_version": "Заразный распухший труп. [ЗАДАНИЕ]",
+        "category_id": 1,
+        "bel_version": "Змарнелы, адкормлены труп. [КВЭСТ]"
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_infected_corpse_with_quest_item",
+        "eng_version": "This requires use of a QUEST ITEM from inventory.",
+        "ru_version": "Для этого нужен ПРЕДМЕТ ДЛЯ ЗАДАНИЯ из инвентаря.",
+        "category_id": 1,
+        "bel_version": "Гэта патрабуе выкарыстання QUEST ПРАДМЕТА з інвентара."
+    },
+    {
+        "xml_id": "str_curio_title_animalistic_shrine",
+        "eng_version": "Animalistic Shrine",
+        "ru_version": "Животное святилище",
+        "category_id": 1,
+        "bel_version": "Анімалістычны храм"
+    },
+    {
+        "xml_id": "str_curio_content_animalistic_shrine",
+        "eng_version": "The object of beast-man worship. [QUEST]",
+        "ru_version": "Предмет поклонения зверолюдей. [ЗАДАНИЕ]",
+        "category_id": 1,
+        "bel_version": "Аб'ект пакланення жывёлам. [КВЭСТ]"
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_animalistic_shrine_with_quest_item",
+        "eng_version": "This requires use of a QUEST ITEM from inventory.",
+        "ru_version": "Для этого нужен ПРЕДМЕТ ДЛЯ ЗАДАНИЯ из инвентаря.",
+        "category_id": 1,
+        "bel_version": "Гэта патрабуе выкарыстання QUEST ПРАДМЕТА з інвентара."
+    },
+    {
+        "xml_id": "str_curio_title_protective_ward",
+        "eng_version": "Protective Ward",
+        "ru_version": "Оберег",
+        "category_id": 1,
+        "bel_version": "Ахоўная палата"
+    },
+    {
+        "xml_id": "str_curio_content_protective_ward",
+        "eng_version": "A stanchion against spreading corruption. [QUEST]",
+        "ru_version": "Защита от распространяющегося зла. [ЗАДАНИЕ]",
+        "category_id": 1,
+        "bel_version": "Прэпарат супраць распаўсюджвання карупцыі. [КВЭСТ]"
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_protective_ward_with_quest_item",
+        "eng_version": "This requires use of a QUEST ITEM from inventory.",
+        "ru_version": "Для этого нужен ПРЕДМЕТ ДЛЯ ЗАДАНИЯ из инвентаря.",
+        "category_id": 1,
+        "bel_version": "Гэта патрабуе выкарыстання QUEST ПРАДМЕТА з інвентара."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_quest_activate_with_with_quest_item",
+        "eng_version": "This requires use of a QUEST ITEM from inventory.",
+        "ru_version": "Для этого нужен ПРЕДМЕТ ДЛЯ ЗАДАНИЯ из инвентаря.",
+        "category_id": 1,
+        "bel_version": "Гэта патрабуе выкарыстання QUEST ПРАДМЕТА з інвентара."
+    },
+    {
+        "xml_id": "curio_tooltip_quest_item_slot",
+        "eng_version": "Drag QUEST ITEM from inventory here.",
+        "ru_version": "Перетащите сюда ПРЕДМЕТ ДЛЯ ЗАДАНИЯ из инвентаря.",
+        "category_id": 1,
+        "bel_version": "Перацягнуць QUEST ITEM з інвентара сюды."
+    },
+    {
+        "xml_id": "str_curio_title_suit_of_armor",
+        "eng_version": "Suit of Armor",
+        "ru_version": "Полный доспех",
+        "category_id": 1,
+        "bel_version": "Даспехі"
+    },
+    {
+        "xml_id": "str_curio_content_suit_of_armor",
+        "eng_version": "An antique suit of armor stands amidst the ruins.",
+        "ru_version": "Посреди руин стоит антикварный набор доспехов.",
+        "category_id": 1,
+        "bel_version": "Антычны даспех стаіць сярод руін."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_suit_of_armor",
+        "eng_version": "Investigate the armor...",
+        "ru_version": "Осмотреть доспехи...",
+        "category_id": 1,
+        "bel_version": "Даследаваць браню..."
+    },
+    {
+        "xml_id": "str_curio_suit_of_armor_nothing",
+        "eng_version": "The suit contains nothing but stale air.",
+        "ru_version": "В доспехах лишь спёртый воздух.",
+        "category_id": 1,
+        "bel_version": "У касцюме няма нічога, акрамя затхлага паветра."
+    },
+    {
+        "xml_id": "str_curio_suit_of_armor_effect",
+        "eng_version": "The armor protects the hero with a knightly aura.",
+        "ru_version": "Доспех защищает героя рыцарской аурой.",
+        "category_id": 1,
+        "bel_version": "Даспехі абараняюць героя рыцарскай аўрай."
+    },
+    {
+        "xml_id": "str_curio_suit_of_armor_quirk",
+        "eng_version": "The suit reveals great insight into this world.",
+        "ru_version": "Доспех поведал многое об этом мире.",
+        "category_id": 1,
+        "bel_version": "Касцюм паказвае вялікае разуменне гэтага свету."
+    },
+    {
+        "xml_id": "str_curio_title_dinner_cart",
+        "eng_version": "Dinner Cart",
+        "ru_version": "Тележка с костями",
+        "category_id": 1,
+        "bel_version": "Абедзенны вазок"
+    },
+    {
+        "xml_id": "str_curio_content_dinner_cart",
+        "eng_version": "A cart of human remains. It looks much like a feeding trough. Disgusting.",
+        "ru_version": "Тележка с человеческими останками. Похожа на корыто для кормления зверей. Что за мерзость...",
+        "category_id": 1,
+        "bel_version": "Воз чалавечых парэшткаў. Ён вельмі нагадвае кармушку. Агідна."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_dinner_cart",
+        "eng_version": "Rummage through the remains...",
+        "ru_version": "Покопаться в останках...",
+        "category_id": 1,
+        "bel_version": "Корпацца ў рэштках..."
+    },
+    {
+        "xml_id": "str_curio_dinner_cart_nothing",
+        "eng_version": "Nothing but rotting bodies.",
+        "ru_version": "Одни гниющие тела.",
+        "category_id": 1,
+        "bel_version": "Нічога, акрамя гнілых целаў."
+    },
+    {
+        "xml_id": "str_curio_dinner_cart_loot",
+        "eng_version": "Some of this meat looks edible...",
+        "ru_version": "Некоторое мясо съедобно на вид...",
+        "category_id": 1,
+        "bel_version": "Частка гэтага мяса выглядае ядомай..."
+    },
+    {
+        "xml_id": "str_curio_dinner_cart_effect",
+        "eng_version": "The meat makes the hero violently ill.",
+        "ru_version": "От мяса герой сильно заболевает.",
+        "category_id": 1,
+        "bel_version": "Ад мяса герой моцна хварэе."
+    },
+    {
+        "xml_id": "str_curio_dinner_cart_disease",
+        "eng_version": "The swine are not cleanly folk...",
+        "ru_version": "Свинолюди чистоплотностью не отличаются...",
+        "category_id": 1,
+        "bel_version": "Свінні не чыста народныя..."
+    },
+    {
+        "xml_id": "str_curio_dinner_cart_medicinal_herbs_loot",
+        "eng_version": "The herbs cleanse the meat, making some of it edible.",
+        "ru_version": "Травы очищают мясо, делая часть его съедобной.",
+        "category_id": 1,
+        "bel_version": "Травы чысцяць мяса, робячы яго частка ядомай."
+    },
+    {
+        "xml_id": "str_curio_title_decorative_urn",
+        "eng_version": "Decorative Urn",
+        "ru_version": "Декоративная урна",
+        "category_id": 1,
+        "bel_version": "Дэкаратыўная урна"
+    },
+    {
+        "xml_id": "str_curio_content_decorative_urn",
+        "eng_version": "An urn holds ashes of the departed.",
+        "ru_version": "Внутри находится прах покойника.",
+        "category_id": 1,
+        "bel_version": "Урна захоўвае прах памерлых."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_decorative_urn",
+        "eng_version": "Check inside the urn...",
+        "ru_version": "Заглянуть в урну...",
+        "category_id": 1,
+        "bel_version": "Праверце ўнутры урны..."
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_nothing",
+        "eng_version": "The urn has nothing but ashes inside.",
+        "ru_version": "Внутри только пепел.",
+        "category_id": 1,
+        "bel_version": "У урне няма нічога, акрамя попелу."
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_loot",
+        "eng_version": "Sentimental gifts are hidden inside.",
+        "ru_version": "Внутри спрятаны сентиментальные мелочи.",
+        "category_id": 1,
+        "bel_version": "Унутры схаваны сентыментальныя падарункі."
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_quirk",
+        "eng_version": "The ashes cause the hero to cough violently.",
+        "ru_version": "От пепла герой начинает сильно кашлять.",
+        "category_id": 1,
+        "bel_version": "Попел выклікае ў героя моцны кашаль."
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_effect",
+        "eng_version": "The hero becomes infected by the ashes.",
+        "ru_version": "Пепел заражает героя.",
+        "category_id": 1,
+        "bel_version": "Герой заражаецца попелам."
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_disease",
+        "eng_version": "The hero contracts a deadly disease.",
+        "ru_version": "Герой заражается смертельной болезнью.",
+        "category_id": 1,
+        "bel_version": "Герой заражаецца смяротнай хваробай."
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_shovel_quirk",
+        "eng_version": "What sort of person defiles the dead?",
+        "ru_version": "Кому придёт в голову осквернять тела покойников?",
+        "category_id": 1,
+        "bel_version": "Што гэта за чалавек, які апаганьвае мёртвых?"
+    },
+    {
+        "xml_id": "str_curio_decorative_urn_holy_water_loot",
+        "eng_version": "The consecrated water dissolves the ashes. Valuables remain!",
+        "ru_version": "Освящённая вода растворяет пепел и оставляет ценности!",
+        "category_id": 1,
+        "bel_version": "Асвечаная вада растварае попел. Каштоўнасці застаюцца!"
+    },
+    {
+        "xml_id": "str_curio_title_locked_display_cabinet",
+        "eng_version": "Locked Display Cabinet",
+        "ru_version": "Запертая витрина",
+        "category_id": 1,
+        "bel_version": "Замкнёная вітрына"
+    },
+    {
+        "xml_id": "str_curio_content_locked_display_cabinet",
+        "eng_version": "There could be valuables left inside, but this cabinet is locked.",
+        "ru_version": "Внутри могут быть ценности, но витрина заперта.",
+        "category_id": 1,
+        "bel_version": "Унутры могуць быць каштоўныя рэчы, але гэтая шафа зачынена."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_locked_display_cabinet",
+        "eng_version": "Try to open the cabinet...",
+        "ru_version": "Попытаться открыть витрину...",
+        "category_id": 1,
+        "bel_version": "Паспрабуйце адчыніць шафу..."
+    },
+    {
+        "xml_id": "str_curio_locked_display_cabinet_effect",
+        "eng_version": "The lock mechanism is trapped!",
+        "ru_version": "Замок с ловушкой!",
+        "category_id": 1,
+        "bel_version": "Механізм замка заціснуты!"
+    },
+    {
+        "xml_id": "str_curio_locked_display_cabinet_skeleton_key_loot",
+        "eng_version": "Treasures are stashed in the cabinet!",
+        "ru_version": "В витрине сокровища!",
+        "category_id": 1,
+        "bel_version": "Скарбы схаваны ў шафе!"
+    },
+    {
+        "xml_id": "str_curio_locked_display_cabinet_shovel_loot",
+        "eng_version": "Smashed the cabinet open!",
+        "ru_version": "Витрина сломана!",
+        "category_id": 1,
+        "bel_version": "Разбіў шафу!"
+    },
+    {
+        "xml_id": "str_curio_title_confession_booth",
+        "eng_version": "Confession Booth",
+        "ru_version": "Исповедальня",
+        "category_id": 1,
+        "bel_version": "Споведзь"
+    },
+    {
+        "xml_id": "str_curio_content_confession_booth",
+        "eng_version": "A forsaken confession booth. It hasn't been used in years.",
+        "ru_version": "Позабытая исповедальня, много лет не использовалась.",
+        "category_id": 1,
+        "bel_version": "Пакінутая споведзь. Ён не выкарыстоўваўся гадамі."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_confession_booth",
+        "eng_version": "Go inside to confess the hero's sins.",
+        "ru_version": "Войти и исповедаться в грехах.",
+        "category_id": 1,
+        "bel_version": "Зайдзіце ўнутр, каб прызнацца ў грахах героя."
+    },
+    {
+        "xml_id": "str_curio_confession_booth_loot",
+        "eng_version": "The booth contains hidden treasure...",
+        "ru_version": "В исповедальне спрятано сокровище...",
+        "category_id": 1,
+        "bel_version": "У будцы схаваны скарб..."
+    },
+    {
+        "xml_id": "str_curio_confession_booth_effect",
+        "eng_version": "The hero's history of sin is too much to bear.",
+        "ru_version": "Никто не выдержит перечисления всех грехов героя.",
+        "category_id": 1,
+        "bel_version": "Гісторыя граху героя занадта цяжкая."
+    },
+    {
+        "xml_id": "str_curio_confession_booth_purge",
+        "eng_version": "The hero is absolved of a sin.",
+        "ru_version": "Герою отпустили все грехи.",
+        "category_id": 1,
+        "bel_version": "Герой вызваляецца ад граху."
+    },
+    {
+        "xml_id": "str_curio_confession_booth_holy_water_effect",
+        "eng_version": "The ritual relieves the hero.",
+        "ru_version": "Обряд придаёт герою сил.",
+        "category_id": 1,
+        "bel_version": "Рытуал вызваляе героя."
+    },
+    {
+        "xml_id": "str_curio_title_holy_fountain",
+        "eng_version": "Holy Fountain",
+        "ru_version": "Священный фонтан",
+        "category_id": 1,
+        "bel_version": "Святая Крыніца"
+    },
+    {
+        "xml_id": "str_curio_content_holy_fountain",
+        "eng_version": "An ornate fountain of holy purport.",
+        "ru_version": "Узорчатый священный фонтан.",
+        "category_id": 1,
+        "bel_version": "Упрыгожаны фантан святога прызначэння."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_holy_fountain",
+        "eng_version": "Investigate the fountain...",
+        "ru_version": "Осмотреть фонтан...",
+        "category_id": 1,
+        "bel_version": "Даследаваць фантан..."
+    },
+    {
+        "xml_id": "str_curio_holy_fountain_loot",
+        "eng_version": "Propitiations are found at the bottom of the fountain.",
+        "ru_version": "На дне фонтана нашлись пожертвования.",
+        "category_id": 1,
+        "bel_version": "На дне фантана знаходзяцца ўміласціўленні."
+    },
+    {
+        "xml_id": "str_curio_holy_fountain_effect",
+        "eng_version": "The water reinvigorates the hero.",
+        "ru_version": "Вода придаёт герою сил.",
+        "category_id": 1,
+        "bel_version": "Вада ажыўляе героя."
+    },
+    {
+        "xml_id": "str_curio_holy_fountain_holy_water_effect",
+        "eng_version": "Divine benefit!",
+        "ru_version": "Божественная милость!",
+        "category_id": 1,
+        "bel_version": "Боская карысць!"
+    },
+    {
+        "xml_id": "str_curio_title_bookshelf",
+        "eng_version": "Bookshelf",
+        "ru_version": "Книжная полка",
+        "category_id": 1,
+        "bel_version": "Кніжная паліца"
+    },
+    {
+        "xml_id": "str_curio_content_bookshelf",
+        "eng_version": "A bookshelf full of old, leather-bound books.",
+        "ru_version": "Полка со старыми книгами в кожаных переплётах.",
+        "category_id": 1,
+        "bel_version": "Кніжная паліца, поўная старых кніг у скураных пераплётах."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_bookshelf",
+        "eng_version": "Skim through the volumes...",
+        "ru_version": "Осмотреть книги...",
+        "category_id": 1,
+        "bel_version": "Прагартайце тамы..."
+    },
+    {
+        "xml_id": "str_curio_bookshelf_nothing",
+        "eng_version": "The volumes are dull and uninteresting.",
+        "ru_version": "Книги скучные и бесполезные.",
+        "category_id": 1,
+        "bel_version": "Тамы сумныя і нецікавыя."
+    },
+    {
+        "xml_id": "str_curio_bookshelf_quirk",
+        "eng_version": "The knowledge within forever changes the hero.",
+        "ru_version": "Сокрытые в книгах знания навсегда меняют героя.",
+        "category_id": 1,
+        "bel_version": "Веды ўнутры назаўжды змяняюць героя."
+    },
+    {
+        "xml_id": "str_curio_bookshelf_effect",
+        "eng_version": "The passages are unsettling.",
+        "ru_version": "Тексты весьма неприятные.",
+        "category_id": 1,
+        "bel_version": "Пераходы трывожныя."
+    },
+    {
+        "xml_id": "str_curio_bookshelf_scout",
+        "eng_version": "A map is found tucked into the volumes.",
+        "ru_version": "В книги была засунута карта.",
+        "category_id": 1,
+        "bel_version": "У тамах знойдзена карта."
+    },
+    {
+        "xml_id": "str_curio_bookshelf_loot",
+        "eng_version": "An old journal entry!",
+        "ru_version": "Записка из старого дневника!",
+        "category_id": 1,
+        "bel_version": "Стары запіс у журнале!"
+    },
+    {
+        "xml_id": "str_curio_title_alchemy_table",
+        "eng_version": "Alchemy Table",
+        "ru_version": "Алхимический столик",
+        "category_id": 1,
+        "bel_version": "Табліца алхіміі"
+    },
+    {
+        "xml_id": "str_curio_content_alchemy_table",
+        "eng_version": "A partially intact set of experimental equipment.",
+        "ru_version": "Почти не повреждённое оборудование для опытов.",
+        "category_id": 1,
+        "bel_version": "Часткова цэлы камплект эксперыментальнага абсталявання."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_alchemy_table",
+        "eng_version": "Perform some experiments...",
+        "ru_version": "Провести опыты...",
+        "category_id": 1,
+        "bel_version": "Правядзіце некалькі эксперыментаў..."
+    },
+    {
+        "xml_id": "str_curio_alchemy_table_nothing",
+        "eng_version": "The experiments do not yield any findings.",
+        "ru_version": "Опыты ничем не окончились.",
+        "category_id": 1,
+        "bel_version": "Эксперыменты не даюць ніякіх высноў."
+    },
+    {
+        "xml_id": "str_curio_alchemy_table_loot",
+        "eng_version": "New metals are synthesized!",
+        "ru_version": "Синтезированы новые металлы!",
+        "category_id": 1,
+        "bel_version": "Новыя металы сінтэзаваны!"
+    },
+    {
+        "xml_id": "str_curio_alchemy_table_effect",
+        "eng_version": "An accident occurs during the experiment.",
+        "ru_version": "Во время опыта произошёл несчастный случай.",
+        "category_id": 1,
+        "bel_version": "Падчас эксперыменту адбываецца няшчасны выпадак."
+    },
+    {
+        "xml_id": "str_curio_alchemy_table_medicinal_herbs_loot",
+        "eng_version": "The herbs disinfect the station, allowing for successful research.",
+        "ru_version": "Травы очищают оборудование, что позволяет успешно провести исследование.",
+        "category_id": 1,
+        "bel_version": "Травы дэзінфікуюць станцыю, дазваляючы паспяхова праводзіць даследаванні."
+    },
+    {
+        "xml_id": "str_curio_alchemy_table_torch_effect",
+        "eng_version": "The torch oil helps create a powerful blazing mixture!",
+        "ru_version": "Из факельного масла вышла замечательная горючая смесь!",
+        "category_id": 1,
+        "bel_version": "Алей факела дапамагае стварыць магутную палымяную сумесь!"
+    },
+    {
+        "xml_id": "str_curio_title_knife_rack",
+        "eng_version": "Rack of Blades",
+        "ru_version": "Стойка с ножами",
+        "category_id": 1,
+        "bel_version": "Стойка клінкоў"
+    },
+    {
+        "xml_id": "str_curio_content_knife_rack",
+        "eng_version": "A rack of dulled, rusty knives. They are covered in fresh blood.",
+        "ru_version": "Стойка с тупыми ржавыми ножами. Все покрыты свежей кровью.",
+        "category_id": 1,
+        "bel_version": "Стэлаж затупленых іржавых нажоў. Яны ў свежай крыві."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_knife_rack",
+        "eng_version": "Inspect the rack...",
+        "ru_version": "Осмотреть стойку...",
+        "category_id": 1,
+        "bel_version": "Агледзіце стэлаж..."
+    },
+    {
+        "xml_id": "str_curio_knife_rack_nothing",
+        "eng_version": "Nothing useful here.",
+        "ru_version": "Ничего полезного.",
+        "category_id": 1,
+        "bel_version": "Тут нічога карыснага."
+    },
+    {
+        "xml_id": "str_curio_knife_rack_loot",
+        "eng_version": "Extra supplies are found amongst the knives.",
+        "ru_version": "Среди ножей нашлось немного припасов.",
+        "category_id": 1,
+        "bel_version": "Дадатковыя прыпасы знаходзяцца сярод нажоў."
+    },
+    {
+        "xml_id": "str_curio_knife_rack_effect",
+        "eng_version": "The hero receives a nasty gash.",
+        "ru_version": "Герой сильно порезался.",
+        "category_id": 1,
+        "bel_version": "Герой атрымлівае непрыемную рану."
+    },
+    {
+        "xml_id": "str_curio_knife_rack_bandage_loot",
+        "eng_version": "The bandage protects the hero's hands during the search.",
+        "ru_version": "Повязка защищает руки героя во время осмотра.",
+        "category_id": 1,
+        "bel_version": "Павязка абараняе рукі героя падчас пошукаў."
+    },
+    {
+        "xml_id": "str_curio_title_sarcophagus",
+        "eng_version": "Sarcophagus",
+        "ru_version": "Саркофаг",
+        "category_id": 1,
+        "bel_version": "Саркафаг"
+    },
+    {
+        "xml_id": "str_curio_content_sarcophagus",
+        "eng_version": "An ornate sarcophagus. It is slightly ajar.",
+        "ru_version": "Узорчатый саркофаг, чуть приоткрыт.",
+        "category_id": 1,
+        "bel_version": "Багата ўпрыгожаны саркафаг. Ён злёгку прыадчынены."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_sarcophagus",
+        "eng_version": "Open the sarcophagus...",
+        "ru_version": "Открыть саркофаг...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце саркафаг..."
+    },
+    {
+        "xml_id": "str_curio_sarcophagus_nothing",
+        "eng_version": "The sarcophagus is completely empty.",
+        "ru_version": "Саркофаг совершенно пуст.",
+        "category_id": 1,
+        "bel_version": "Саркафаг зусім пусты."
+    },
+    {
+        "xml_id": "str_curio_sarcophagus_loot",
+        "eng_version": "Hidden treasures!",
+        "ru_version": "Спрятанные сокровища!",
+        "category_id": 1,
+        "bel_version": "Схаваныя скарбы!"
+    },
+    {
+        "xml_id": "str_curio_sarcophagus_quirk",
+        "eng_version": "The hero contemplates mortality...",
+        "ru_version": "Герой задумывается о бренности бытия...",
+        "category_id": 1,
+        "bel_version": "Герой разважае пра тленнае..."
+    },
+    {
+        "xml_id": "str_curio_title_mummified_remains",
+        "eng_version": "Mummified Remains",
+        "ru_version": "Мумифицированные останки",
+        "category_id": 1,
+        "bel_version": "Муміфікаваныя астанкі"
+    },
+    {
+        "xml_id": "str_curio_content_mummified_remains",
+        "eng_version": "Ancient remains. The body looks well preserved.",
+        "ru_version": "Древние, хорошо сохранившиеся останки.",
+        "category_id": 1,
+        "bel_version": "Старажытныя рэшткі. Кузаў выглядае добра захаваным."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_mummified_remains",
+        "eng_version": "Investigate the remains...",
+        "ru_version": "Осмотреть останки...",
+        "category_id": 1,
+        "bel_version": "Даследуйце парэшткі..."
+    },
+    {
+        "xml_id": "str_curio_mummified_remains_nothing",
+        "eng_version": "There is nothing of value on the body.",
+        "ru_version": "На теле нет ничего ценного.",
+        "category_id": 1,
+        "bel_version": "На целе няма нічога каштоўнага."
+    },
+    {
+        "xml_id": "str_curio_mummified_remains_loot",
+        "eng_version": "Treasures are encased with the remains!",
+        "ru_version": "В останках спрятаны ценности!",
+        "category_id": 1,
+        "bel_version": "Скарбы заключаны ў астанках!"
+    },
+    {
+        "xml_id": "str_curio_mummified_remains_effect",
+        "eng_version": "The hero becomes diseased by the remains.",
+        "ru_version": "Герой заражается от останков.",
+        "category_id": 1,
+        "bel_version": "Ад астанкаў герой захворвае."
+    },
+    {
+        "xml_id": "str_curio_mummified_remains_bandage_loot",
+        "eng_version": "A bandage provides protection for a thorough search!",
+        "ru_version": "Повязка защищает во время тщательного осмотра!",
+        "category_id": 1,
+        "bel_version": "Павязка забяспечвае абарону для стараннага пошуку!"
+    },
+    {
+        "xml_id": "str_curio_title_sacrificial_stone",
+        "eng_version": "Sacrificial Stone",
+        "ru_version": "Жертвенный камень",
+        "category_id": 1,
+        "bel_version": "Ахвярны камень"
+    },
+    {
+        "xml_id": "str_curio_content_sacrificial_stone",
+        "eng_version": "A stone used for ancient, barbaric rituals.",
+        "ru_version": "Камень для древних варварских ритуалов.",
+        "category_id": 1,
+        "bel_version": "Камень, які выкарыстоўваўся для старажытных, варварскіх рытуалаў."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_sacrificial_stone",
+        "eng_version": "Inspect the stone...",
+        "ru_version": "Осмотреть камень...",
+        "category_id": 1,
+        "bel_version": "Агледзіце камень..."
+    },
+    {
+        "xml_id": "str_curio_sacrificial_stone_quirk",
+        "eng_version": "The stone's carvings give great insight into these Warrens...",
+        "ru_version": "Узоры на камнях смогли многое поведать о заповеднике...",
+        "category_id": 1,
+        "bel_version": "Разьба па камені дае вялікае ўяўленне аб гэтых Уорэнс..."
+    },
+    {
+        "xml_id": "str_curio_sacrificial_stone_effect",
+        "eng_version": "The hero is deeply disturbed.",
+        "ru_version": "Герою сильно не по себе.",
+        "category_id": 1,
+        "bel_version": "Герой моцна ўсхваляваны."
+    },
+    {
+        "xml_id": "str_curio_sacrificial_stone_purge",
+        "eng_version": "A sinful behaviour is vanquished.",
+        "ru_version": "Греховное поведение прекращено.",
+        "category_id": 1,
+        "bel_version": "Грахоўныя паводзіны пераможаны."
+    },
+    {
+        "xml_id": "str_curio_sacrificial_stone_provisions_purge",
+        "eng_version": "The offering is rewarded!",
+        "ru_version": "Подношение вознаграждено!",
+        "category_id": 1,
+        "bel_version": "Прапанова ўзнагароджваецца!"
+    },
+    {
+        "xml_id": "str_curio_sacrificial_stone_torch_effect",
+        "eng_version": "The gods favor the sacrifice but demand blood!",
+        "ru_version": "Богам угодна жертва, но они требуют крови!",
+        "category_id": 1,
+        "bel_version": "Багі прыхільныя да ахвяры, але патрабуюць крыві!"
+    },
+    {
+        "xml_id": "str_curio_title_skull_altar",
+        "eng_version": "Bone Altar",
+        "ru_version": "Костяной алтарь",
+        "category_id": 1,
+        "bel_version": "Касцяны алтар"
+    },
+    {
+        "xml_id": "str_curio_content_skull_altar",
+        "eng_version": "A dark altar with skulls prominently on display. A strange power can be felt in its presence.",
+        "ru_version": "Зловещий алтарь с гордо расставленными черепами. Рядом с ним ощущается странная сила.",
+        "category_id": 1,
+        "bel_version": "Цёмны алтар з чарапамі на бачным месцы. У яго прысутнасці адчуваецца дзіўная сіла."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_skull_altar",
+        "eng_version": "Investigate the altar...",
+        "ru_version": "Осмотреть алтарь...",
+        "category_id": 1,
+        "bel_version": "Даследуйце алтар..."
+    },
+    {
+        "xml_id": "str_curio_skull_altar_effect",
+        "eng_version": "The altar infuses the hero with great power.",
+        "ru_version": "Алтарь наделяет героя великой силой.",
+        "category_id": 1,
+        "bel_version": "Алтар напаўняе героя вялікай сілай."
+    },
+    {
+        "xml_id": "str_curio_title_occult_scrawlings",
+        "eng_version": "Occult Scrawlings",
+        "ru_version": "Оккультные каракули",
+        "category_id": 1,
+        "bel_version": "Акультныя каракулі"
+    },
+    {
+        "xml_id": "str_curio_content_occult_scrawlings",
+        "eng_version": "Scrawlings written on what looks like stretched and tanned human flesh...",
+        "ru_version": "Каракули на чём-то, похожем на вытянутую и дублёную человечью кожу.",
+        "category_id": 1,
+        "bel_version": "Каракулі, напісаныя на тым, што выглядае як расцягнутая і загарэлая чалавечая плоць..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_occult_scrawlings",
+        "eng_version": "Read the scrawlings...",
+        "ru_version": "Прочесть каракули...",
+        "category_id": 1,
+        "bel_version": "Чытайце каракулі..."
+    },
+    {
+        "xml_id": "str_curio_occult_scrawlings_nothing",
+        "eng_version": "The scrawlings are dull and uninteresting.",
+        "ru_version": "Каракули едва видно, и они бесполезны.",
+        "category_id": 1,
+        "bel_version": "Каракулі нудныя і нецікавыя."
+    },
+    {
+        "xml_id": "str_curio_occult_scrawlings_quirk",
+        "eng_version": "The scrawlings forever change the hero.",
+        "ru_version": "Каракули навсегда меняют героя.",
+        "category_id": 1,
+        "bel_version": "Каракулі назаўсёды мяняюць героя."
+    },
+    {
+        "xml_id": "str_curio_occult_scrawlings_effect",
+        "eng_version": "This sight is too much for the hero to bear.",
+        "ru_version": "Герой не в силах смотреть на это.",
+        "category_id": 1,
+        "bel_version": "Гэтае відовішча невыноснае для героя."
+    },
+    {
+        "xml_id": "str_curio_occult_scrawlings_holy_water_effect",
+        "eng_version": "The holy water hisses and the hero feels... wrong.",
+        "ru_version": "Святая вода шипит, и герою становится не по себе.",
+        "category_id": 1,
+        "bel_version": "Святая вада шыпіць, і герой адчувае сябе... не так."
+    },
+    {
+        "xml_id": "str_curio_title_moonshine_barrel",
+        "eng_version": "Moonshine Barrel",
+        "ru_version": "Бочка со спиртом",
+        "category_id": 1,
+        "bel_version": "Самагонная бочка"
+    },
+    {
+        "xml_id": "str_curio_content_moonshine_barrel",
+        "eng_version": "A barrel that reeks of powerful liquors.",
+        "ru_version": "Бочка, пахнущая крепким алкоголем.",
+        "category_id": 1,
+        "bel_version": "Бочка, якая пахне моцным лікёрам."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_moonshine_barrel",
+        "eng_version": "Open the barrel...",
+        "ru_version": "Открыть бочку...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце бочку..."
+    },
+    {
+        "xml_id": "str_curio_moonshine_barrel_nothing",
+        "eng_version": "The barrel is completely empty.",
+        "ru_version": "Бочка совершенно пуста.",
+        "category_id": 1,
+        "bel_version": "Бочка зусім пустая."
+    },
+    {
+        "xml_id": "str_curio_moonshine_barrel_loot",
+        "eng_version": "The barrel contains stashed treasures.",
+        "ru_version": "В бочке спрятаны ценности.",
+        "category_id": 1,
+        "bel_version": "У бочцы знаходзяцца схаваныя скарбы."
+    },
+    {
+        "xml_id": "str_curio_moonshine_barrel_quirk",
+        "eng_version": "The hero acquires a taste for this magnificent sauce...",
+        "ru_version": "Герою нравится эта великолепная жидкость...",
+        "category_id": 1,
+        "bel_version": "Герой набывае густ да гэтага цудоўнага соусу..."
+    },
+    {
+        "xml_id": "str_curio_moonshine_barrel_effect",
+        "eng_version": "The moonshine is kicked-off, making the hero violently ill.",
+        "ru_version": "Спирт ударяет герою в голову, и ему становится очень плохо.",
+        "category_id": 1,
+        "bel_version": "Самагон запускаецца, ад чаго герой моцна хварэе."
+    },
+    {
+        "xml_id": "str_curio_moonshine_barrel_medicinal_herbs_effect",
+        "eng_version": "Medicinal herbs purify the brew, and is it ever potent!",
+        "ru_version": "Целебные травы очищают напиток, ничуть не умаляя его крепости!",
+        "category_id": 1,
+        "bel_version": "Лекавыя травы ачышчаюць брагу, а ці моцная яна!"
+    },
+    {
+        "xml_id": "str_curio_title_locked_sarcophagus",
+        "eng_version": "Locked Sarcophagus",
+        "ru_version": "Запертый саркофаг",
+        "category_id": 1,
+        "bel_version": "Замкнёны саркафаг"
+    },
+    {
+        "xml_id": "str_curio_content_locked_sarcophagus",
+        "eng_version": "An ornate sarcophagus. It's locked.",
+        "ru_version": "Узорчатый саркофаг. Заперт.",
+        "category_id": 1,
+        "bel_version": "Багата ўпрыгожаны саркафаг. Ён замкнёны."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_locked_sarcophagus",
+        "eng_version": "Open the sarcophagus...",
+        "ru_version": "Открыть саркофаг...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце саркафаг..."
+    },
+    {
+        "xml_id": "str_curio_locked_sarcophagus_effect",
+        "eng_version": "It's trapped!",
+        "ru_version": "Здесь ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта ў пастцы!"
+    },
+    {
+        "xml_id": "str_curio_locked_sarcophagus_skeleton_key_loot",
+        "eng_version": "The Skeleton Key opens the sarcophagus to reveal its contents.",
+        "ru_version": "Мастер-ключ отпирает саркофаг, и можно заглянуть внутрь.",
+        "category_id": 1,
+        "bel_version": "Ключ ад шкілета адкрывае саркафаг, каб паказаць яго змесціва."
+    },
+    {
+        "xml_id": "str_curio_locked_sarcophagus_shovel_loot",
+        "eng_version": "You bash it open, but not without destroying some contents...",
+        "ru_version": "При попытке открыть саркофаг силой всё содержимое было уничтожено.",
+        "category_id": 1,
+        "bel_version": "Вы разбіваеце яго, але не без знішчэння некаторага змесціва ..."
+    },
+    {
+        "xml_id": "str_curio_title_makeshift_dining_table",
+        "eng_version": "Makeshift Dining Table",
+        "ru_version": "Самодельный обеденный стол",
+        "category_id": 1,
+        "bel_version": "Імправізаваны абедзенны стол"
+    },
+    {
+        "xml_id": "str_curio_content_makeshift_dining_table",
+        "eng_version": "An oddly assembled dining table. There might still be food scraps around.",
+        "ru_version": "Странный стол. Возможно, на нём ещё осталась еда.",
+        "category_id": 1,
+        "bel_version": "Дзіўна сабраны абедзенны стол. Навокал яшчэ могуць быць рэшткі ежы."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_makeshift_dining_table",
+        "eng_version": "Search the table...",
+        "ru_version": "Обыскать стол...",
+        "category_id": 1,
+        "bel_version": "Шукаць па стале..."
+    },
+    {
+        "xml_id": "str_curio_makeshift_dining_table_nothing",
+        "eng_version": "Everything has been eaten already.",
+        "ru_version": "Всё уже съедено.",
+        "category_id": 1,
+        "bel_version": "Усё ўжо з'едзена."
+    },
+    {
+        "xml_id": "str_curio_makeshift_dining_table_loot",
+        "eng_version": "The table contains leftovers from a previous dinner.",
+        "ru_version": "На столе остатки от чьей-то трапезы.",
+        "category_id": 1,
+        "bel_version": "Стол змяшчае рэшткі ад папярэдняга абеду."
+    },
+    {
+        "xml_id": "str_curio_makeshift_dining_table_effect",
+        "eng_version": "The rotting food makes the hero ill.",
+        "ru_version": "Герой заболевает от гнилой еды.",
+        "category_id": 1,
+        "bel_version": "Гнілая ежа робіць героя хворым."
+    },
+    {
+        "xml_id": "str_curio_makeshift_dining_table_disease",
+        "eng_version": "The meat is not fully cooked...",
+        "ru_version": "Мясо не приготовлено до конца...",
+        "category_id": 1,
+        "bel_version": "Мяса не да канца прыгатавана..."
+    },
+    {
+        "xml_id": "str_curio_makeshift_dining_table_medicinal_herbs_loot",
+        "eng_version": "The herbs kill any diseases harbored in the food.",
+        "ru_version": "Травы уничтожают всю заразу в еде.",
+        "category_id": 1,
+        "bel_version": "Травы знішчаюць любыя хваробы, затоеныя ў ежы."
+    },
+    {
+        "xml_id": "str_curio_title_pile_of_scrolls",
+        "eng_version": "Pile of Scrolls",
+        "ru_version": "Куча свитков",
+        "category_id": 1,
+        "bel_version": "Куча скруткаў"
+    },
+    {
+        "xml_id": "str_curio_content_pile_of_scrolls",
+        "eng_version": "A bunch of scrolls. The cursive is sloppy and difficult to read.",
+        "ru_version": "Свитки. Почерк неровный, его трудно разобрать.",
+        "category_id": 1,
+        "bel_version": "Куча скруткаў. Скорапіс неакуратны і цяжка чытаецца."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_pile_of_scrolls",
+        "eng_version": "Read the scrolls...",
+        "ru_version": "Прочесть свитки...",
+        "category_id": 1,
+        "bel_version": "Чытайце скруткі..."
+    },
+    {
+        "xml_id": "str_curio_pile_of_scrolls_nothing",
+        "eng_version": "The scrolls are merely records of dull transactions...",
+        "ru_version": "Свитки содержат скучные записи о платежах...",
+        "category_id": 1,
+        "bel_version": "Скруткі - гэта проста запісы тупых транзакцый..."
+    },
+    {
+        "xml_id": "str_curio_pile_of_scrolls_quirk",
+        "eng_version": "The scrolls forever change the hero.",
+        "ru_version": "Свитки навсегда меняют героя.",
+        "category_id": 1,
+        "bel_version": "Скруткі назаўсёды змяняюць героя."
+    },
+    {
+        "xml_id": "str_curio_pile_of_scrolls_effect",
+        "eng_version": "The scrolls contain hideous portents.",
+        "ru_version": "В свитках написаны жуткие предсказания.",
+        "category_id": 1,
+        "bel_version": "Скруткі ўтрымліваюць жудасныя прадвесні."
+    },
+    {
+        "xml_id": "str_curio_pile_of_scrolls_scout",
+        "eng_version": "The scrolls are a well-rendered map of the road ahead...",
+        "ru_version": "В свитках есть отличная карта дальнейшего пути...",
+        "category_id": 1,
+        "bel_version": "Скруткі - гэта добра адлюстраваная карта дарогі наперадзе..."
+    },
+    {
+        "xml_id": "str_curio_pile_of_scrolls_torch_purge",
+        "eng_version": "The scrolls are full of evil writings. Burning them is a weight off of the hero...",
+        "ru_version": "В свитках полно зловещих записей. Их сожжение снимает бремя с души героя...",
+        "category_id": 1,
+        "bel_version": "Скруткі поўныя злых надпісаў. Спаліць іх - гэта цяжар героя..."
+    },
+    {
+        "xml_id": "str_curio_title_ancient_coffin",
+        "eng_version": "Ancient Coffin",
+        "ru_version": "Древний гроб",
+        "category_id": 1,
+        "bel_version": "Старажытная труна"
+    },
+    {
+        "xml_id": "str_curio_content_ancient_coffin",
+        "eng_version": "An old coffin. It is slightly ajar.",
+        "ru_version": "Старый приоткрытый гроб.",
+        "category_id": 1,
+        "bel_version": "Старая труна. Ён злёгку прыадчынены."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_ancient_coffin",
+        "eng_version": "Open the coffin...",
+        "ru_version": "Открыть гроб...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце труну..."
+    },
+    {
+        "xml_id": "str_curio_ancient_coffin_nothing",
+        "eng_version": "There is nothing of value inside.",
+        "ru_version": "Внутри нет ничего ценного.",
+        "category_id": 1,
+        "bel_version": "Унутры няма нічога каштоўнага."
+    },
+    {
+        "xml_id": "str_curio_ancient_coffin_loot",
+        "eng_version": "The coffin contains hidden treasures.",
+        "ru_version": "В гробу спрятано сокровище.",
+        "category_id": 1,
+        "bel_version": "У труне схаваныя скарбы."
+    },
+    {
+        "xml_id": "str_curio_ancient_coffin_quirk",
+        "eng_version": "Findings in the coffin give the hero insight into the nature of this world.",
+        "ru_version": "Содержимое гроба поведало герою кое-что об этом мире.",
+        "category_id": 1,
+        "bel_version": "Знаходкі ў труне даюць герою зразумець прыроду гэтага свету."
+    },
+    {
+        "xml_id": "str_curio_title_old_tree",
+        "eng_version": "Old Tree",
+        "ru_version": "Старое дерево",
+        "category_id": 1,
+        "bel_version": "Старое дрэва"
+    },
+    {
+        "xml_id": "str_curio_content_old_tree",
+        "eng_version": "This tree has a huge hole in the trunk. Perhaps there's something inside...",
+        "ru_version": "В стволе дерева большое дупло. Быть может, внутри что-то есть...",
+        "category_id": 1,
+        "bel_version": "У гэтага дрэва ў ствале велізарная дзірка. Магчыма, нешта ўнутры ёсць..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_old_tree",
+        "eng_version": "Search the tree...",
+        "ru_version": "Обыскать дерево...",
+        "category_id": 1,
+        "bel_version": "Шукай дрэва..."
+    },
+    {
+        "xml_id": "str_curio_old_tree_nothing",
+        "eng_version": "Sometimes a tree is just a tree.",
+        "ru_version": "Иногда дерево – это просто дерево.",
+        "category_id": 1,
+        "bel_version": "Часам дрэва - гэта проста дрэва."
+    },
+    {
+        "xml_id": "str_curio_old_tree_loot",
+        "eng_version": "Someone couldn't resist stashing treasures here...",
+        "ru_version": "Кто-то не удержался и спрятал внутри ценности...",
+        "category_id": 1,
+        "bel_version": "Хтосьці не ўтрымаўся, каб не схаваць тут скарбы..."
+    },
+    {
+        "xml_id": "str_curio_old_tree_effect",
+        "eng_version": "The tree is covered in poisonous sap.",
+        "ru_version": "Дерево покрыто ядовитой смолой.",
+        "category_id": 1,
+        "bel_version": "Дрэва пакрыта атрутным сокам."
+    },
+    {
+        "xml_id": "str_curio_old_tree_antivenom_loot",
+        "eng_version": "The antivenom protects against poisonous sap, allowing a thorough search...",
+        "ru_version": "Противоядие защищает от ядовитой смолы и позволяет тщательно обыскать дерево...",
+        "category_id": 1,
+        "bel_version": "Проціяддзе абараняе ад атрутнага соку, дазваляючы дбайны пошук..."
+    },
+    {
+        "xml_id": "str_curio_title_beast_carcass",
+        "eng_version": "Beast Carcass",
+        "ru_version": "Звериные останки",
+        "category_id": 1,
+        "bel_version": "Туша звера"
+    },
+    {
+        "xml_id": "str_curio_content_beast_carcass",
+        "eng_version": "Something has recently mutilated this creature...",
+        "ru_version": "Недавно кто-то сильно покалечил это животное...",
+        "category_id": 1,
+        "bel_version": "Нешта нядаўна скалечыла гэтую істоту..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_beast_carcass",
+        "eng_version": "Investigate the carcass...",
+        "ru_version": "Осмотреть останки...",
+        "category_id": 1,
+        "bel_version": "Даследаваць тушу..."
+    },
+    {
+        "xml_id": "str_curio_beast_carcass_nothing",
+        "eng_version": "The beast has nothing left to offer.",
+        "ru_version": "От зверя не осталось ничего существенного.",
+        "category_id": 1,
+        "bel_version": "Зверу ўжо няма чаго прапанаваць."
+    },
+    {
+        "xml_id": "str_curio_beast_carcass_loot",
+        "eng_version": "There is still some meat on these bones.",
+        "ru_version": "На костях ещё есть немного мяса.",
+        "category_id": 1,
+        "bel_version": "На гэтых костках яшчэ ёсць трохі мяса."
+    },
+    {
+        "xml_id": "str_curio_beast_carcass_quirk",
+        "eng_version": "The hero is distraught by the sight of the carcass.",
+        "ru_version": "Вид звериных останков пугает героя.",
+        "category_id": 1,
+        "bel_version": "Герой збянтэжаны выглядам тушы."
+    },
+    {
+        "xml_id": "str_curio_beast_carcass_disease",
+        "eng_version": "Exploring the carcass was not without risk of disease...",
+        "ru_version": "При осмотре останков очень легко заразиться...",
+        "category_id": 1,
+        "bel_version": "Даследаванне тушы не абышлося без рызыкі захворвання..."
+    },
+    {
+        "xml_id": "str_curio_beast_carcass_medicinal_herbs_loot",
+        "eng_version": "The medicinal herbs rid the carcass of any diseases.",
+        "ru_version": "Целебные травы очищают останки ото всякой заразы.",
+        "category_id": 1,
+        "bel_version": "Лячэбныя травы пазбаўляюць труп ад любых хвароб."
+    },
+    {
+        "xml_id": "str_curio_title_pristine_fountain",
+        "eng_version": "Pristine Fountain",
+        "ru_version": "Чистый фонтан",
+        "category_id": 1,
+        "bel_version": "Цнатлівы фантан"
+    },
+    {
+        "xml_id": "str_curio_content_pristine_fountain",
+        "eng_version": "A beautiful fountain. It looks unaffected by the surrounding chaos.",
+        "ru_version": "Красивый фонтан. Кажется, его не коснулась окружающая разруха.",
+        "category_id": 1,
+        "bel_version": "Прыгожы фантан. На яго не ўплывае навакольны хаос."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_pristine_fountain",
+        "eng_version": "Drink from the fountain...",
+        "ru_version": "Напиться из фонтана...",
+        "category_id": 1,
+        "bel_version": "Піць з крыніцы..."
+    },
+    {
+        "xml_id": "str_curio_pristine_fountain_nothing",
+        "eng_version": "Any power this fountain once had is now lost.",
+        "ru_version": "Какая бы сила ни содержалась в этом фонтане, её там уже нет.",
+        "category_id": 1,
+        "bel_version": "Уся магутнасць, якую калісьці меў гэты фантан, цяпер страчана."
+    },
+    {
+        "xml_id": "str_curio_pristine_fountain_effect",
+        "eng_version": "The fountain reinvigorates the hero.",
+        "ru_version": "Фонтан придаёт герою сил.",
+        "category_id": 1,
+        "bel_version": "Фантан ажыўляе героя."
+    },
+    {
+        "xml_id": "str_curio_pristine_fountain_holy_water_effect",
+        "eng_version": "The hero consecrates the fountain...",
+        "ru_version": "Герой освящает фонтан...",
+        "category_id": 1,
+        "bel_version": "Герой асвячае фантан..."
+    },
+    {
+        "xml_id": "str_curio_title_travellers_tent",
+        "eng_version": "Traveler's Tent",
+        "ru_version": "Палатка путника",
+        "category_id": 1,
+        "bel_version": "Палатка падарожніка"
+    },
+    {
+        "xml_id": "str_curio_content_travellers_tent",
+        "eng_version": "Someone has camped here recently.",
+        "ru_version": "Кто-то здесь недавно отдыхал.",
+        "category_id": 1,
+        "bel_version": "Нядаўна нехта атабарыўся тут."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_travellers_tent",
+        "eng_version": "Check inside the tent...",
+        "ru_version": "Заглянуть в палатку...",
+        "category_id": 1,
+        "bel_version": "Праверце ўнутры намёта..."
+    },
+    {
+        "xml_id": "str_curio_travellers_tent_nothing",
+        "eng_version": "Nothing is left inside the tent.",
+        "ru_version": "Внутри ничего нет.",
+        "category_id": 1,
+        "bel_version": "У палатцы нічога не засталося."
+    },
+    {
+        "xml_id": "str_curio_travellers_tent_loot",
+        "eng_version": "Someone left valuables inside the tent.",
+        "ru_version": "Кто-то оставил внутри ценности.",
+        "category_id": 1,
+        "bel_version": "У намёце нехта пакінуў каштоўныя рэчы."
+    },
+    {
+        "xml_id": "str_curio_travellers_tent_effect",
+        "eng_version": "The fate of the tent's occupant is revealed...",
+        "ru_version": "Вы узнали, что сталось с обитателем палатки...",
+        "category_id": 1,
+        "bel_version": "Лёс насельніка палаткі высвятляецца..."
+    },
+    {
+        "xml_id": "str_curio_travellers_tent_scout",
+        "eng_version": "A map of the area is found inside the tent.",
+        "ru_version": "В палатке нашлась карта местности.",
+        "category_id": 1,
+        "bel_version": "Унутры палаткі знаходзіцца карта мясцовасці."
+    },
+    {
+        "xml_id": "str_curio_title_travellers_tent_tutorial",
+        "eng_version": "Brigand's Tent",
+        "ru_version": "Бандитская палатка",
+        "category_id": 1,
+        "bel_version": "Разбойніцкая палатка"
+    },
+    {
+        "xml_id": "str_curio_content_travellers_tent_tutorial",
+        "eng_version": "Clearly where the ambushers camp.",
+        "ru_version": "Здесь прячутся те, кто устраивает засады.",
+        "category_id": 1,
+        "bel_version": "Відавочна, дзе лагер засад."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_travellers_tent_tutorial",
+        "eng_version": "Check inside the tent...",
+        "ru_version": "Заглянуть в палатку...",
+        "category_id": 1,
+        "bel_version": "Праверце ўнутры намёта..."
+    },
+    {
+        "xml_id": "str_curio_travellers_tent_tutorial_loot",
+        "eng_version": "The brigands left valuables!",
+        "ru_version": "Бандиты оставили ценности!",
+        "category_id": 1,
+        "bel_version": "Разбойнікі пакінулі каштоўнасці!"
+    },
+    {
+        "xml_id": "str_curio_title_cosmic_spiderweb",
+        "eng_version": "Eerie Spiderweb",
+        "ru_version": "Жуткая паутина",
+        "category_id": 1,
+        "bel_version": "Жудасная павуціна"
+    },
+    {
+        "xml_id": "str_curio_content_cosmic_spiderweb",
+        "eng_version": "A spiderweb with a strange glow to it. There might be something behind it.",
+        "ru_version": "Странно светящаяся паутина. Должно быть, за ней что-то спрятано.",
+        "category_id": 1,
+        "bel_version": "Павуцінне з дзіўным ззяннем. За гэтым можа быць нешта."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_cosmic_spiderweb",
+        "eng_version": "Check behind the web...",
+        "ru_version": "Заглянуть за паутину...",
+        "category_id": 1,
+        "bel_version": "Праверце за сеткай..."
+    },
+    {
+        "xml_id": "str_curio_cosmic_spiderweb_nothing",
+        "eng_version": "There is nothing of interest.",
+        "ru_version": "Ничего интересного.",
+        "category_id": 1,
+        "bel_version": "Нічога цікавага няма."
+    },
+    {
+        "xml_id": "str_curio_cosmic_spiderweb_loot",
+        "eng_version": "Treasures are hidden behind the web!",
+        "ru_version": "За паутиной спрятан клад!",
+        "category_id": 1,
+        "bel_version": "За павуціннем схаваны скарбы!"
+    },
+    {
+        "xml_id": "str_curio_cosmic_spiderweb_quirk",
+        "eng_version": "The hero is covered in a sticky goo.",
+        "ru_version": "Герой покрывается липкой слизью.",
+        "category_id": 1,
+        "bel_version": "Герой увесь у ліпкай слізі."
+    },
+    {
+        "xml_id": "str_curio_cosmic_spiderweb_bandage_loot",
+        "eng_version": "The bandages protect the hero's hands during the search...",
+        "ru_version": "Повязка защищает руки героя во время осмотра.",
+        "category_id": 1,
+        "bel_version": "Бінты абараняюць рукі героя падчас пошукаў..."
+    },
+    {
+        "xml_id": "str_curio_title_lost_luggage",
+        "eng_version": "Left Luggage",
+        "ru_version": "Брошенный багаж",
+        "category_id": 1,
+        "bel_version": "Пакінуты багаж"
+    },
+    {
+        "xml_id": "str_curio_content_lost_luggage",
+        "eng_version": "Someone dropped this recently. Probably on the run. It has a lock on it.",
+        "ru_version": "Вероятно, кто-то спасался бегством и бросил этот сундук. Он заперт.",
+        "category_id": 1,
+        "bel_version": "Нядаўна хтосьці кінуў гэта. Напэўна, у бегах. На ім ёсць замак."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_lost_luggage",
+        "eng_version": "Try to open the luggage...",
+        "ru_version": "Попытаться открыть сундук...",
+        "category_id": 1,
+        "bel_version": "Паспрабуйце адкрыць багаж..."
+    },
+    {
+        "xml_id": "str_curio_lost_luggage_effect",
+        "eng_version": "It's trapped!",
+        "ru_version": "Здесь ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта ў пастцы!"
+    },
+    {
+        "xml_id": "str_curio_lost_luggage_loot",
+        "eng_version": "The luggage clearly shouldn't have been abandoned. Valuables inside!",
+        "ru_version": "Интересно, почему же этот сундук бросили? В нём полно ценностей!",
+        "category_id": 1,
+        "bel_version": "Багаж відавочна не варта было кідаць. Каштоўнасці ўнутры!"
+    },
+    {
+        "xml_id": "str_curio_lost_luggage_skeleton_key_loot",
+        "eng_version": "The key works. Valuable belongings inside!",
+        "ru_version": "Ключ подошёл, а внутри оказались ценности!",
+        "category_id": 1,
+        "bel_version": "Ключ працуе. Каштоўныя рэчы ўнутры!"
+    },
+    {
+        "xml_id": "str_curio_lost_luggage_antivenom_loot",
+        "eng_version": "The antivenom neutralizes a poison trap. Unspoiled treasures inside!",
+        "ru_version": "Противоядие обезвреживает ядовитую ловушку, а внутри находятся ценности!",
+        "category_id": 1,
+        "bel_version": "Супрацьяда нейтралізуе атрутную пастку. Некранутыя скарбы ўнутры!"
+    },
+    {
+        "xml_id": "str_curio_title_shallow_grave",
+        "eng_version": "Shallow Grave",
+        "ru_version": "Неглубокая могила",
+        "category_id": 1,
+        "bel_version": "Неглыбокая магіла"
+    },
+    {
+        "xml_id": "str_curio_content_shallow_grave",
+        "eng_version": "A grave, dug in haste.",
+        "ru_version": "Выкопана в спешке.",
+        "category_id": 1,
+        "bel_version": "Магіла, выкапаная спехам."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_shallow_grave",
+        "eng_version": "Dig up the grave with your hands...",
+        "ru_version": "Раскопать могилу руками...",
+        "category_id": 1,
+        "bel_version": "Раскапайце магілу сваімі рукамі..."
+    },
+    {
+        "xml_id": "str_curio_shallow_grave_effect",
+        "eng_version": "Gravedigging is not the healthiest of professions...",
+        "ru_version": "Копание могил – не самое безопасное занятие...",
+        "category_id": 1,
+        "bel_version": "Грабар - не самая здаровая прафесія..."
+    },
+    {
+        "xml_id": "str_curio_shallow_grave_disease",
+        "eng_version": "Gravedigging is not the healthiest of professions...",
+        "ru_version": "Копание могил – не самое безопасное занятие...",
+        "category_id": 1,
+        "bel_version": "Грабар - не самая здаровая прафесія..."
+    },
+    {
+        "xml_id": "str_curio_shallow_grave_shovel_loot",
+        "eng_version": "Looks like gravedigging pays off sometimes!",
+        "ru_version": "Иногда раскопка могил приносит плоды!",
+        "category_id": 1,
+        "bel_version": "Здаецца, капанне магіл часам акупляецца!"
+    },
+    {
+        "xml_id": "str_curio_title_troubling_effigy",
+        "eng_version": "Troubling Effigy",
+        "ru_version": "Зловещий тотем",
+        "category_id": 1,
+        "bel_version": "Трывожнае пудзіла"
+    },
+    {
+        "xml_id": "str_curio_content_troubling_effigy",
+        "eng_version": "An unsettling effigy erected in service to a mysterious god.",
+        "ru_version": "Неприятного вида тотем в честь какого-нибудь божества.",
+        "category_id": 1,
+        "bel_version": "Трывожная фігура, пастаўленая на службу таямнічаму богу."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_troubling_effigy",
+        "eng_version": "Touch the effigy...",
+        "ru_version": "Коснуться тотема...",
+        "category_id": 1,
+        "bel_version": "Дакраніся да пудзіла..."
+    },
+    {
+        "xml_id": "str_curio_troubling_effigy_nothing",
+        "eng_version": "Any power the effigy once had is now lost.",
+        "ru_version": "Какая бы сила ни содержалась в этом тотеме, её там уже нет.",
+        "category_id": 1,
+        "bel_version": "Любая сіла, якую калісьці мела пудзіла, цяпер страчана."
+    },
+    {
+        "xml_id": "str_curio_troubling_effigy_quirk",
+        "eng_version": "The effigy imbues the hero with energy...",
+        "ru_version": "Тотем наделяет героя силой...",
+        "category_id": 1,
+        "bel_version": "Пудзіла напаўняе героя энергіяй..."
+    },
+    {
+        "xml_id": "str_curio_troubling_effigy_effect",
+        "eng_version": "The effigy lashes out, rejecting the hero!",
+        "ru_version": "Тотем отталкивает героя и отвергает его!",
+        "category_id": 1,
+        "bel_version": "Пучаў б'ецца, адвяргаючы героя!"
+    },
+    {
+        "xml_id": "str_curio_troubling_effigy_holy_water_quirk",
+        "eng_version": "The holy water has a powerful effect!",
+        "ru_version": "Святая вода возымела действие!",
+        "category_id": 1,
+        "bel_version": "Святая вада валодае магутным дзеяннем!"
+    },
+    {
+        "xml_id": "str_curio_animalistic_shrine_pickaxe_loot",
+        "eng_version": "The shrine has been decimated!",
+        "ru_version": "Святилище уничтожено!",
+        "category_id": 1,
+        "bel_version": "Святыню знішчылі!"
+    },
+    {
+        "xml_id": "str_curio_infected_corpse_antivenom_loot",
+        "eng_version": "The infected corpse has been cleansed!",
+        "ru_version": "Заразный труп очищен!",
+        "category_id": 1,
+        "bel_version": "Заражаны труп быў ачышчаны!"
+    },
+    {
+        "xml_id": "str_curio_corrupted_altar_holy_water_loot",
+        "eng_version": "The altar has been purified!",
+        "ru_version": "Алтарь очищен!",
+        "category_id": 1,
+        "bel_version": "Алтар ачышчаны!"
+    },
+    {
+        "xml_id": "str_curio_title_brackish_tidepool",
+        "eng_version": "Brackish Tide Pool",
+        "ru_version": "Солоноватый водоём",
+        "category_id": 1,
+        "bel_version": "Басейн саланаватых прыліваў"
+    },
+    {
+        "xml_id": "str_curio_content_brackish_tidepool",
+        "eng_version": "A pool of water cupped in smooth stone. Its color looks slightly off...",
+        "ru_version": "Скопившаяся в гладком камне вода. Что-то с ней нечисто...",
+        "category_id": 1,
+        "bel_version": "Басейн вады ў гладкім камені. Яго колер выглядае крыху недарэчным..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_brackish_tidepool",
+        "eng_version": "Take a drink from the pool.",
+        "ru_version": "Выпить из водоёма.",
+        "category_id": 1,
+        "bel_version": "Вазьміце напой з басейна."
+    },
+    {
+        "xml_id": "str_curio_brackish_tidepool_effect",
+        "eng_version": "The hero's resilience is heightened!",
+        "ru_version": "Герой преисполняется решимости!",
+        "category_id": 1,
+        "bel_version": "Устойлівасць героя павышаецца!"
+    },
+    {
+        "xml_id": "str_curio_brackish_tidepool_disease",
+        "eng_version": "The water is contaminated...",
+        "ru_version": "Вода заражена...",
+        "category_id": 1,
+        "bel_version": "Вада забруджаная..."
+    },
+    {
+        "xml_id": "str_curio_brackish_tidepool_antivenom_effect",
+        "eng_version": "The water is purified and cleanses the hero.",
+        "ru_version": "Вода обеззаражена и очищает героя.",
+        "category_id": 1,
+        "bel_version": "Вада ачышчаецца і ачышчае героя."
+    },
+    {
+        "xml_id": "str_curio_title_fish_idol",
+        "eng_version": "Fish Idol",
+        "ru_version": "Рыбий идол",
+        "category_id": 1,
+        "bel_version": "Рыбны ідал"
+    },
+    {
+        "xml_id": "str_curio_content_fish_idol",
+        "eng_version": "A strange presence is felt near this statue of worship.",
+        "ru_version": "Возле этой статуи ощущается странное присутствие.",
+        "category_id": 1,
+        "bel_version": "Каля гэтай статуі пакланення адчуваецца дзіўная прысутнасць."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_fish_idol",
+        "eng_version": "Touch the idol.",
+        "ru_version": "Коснуться идола.",
+        "category_id": 1,
+        "bel_version": "Дакраніся да ідала."
+    },
+    {
+        "xml_id": "str_curio_fish_idol_effect",
+        "eng_version": "An evil force engulfs the hero!",
+        "ru_version": "Героя охватывает злая сила!",
+        "category_id": 1,
+        "bel_version": "Нячыстая сіла паглынае героя!"
+    },
+    {
+        "xml_id": "str_curio_fish_idol_holy_water_effect",
+        "eng_version": "An aura of strength engulfs the hero!",
+        "ru_version": "Героя охватывает аура силы!",
+        "category_id": 1,
+        "bel_version": "Аўра сілы ахоплівае героя!"
+    },
+    {
+        "xml_id": "str_curio_title_giant_oyster",
+        "eng_version": "Giant Oyster",
+        "ru_version": "Гигантская устрица",
+        "category_id": 1,
+        "bel_version": "Гіганцкая вустрыца"
+    },
+    {
+        "xml_id": "str_curio_content_giant_oyster",
+        "eng_version": "A live oyster. Who knows what value it hides...",
+        "ru_version": "Живая устрица. Кто знает, что у неё в раковине...",
+        "category_id": 1,
+        "bel_version": "Жывая вустрыца. Хто ведае, якую каштоўнасць яна хавае..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_giant_oyster",
+        "eng_version": "Grab the goods inside.",
+        "ru_version": "Вытащить ценности.",
+        "category_id": 1,
+        "bel_version": "Вазьміце тавары ўнутры."
+    },
+    {
+        "xml_id": "str_curio_giant_oyster_nothing",
+        "eng_version": "Someone has already cleaned house.",
+        "ru_version": "Кто-то уже всё вынул.",
+        "category_id": 1,
+        "bel_version": "Хтосьці ўжо прыбраў дом."
+    },
+    {
+        "xml_id": "str_curio_giant_oyster_loot",
+        "eng_version": "There are treasures hidden inside!",
+        "ru_version": "Внутри есть сокровище!",
+        "category_id": 1,
+        "bel_version": "Унутры схаваны скарбы!"
+    },
+    {
+        "xml_id": "str_curio_giant_oyster_effect",
+        "eng_version": "The oyster slams shut!",
+        "ru_version": "Устрица захлопывается!",
+        "category_id": 1,
+        "bel_version": "Вустрыца зачыняецца!"
+    },
+    {
+        "xml_id": "str_curio_giant_oyster_shovel_loot",
+        "eng_version": "The shovel prevents the oyster from closing.",
+        "ru_version": "Лопата не даёт устрице закрыться.",
+        "category_id": 1,
+        "bel_version": "Рыдлёўка перашкаджае закрыццю вустрыцы."
+    },
+    {
+        "xml_id": "str_curio_giant_oyster_dog_treats_effect",
+        "eng_version": "The oyster seems to like these...",
+        "ru_version": "Кажется, устрице это нравится...",
+        "category_id": 1,
+        "bel_version": "Вустрыцы, здаецца, падабаюцца гэтыя..."
+    },
+    {
+        "xml_id": "str_curio_title_giant_fish_carcass",
+        "eng_version": "Fish Carcass",
+        "ru_version": "Рыбьи останки",
+        "category_id": 1,
+        "bel_version": "Тушка рыбы"
+    },
+    {
+        "xml_id": "str_curio_content_giant_fish_carcass",
+        "eng_version": "A stuffed sea creature has washed ashore. Wonder what it ate...",
+        "ru_version": "На берег выбросило распухшего обитателя моря. Интересно, что он ел?",
+        "category_id": 1,
+        "bel_version": "Пудзіла марскога насельніка выкінула на бераг. Цікава, што еў..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_giant_fish_carcass",
+        "eng_version": "Gut the fish.",
+        "ru_version": "Выпотрошить рыбу.",
+        "category_id": 1,
+        "bel_version": "Рыбу вытрыбушыць."
+    },
+    {
+        "xml_id": "str_curio_giant_fish_carcass_nothing",
+        "eng_version": "Only digested fish inside.",
+        "ru_version": "Внутри только переваренная рыба.",
+        "category_id": 1,
+        "bel_version": "Ўнутры толькі перавараная рыба."
+    },
+    {
+        "xml_id": "str_curio_giant_fish_carcass_loot",
+        "eng_version": "The fish ate more than its fair share.",
+        "ru_version": "Рыба-то явно не голодала.",
+        "category_id": 1,
+        "bel_version": "Рыба з'ела больш, чым належала."
+    },
+    {
+        "xml_id": "str_curio_giant_fish_carcass_effect",
+        "eng_version": "It's a trap!",
+        "ru_version": "Ловушка!",
+        "category_id": 1,
+        "bel_version": "Гэта пастка!"
+    },
+    {
+        "xml_id": "str_curio_giant_fish_carcass_disease",
+        "eng_version": "The creature is harbouring a dangerous infection.",
+        "ru_version": "Рыба заражена опасной болезнью.",
+        "category_id": 1,
+        "bel_version": "Істота тоіць у сабе небяспечную інфекцыю."
+    },
+    {
+        "xml_id": "str_curio_giant_fish_carcass_medicinal_herbs_loot",
+        "eng_version": "The gut is cleansed, allowing a safe search of its contents.",
+        "ru_version": "Потроха очищены, и можно их спокойно обыскать.",
+        "category_id": 1,
+        "bel_version": "Кішачнік чысціцца, што дазваляе бяспечна шукаць яго змесціва."
+    },
+    {
+        "xml_id": "str_curio_title_ships_figurehead",
+        "eng_version": "Ship's Figurehead",
+        "ru_version": "Носовая фигура",
+        "category_id": 1,
+        "bel_version": "Фігура карабля"
+    },
+    {
+        "xml_id": "str_curio_content_ships_figurehead",
+        "eng_version": "The figurehead emits a marvelous aura.",
+        "ru_version": "Статуя излучает великолепную ауру.",
+        "category_id": 1,
+        "bel_version": "Фігура выпраменьвае цудоўную аўру."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_ships_figurehead",
+        "eng_version": "Inspect the figurehead.",
+        "ru_version": "Осмотреть носовую фигуру.",
+        "category_id": 1,
+        "bel_version": "Агледзіце падставу."
+    },
+    {
+        "xml_id": "str_curio_ships_figurehead_effect",
+        "eng_version": "The great artifact inspires the hero!",
+        "ru_version": "Могущественный артефакт воодушевляет героя!",
+        "category_id": 1,
+        "bel_version": "Вялікі артэфакт натхняе героя!"
+    },
+    {
+        "xml_id": "str_curio_title_eerie_coral",
+        "eng_version": "Eerie Coral",
+        "ru_version": "Жуткий коралл",
+        "category_id": 1,
+        "bel_version": "Жудасны карал"
+    },
+    {
+        "xml_id": "str_curio_content_eerie_coral",
+        "eng_version": "There is something odd about this coral.",
+        "ru_version": "Что-то с этим кораллом не так.",
+        "category_id": 1,
+        "bel_version": "Ёсць нешта дзіўнае ў гэтым карале."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_eerie_coral",
+        "eng_version": "Investigate the coral.",
+        "ru_version": "Осмотреть коралл.",
+        "category_id": 1,
+        "bel_version": "Даследуйце каралы."
+    },
+    {
+        "xml_id": "str_curio_eerie_coral_nothing",
+        "eng_version": "Nothing here after all.",
+        "ru_version": "Ничего тут нет.",
+        "category_id": 1,
+        "bel_version": "У рэшце рэшт, тут нічога."
+    },
+    {
+        "xml_id": "str_curio_eerie_coral_effect_eerie_coral_healstress",
+        "eng_version": "This coral is soothing to the mind.",
+        "ru_version": "Коралл успокаивает мысли.",
+        "category_id": 1,
+        "bel_version": "Гэты карал супакойвае розум."
+    },
+    {
+        "xml_id": "str_curio_eerie_coral_effect_eerie_coral_stress",
+        "eng_version": "The coral is abrasive and unnerving.",
+        "ru_version": "Коралл шершавый и противный.",
+        "category_id": 1,
+        "bel_version": "Карал абразіўны і нервуе."
+    },
+    {
+        "xml_id": "str_curio_eerie_coral_medicinal_herbs_purge",
+        "eng_version": "Cleansing the coral brings out its profound healing qualities.",
+        "ru_version": "После очищения коралл показывает свою внушительную целительную силу.",
+        "category_id": 1,
+        "bel_version": "Ачышчэнне каралаў выяўляе яго глыбокія гаючыя якасці."
+    },
+    {
+        "xml_id": "str_curio_title_bas_relief",
+        "eng_version": "Bas-Relief",
+        "ru_version": "Барельеф",
+        "category_id": 1,
+        "bel_version": "Барэльеф"
+    },
+    {
+        "xml_id": "str_curio_content_bas_relief",
+        "eng_version": "A puzzlingly ancient sculpture of dizzying implication...",
+        "ru_version": "Странная древняя работа с неясным смыслом.",
+        "category_id": 1,
+        "bel_version": "Дзіўна старажытная скульптура галавакружнага сэнсу..."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_bas_relief",
+        "eng_version": "Attempt to decipher the carven message.",
+        "ru_version": "Попытаться разобрать вырезанные письмена.",
+        "category_id": 1,
+        "bel_version": "Паспрабуйце расшыфраваць выразанае паведамленне."
+    },
+    {
+        "xml_id": "str_curio_bas_relief_quirk",
+        "eng_version": "The message has a lasting impact on the hero...",
+        "ru_version": "Содержание оказывает на героя сильное воздействие...",
+        "category_id": 1,
+        "bel_version": "Паведамленне надоўга ўздзейнічае на героя..."
+    },
+    {
+        "xml_id": "str_curio_bas_relief_shovel_effect",
+        "eng_version": "The bas-relief is crushed with the shovel. Doesn't feel right...",
+        "ru_version": "Лопата раскрошила барельеф. Досадно...",
+        "category_id": 1,
+        "bel_version": "Барэльеф раздушаны рыдлёўкай. Не так..."
+    },
+    {
+        "xml_id": "str_curio_title_barnacle_crusted_chest",
+        "eng_version": "Barnacle Crusted Chest",
+        "ru_version": "Сундук в ракушках",
+        "category_id": 1,
+        "bel_version": "Барнакул, пакрыты скарыначкай"
+    },
+    {
+        "xml_id": "str_curio_content_barnacle_crusted_chest",
+        "eng_version": "A treasure chest blanketed in barnacles.",
+        "ru_version": "Сундук с сокровищем, покрытый ракушками.",
+        "category_id": 1,
+        "bel_version": "Куфар з скарбамі, засланы вусам."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_barnacle_crusted_chest",
+        "eng_version": "Break open the chest.",
+        "ru_version": "Открыть сундук силой.",
+        "category_id": 1,
+        "bel_version": "Разламаць куфар."
+    },
+    {
+        "xml_id": "str_curio_barnacle_crusted_chest_nothing",
+        "eng_version": "Nothing inside.",
+        "ru_version": "Внутри пусто.",
+        "category_id": 1,
+        "bel_version": "Нічога ўнутры."
+    },
+    {
+        "xml_id": "str_curio_barnacle_crusted_chest_loot",
+        "eng_version": "There's still booty inside!",
+        "ru_version": "Внутри сокровище!",
+        "category_id": 1,
+        "bel_version": "Унутры яшчэ ёсць здабыча!"
+    },
+    {
+        "xml_id": "str_curio_barnacle_crusted_chest_effect",
+        "eng_version": "The hero receives a nasty gash.",
+        "ru_version": "Герой сильно порезался.",
+        "category_id": 1,
+        "bel_version": "Герой атрымлівае непрыемную рану."
+    },
+    {
+        "xml_id": "str_curio_barnacle_crusted_chest_shovel_loot",
+        "eng_version": "The shovel makes easy work of the barnacles.",
+        "ru_version": "Лопата легко убирает ракушки.",
+        "category_id": 1,
+        "bel_version": "Рыдлёўка палягчае апрацоўку вусачаў."
+    },
+    {
+        "xml_id": "str_curio_protective_ward_eldritch_lantern_loot",
+        "eng_version": "The ward is now lit!",
+        "ru_version": "Оберег зажжён!",
+        "category_id": 1,
+        "bel_version": "Палата цяпер асветлена!"
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_old_one_statue",
+        "eng_version": "Investigate the statue...",
+        "ru_version": "Осмотреть статую...",
+        "category_id": 1,
+        "bel_version": "Даследуйце статую..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_rotting_corpse",
+        "eng_version": "Search the remains...",
+        "ru_version": "Обыскать останки...",
+        "category_id": 1,
+        "bel_version": "Шукаць парэшткі..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_iron_maiden",
+        "eng_version": "Open the iron maiden...",
+        "ru_version": "Открыть \"железную деву\"...",
+        "category_id": 1,
+        "bel_version": "Адкрыйце жалезную дзеву..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_fountain",
+        "eng_version": "Quaff from the fountain...",
+        "ru_version": "Выпить из фонтана...",
+        "category_id": 1,
+        "bel_version": "Кваф з фантана..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_aged_cask",
+        "eng_version": "Uncork the cask and take a drink...",
+        "ru_version": "Откупорить бочку и выпить из неё...",
+        "category_id": 1,
+        "bel_version": "Адкаркуйце бочку і выпіце..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_oily_nitre",
+        "eng_version": "Harvest the lichen...",
+        "ru_version": "Собрать лишайник...",
+        "category_id": 1,
+        "bel_version": "Збярыце лішайнік..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_votive_table",
+        "eng_version": "Investigate votive_table!",
+        "ru_version": "Осмотреть стол!",
+        "category_id": 1,
+        "bel_version": "Даследуйце votive_table!"
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_musty_tome",
+        "eng_version": "Flip through the book...",
+        "ru_version": "Пролистать книгу...",
+        "category_id": 1,
+        "bel_version": "Пагартайце кнігу..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_arcane_lectern",
+        "eng_version": "Investigate the lectern...",
+        "ru_version": "Осмотреть пюпитр...",
+        "category_id": 1,
+        "bel_version": "Даследуйце пюпітр..."
+    },
+    {
+        "xml_id": "curio_tooltip_investigate_troubling_portrait",
+        "eng_version": "Study the portrait more closely...",
+        "ru_version": "Рассмотреть портрет поближе...",
+        "category_id": 1,
+        "bel_version": "Разгледзьце больш уважліва партрэт..."
+    },
+    {
+        "xml_id": "str_curio_title_old_one_statue",
+        "eng_version": "Statuette of Elder Gods",
+        "ru_version": "Статуэтка древних богов",
+        "category_id": 1,
+        "bel_version": "Статуэтка старэйшых багоў"
+    },
+    {
+        "xml_id": "str_curio_content_old_one_statue",
+        "eng_version": "An intricate statue tricks the eye with unnatural shape.",
+        "ru_version": "Затейливая статуэтка неестественной формы.",
+        "category_id": 1,
+        "bel_version": "Складаная статуя падманвае погляд ненатуральнасцю формы."
+    },
+    {
+        "xml_id": "str_curio_nothing_old_one_statue",
+        "eng_version": "The statue is but a misshapen decoration, and far too heavy to lift.",
+        "ru_version": "Всего лишь невнятное украшение, слишком тяжёлое, чтобы поднять.",
+        "category_id": 1,
+        "bel_version": "Статуя - усяго толькі дэфармацыя, і занадта цяжкая, каб падняць яе."
+    },
+    {
+        "xml_id": "str_curio_title_rotting_corpse",
+        "eng_version": "Pile of Bones",
+        "ru_version": "Куча костей",
+        "category_id": 1,
+        "bel_version": "Куча костак"
+    },
+    {
+        "xml_id": "str_curio_content_rotting_corpse",
+        "eng_version": "All that's left of a previous adventurer...",
+        "ru_version": "Всё, что осталось от прошлого искателя приключений.",
+        "category_id": 1,
+        "bel_version": "Усё, што засталося ад папярэдняга авантурыста..."
+    },
+    {
+        "xml_id": "str_curio_nothing_rotting_corpse",
+        "eng_version": "There is nothing of value in the remains.",
+        "ru_version": "Среди останков нет ничего ценного.",
+        "category_id": 1,
+        "bel_version": "У парэштках няма нічога каштоўнага."
+    },
+    {
+        "xml_id": "str_curio_title_fountain",
+        "eng_version": "Fountain",
+        "ru_version": "Фонтан",
+        "category_id": 1,
+        "bel_version": "Фантан"
+    },
+    {
+        "xml_id": "str_curio_content_fountain",
+        "eng_version": "A carven fountain still flows with water.",
+        "ru_version": "Резной фонтан всё ещё работает.",
+        "category_id": 1,
+        "bel_version": "Высечаны фантан дагэтуль цячэ вадой."
+    },
+    {
+        "xml_id": "str_curio_nothing_fountain",
+        "eng_version": "The fountain is unremarkable.",
+        "ru_version": "Ничем не примечательный фонтан.",
+        "category_id": 1,
+        "bel_version": "Фантан нічым не характэрны."
+    },
+    {
+        "xml_id": "str_curio_title_aged_cask",
+        "eng_version": "Aged Cask",
+        "ru_version": "Старая бочка",
+        "category_id": 1,
+        "bel_version": "Вытрыманая бочка"
+    },
+    {
+        "xml_id": "str_curio_content_aged_cask",
+        "eng_version": "A dusty, long-forgotten cask of some vintage spirit sits in your path.",
+        "ru_version": "На пути стоит пыльная позабытая бочка какого-то выдержанного напитка.",
+        "category_id": 1,
+        "bel_version": "На тваім шляху стаіць запыленая, даўно забытая бочка нейкага старадаўняга духу."
+    },
+    {
+        "xml_id": "str_curio_nothing_aged_cask",
+        "eng_version": "The cask is empty, long since drained at some extravagant celebration.",
+        "ru_version": "Бочка пуста. Наверняка её распили на каком-нибудь изысканном празднестве.",
+        "category_id": 1,
+        "bel_version": "Бочка пустая, даўно асушаная на нейкім экстравагантным урачыстасці."
+    },
+    {
+        "xml_id": "str_curio_title_oily_nitre",
+        "eng_version": "Oily Nitre",
+        "ru_version": "Липкий лишайник",
+        "category_id": 1,
+        "bel_version": "Масляністая салетра"
+    },
+    {
+        "xml_id": "str_curio_content_oily_nitre",
+        "eng_version": "The walls crawl with patches of dark and moist fungi.",
+        "ru_version": "На стенах пятна тёмной влажной плесени.",
+        "category_id": 1,
+        "bel_version": "Сцены пакрытыя плямамі цёмных і вільготных грыбоў."
+    },
+    {
+        "xml_id": "str_curio_nothing_oily_nitre",
+        "eng_version": "The lichen is unremarkable.",
+        "ru_version": "Просто лишайник.",
+        "category_id": 1,
+        "bel_version": "Лішайнік нічым не характэрны."
+    },
+    {
+        "xml_id": "str_curio_title_votive_table",
+        "eng_version": "Votive Table",
+        "ru_version": "Ритуальный стол",
+        "category_id": 1,
+        "bel_version": "Вотыўная табліца"
+    },
+    {
+        "xml_id": "str_curio_content_votive_table",
+        "eng_version": "Dusty half-burned candles are strewn about an ornate carved stone table.",
+        "ru_version": "По резному каменному столу расставлены пыльные полусгоревшие свечи.",
+        "category_id": 1,
+        "bel_version": "Запыленыя напалову згарэлыя свечкі раскіданыя па ўпрыгожаным разьбяным каменным стале."
+    },
+    {
+        "xml_id": "str_curio_nothing_votive_table",
+        "eng_version": "The table is disused and plain.",
+        "ru_version": "Стол не будет ничем полезен.",
+        "category_id": 1,
+        "bel_version": "Стол не выкарыстоўваецца і просты."
+    },
+    {
+        "xml_id": "str_curio_title_musty_tome",
+        "eng_version": "Musty Tome",
+        "ru_version": "Затхлый том",
+        "category_id": 1,
+        "bel_version": "Затхлы фаліянт"
+    },
+    {
+        "xml_id": "str_curio_content_musty_tome",
+        "eng_version": "An ancient tome with mysterious gilded lettering.",
+        "ru_version": "Старинная книга с загадочными золотыми письменами.",
+        "category_id": 1,
+        "bel_version": "Старадаўні фаліянт з загадкавымі пазалочанымі літарамі."
+    },
+    {
+        "xml_id": "str_curio_nothing_musty_tome",
+        "eng_version": "The dessicated book crumbles away when touched.",
+        "ru_version": "Высохшая книга рассыпается от прикосновения.",
+        "category_id": 1,
+        "bel_version": "Высушаная кніга рассыпаецца пры дакрананні."
+    },
+    {
+        "xml_id": "str_curio_title_arcane_lectern",
+        "eng_version": "Arcane Lectern",
+        "ru_version": "Магический пюпитр",
+        "category_id": 1,
+        "bel_version": "Арканскі аналой"
+    },
+    {
+        "xml_id": "str_curio_content_arcane_lectern",
+        "eng_version": "A stone pedestal carven in the shape of some nameless creature.",
+        "ru_version": "Каменный пьедестал в форме какого-то неизвестного существа.",
+        "category_id": 1,
+        "bel_version": "Каменны пастамент, высечаны ў форме нейкай безназоўнай істоты."
+    },
+    {
+        "xml_id": "str_curio_nothing_arcane_lectern",
+        "eng_version": "The lectern's purpose and value have long since been forgotten.",
+        "ru_version": "Уже никто не скажет, зачем был нужен этот пюпитр, и какова его ценность.",
+        "category_id": 1,
+        "bel_version": "Прызначэнне і каштоўнасць кафедры даўно забытыя."
+    },
+    {
+        "xml_id": "str_curio_title_troubling_portrait",
+        "eng_version": "Troubling Portrait",
+        "ru_version": "Пугающий портрет",
+        "category_id": 1,
+        "bel_version": "Трывожны партрэт"
+    },
+    {
+        "xml_id": "str_curio_content_troubling_portrait",
+        "eng_version": "Deep black eyes gaze upon you from the curios visage of an ancestor past.",
+        "ru_version": "Занятное изображение дальнего предка буравит вас взглядом чёрных глаз.",
+        "category_id": 1,
+        "bel_version": "Глыбокія чорныя вочы глядзяць на вас з дзіўнага аблічча мінулага продкаў."
+    },
+    {
+        "xml_id": "str_curio_nothing_troubling_portrait",
+        "eng_version": "The cracked and dusty painting is plain, and too large to transport.",
+        "ru_version": "Потрескавшийся пыльный портрет ничем не примечателен и слишком велик для переноски.",
+        "category_id": 1,
+        "bel_version": "Патрэсканая і запыленая карціна простая і занадта вялікая для транспарціроўкі."
+    },
+    {
+        "xml_id": "str_curio_title_secret_stash",
+        "eng_version": "Ancient Artifact",
+        "ru_version": "Древний артефакт",
+        "category_id": 1,
+        "bel_version": "Старажытны артэфакт"
+    },
+    {
+        "xml_id": "str_curio_content_secret_stash",
+        "eng_version": "A chest untouched for centuries. There's a locked compartment on the side of it.",
+        "ru_version": "Сундук, стоящий нетронутым несколько веков. Сбоку у него запертое отделение.",
+        "category_id": 1,
+        "bel_version": "Некрануты стагоддзямі куфар. Збоку ёсць зачыненае аддзяленне."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_secret_stash",
+        "eng_version": "Open the chest",
+        "ru_version": "Открыть сундук.",
+        "category_id": 1,
+        "bel_version": "Адкрыйце куфар"
+    },
+    {
+        "xml_id": "str_curio_secret_stash_loot",
+        "eng_version": "Someone left behind quite a stash.",
+        "ru_version": "Кто-то хорошенько запасся!",
+        "category_id": 1,
+        "bel_version": "Нехта пакінуў пасля сябе немалую заначку."
+    },
+    {
+        "xml_id": "str_curio_secret_stash_skeleton_key_loot",
+        "eng_version": "The secret compartment contains great treasures!",
+        "ru_version": "В потайном отделении полно ценностей!",
+        "category_id": 1,
+        "bel_version": "Сакрэтнае аддзяленне змяшчае вялікія скарбы!"
+    },
+    {
+        "xml_id": "str_curio_title_beacon",
+        "eng_version": "Iron Crown",
+        "ru_version": "Железная корона",
+        "category_id": 1,
+        "bel_version": "Жалезная карона"
+    },
+    {
+        "xml_id": "str_curio_content_beacon",
+        "eng_version": "We can light this with a Hand of Glory.",
+        "ru_version": "Можно осветить это рукой славы.",
+        "category_id": 1,
+        "bel_version": "Мы можам асвятліць гэта рукой славы."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_beacon_with_quest_item",
+        "eng_version": "Touching it won't do anything. We need to light it.",
+        "ru_version": "От касаний ничего не будет. Нужен свет.",
+        "category_id": 1,
+        "bel_version": "Дакрананне да гэтага нічога не дасць. Трэба запаліць."
+    },
+    {
+        "xml_id": "str_curio_beacon_beacon_light_loot",
+        "eng_version": "A cry is heard!  The creature squirms!",
+        "ru_version": "Раздаётся крик! Существо корчится!",
+        "category_id": 1,
+        "bel_version": "Чуецца крык! Істота курчыцца!"
+    },
+    {
+        "xml_id": "str_curio_title_teleporter",
+        "eng_version": "Locus Beacon",
+        "ru_version": "Путеводный огонь",
+        "category_id": 1,
+        "bel_version": "Локус-маяк"
+    },
+    {
+        "xml_id": "str_curio_content_teleporter",
+        "eng_version": "This must be it - the beginning of the end.",
+        "ru_version": "Вот, кажется, и оно – начало конца...",
+        "category_id": 1,
+        "bel_version": "Гэта павінна быць усё - пачатак канца."
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_teleporter",
+        "eng_version": "Activate the Portal",
+        "ru_version": "Активировать портал",
+        "category_id": 1,
+        "bel_version": "Актывуйце партал"
+    },
+    {
+        "xml_id": "str_curio_ancestors_knapsack_loot",
+        "eng_version": "Something hastily left behind by your Ancestor...",
+        "ru_version": "Нечто, в спешке брошенное предком...",
+        "category_id": 1,
+        "bel_version": "Нешта спешна пакінутае тваім Продкам..."
+    },
+    {
+        "xml_id": "str_curio_title_open_grave",
+        "eng_version": "Transcendent Terror",
+        "ru_version": "Трансцендентальный ужас",
+        "category_id": 1,
+        "bel_version": "Трансцэндэнтны тэрор"
+    },
+    {
+        "xml_id": "str_curio_content_open_grave",
+        "eng_version": "Surely nothing good can come of a dialogue with the dead...?",
+        "ru_version": "Что может быть хорошего в разговоре с мертвецом?..",
+        "category_id": 1,
+        "bel_version": "Няўжо з дыялогу з мёртвымі нічога добрага не атрымаецца...?"
+    },
+    {
+        "xml_id": "str_curio_tooltip_investigate_open_grave",
+        "eng_version": "Attempt to communicate...",
+        "ru_version": "Попытка общения...",
+        "category_id": 1,
+        "bel_version": "Спроба пагутарыць..."
+    },
+    {
+        "xml_id": "str_curio_open_grave_effect",
+        "eng_version": "Time - an endless cycle! Ia Iaaaa!",
+        "ru_version": "Время – бесконечно! Ыа, ыааа!",
+        "category_id": 1,
+        "bel_version": "Час - бясконцы кругазварот! Я-я-а-а!"
+    },
+    {
+        "xml_id": "str_obstacle_ancestor_title",
+        "eng_version": "Ancestor",
+        "ru_version": "Предок",
+        "category_id": 1,
+        "bel_version": "Продак"
+    },
+    {
+        "xml_id": "str_obstacle_ancestor_description",
+        "eng_version": "A ghostly premonition presents itself. Is it really him...?",
+        "ru_version": "Появляется призрачное видение. Он ли это?..",
+        "category_id": 1,
+        "bel_version": "Узнікае прывіднае прадчуванне. Гэта сапраўды ён...?"
+    },
+    {
+        "xml_id": "obstacle_tooltip_ancestor_talk",
+        "eng_version": "Listen...",
+        "ru_version": "Слушайте...",
+        "category_id": 1,
+        "bel_version": "слухай..."
+    },
+    {
+        "xml_id": "str_curio_incursion_knapsack_loot",
+        "eng_version": "Pillaged Satchel",
+        "ru_version": "Мешок с награбленным",
+        "category_id": 1,
+        "bel_version": "Абрабаваны ранец"
+    },
+    {
+        "xml_id": "str_curio_locked_strongbox_loot",
+        "eng_version": "The contents are yours!",
+        "ru_version": "Содержимое ваше!",
+        "category_id": 1,
+        "bel_version": "Змесціва ваша!"
+    },
+    {
+        "xml_id": "str_curio_tutorial_shovel_loot",
+        "eng_version": "The contents are yours!",
+        "ru_version": "Содержимое ваше!",
+        "category_id": 1,
+        "bel_version": "Змесціва ваша!"
+    },
+    {
+        "xml_id": "str_curio_tutorial_holy_loot",
+        "eng_version": "The sack's contents are yours...",
+        "ru_version": "Содержимое мешка ваше...",
+        "category_id": 1,
+        "bel_version": "Змесціва мяшка тваё..."
+    },
+    {
+        "xml_id": "str_curio_tutorial_key_loot",
+        "eng_version": "The pack contains loot!",
+        "ru_version": "В мешке добыча!",
+        "category_id": 1,
+        "bel_version": "Пакет змяшчае здабычу!"
+    },
+    {
+        "xml_id": "str_curio_tutorial_food_loot",
+        "eng_version": "The pack contains loot!",
+        "ru_version": "В мешке добыча!",
+        "category_id": 1,
+        "bel_version": "Пакет змяшчае здабычу!"
+    },
+    {
+        "xml_id": "str_curio_thanks_chest_loot",
+        "eng_version": "The contents are yours!",
+        "ru_version": "Содержимое ваше!",
+        "category_id": 1,
+        "bel_version": "Змесціва ваша!"
+    }
+]

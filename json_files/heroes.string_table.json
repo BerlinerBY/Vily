@@ -1,0 +1,4041 @@
+[
+    {
+        "xml_id": "hero_class_name_crusader",
+        "eng_version": "Crusader",
+        "ru_version": "Крестоносец",
+        "category_id": 3,
+        "bel_version": "крыжак"
+    },
+    {
+        "xml_id": "hero_class_name_bounty_hunter",
+        "eng_version": "Bounty Hunter",
+        "ru_version": "Наёмник",
+        "category_id": 3,
+        "bel_version": "Паляўнічы за галовамі"
+    },
+    {
+        "xml_id": "hero_class_name_vestal",
+        "eng_version": "Vestal",
+        "ru_version": "Весталка",
+        "category_id": 3,
+        "bel_version": "Весталка"
+    },
+    {
+        "xml_id": "hero_class_name_plague_doctor",
+        "eng_version": "Plague Doctor",
+        "ru_version": "Чумной доктор",
+        "category_id": 3,
+        "bel_version": "Чумны доктар"
+    },
+    {
+        "xml_id": "hero_class_name_grave_robber",
+        "eng_version": "Grave Robber",
+        "ru_version": "Могильная воровка",
+        "category_id": 3,
+        "bel_version": "Рабаўнік магіл"
+    },
+    {
+        "xml_id": "hero_class_name_occultist",
+        "eng_version": "Occultist",
+        "ru_version": "Оккультист",
+        "category_id": 3,
+        "bel_version": "Акультыст"
+    },
+    {
+        "xml_id": "hero_class_name_highwayman",
+        "eng_version": "Highwayman",
+        "ru_version": "Разбойник",
+        "category_id": 3,
+        "bel_version": "Разбойнік з вялікай дарогі"
+    },
+    {
+        "xml_id": "hero_class_name_hellion",
+        "eng_version": "Hellion",
+        "ru_version": "Дикарка",
+        "category_id": 3,
+        "bel_version": "Хіліён"
+    },
+    {
+        "xml_id": "hero_class_name_jester",
+        "eng_version": "Jester",
+        "ru_version": "Шут",
+        "category_id": 3,
+        "bel_version": "Шут"
+    },
+    {
+        "xml_id": "hero_class_name_leper",
+        "eng_version": "Leper",
+        "ru_version": "Прокажённый",
+        "category_id": 3,
+        "bel_version": "Пракажоны"
+    },
+    {
+        "xml_id": "hero_class_name_arbalest",
+        "eng_version": "Arbalest",
+        "ru_version": "Арбалетчица",
+        "category_id": 3,
+        "bel_version": "Арбалет"
+    },
+    {
+        "xml_id": "hero_class_name_man_at_arms",
+        "eng_version": "Man-at-Arms",
+        "ru_version": "Воитель",
+        "category_id": 3,
+        "bel_version": "Ваенны"
+    },
+    {
+        "xml_id": "hero_class_name_houndmaster",
+        "eng_version": "Houndmaster",
+        "ru_version": "Дрессировщик",
+        "category_id": 3,
+        "bel_version": "Хаундмайстар"
+    },
+    {
+        "xml_id": "hero_class_name_abomination",
+        "eng_version": "Abomination",
+        "ru_version": "Выродок",
+        "category_id": 3,
+        "bel_version": "Агіднасць"
+    },
+    {
+        "xml_id": "hero_class_name_antiquarian",
+        "eng_version": "Antiquarian",
+        "ru_version": "Антиквар",
+        "category_id": 3,
+        "bel_version": "Антыквар"
+    },
+    {
+        "xml_id": "hero_class_name_musketeer",
+        "eng_version": "Musketeer",
+        "ru_version": "Мушкетер",
+        "category_id": 3,
+        "bel_version": "Мушкецёр"
+    },
+    {
+        "xml_id": "combat_skill_name_level_format",
+        "eng_version": "%s %d",
+        "ru_version": "%s %d",
+        "category_id": 3,
+        "bel_version": "%s %d"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_smite",
+        "eng_version": "Smite",
+        "ru_version": "Сокрушение",
+        "category_id": 3,
+        "bel_version": "Пабіць"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_zealous_accusation",
+        "eng_version": "Zealous Accusation",
+        "ru_version": "Яростное обвинение",
+        "category_id": 3,
+        "bel_version": "Заўзятае абвінавачванне"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_stunning_blow",
+        "eng_version": "Stunning Blow",
+        "ru_version": "Оглушающий удар",
+        "category_id": 3,
+        "bel_version": "Ашаламляльны ўдар"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_bulwark_of_faith",
+        "eng_version": "Bulwark of Faith",
+        "ru_version": "Твердыня веры",
+        "category_id": 3,
+        "bel_version": "Аплот Веры"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_battle_heal",
+        "eng_version": "Battle Heal",
+        "ru_version": "Боевое лечение",
+        "category_id": 3,
+        "bel_version": "Battle Heal"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_holy_lance",
+        "eng_version": "Holy Lance",
+        "ru_version": "Святое копьё",
+        "category_id": 3,
+        "bel_version": "Святы Лэнс"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_inspiring_cry",
+        "eng_version": "Inspiring Cry",
+        "ru_version": "Воодушевление",
+        "category_id": 3,
+        "bel_version": "Натхняльны крык"
+    },
+    {
+        "xml_id": "combat_skill_name_crusader_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.smite",
+        "eng_version": "Smite",
+        "ru_version": "Сокрушение",
+        "category_id": 3,
+        "bel_version": "Пабіць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.zealous_accusation",
+        "eng_version": "Zealous Accusation",
+        "ru_version": "Яростное обвинение",
+        "category_id": 3,
+        "bel_version": "Заўзятае абвінавачванне"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.stunning_blow",
+        "eng_version": "Stunning Blow",
+        "ru_version": "Оглушающий удар",
+        "category_id": 3,
+        "bel_version": "Ашаламляльны ўдар"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.bulwark_of_faith",
+        "eng_version": "Bulwark of Faith",
+        "ru_version": "Твердыня веры",
+        "category_id": 3,
+        "bel_version": "Аплот Веры"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.battle_heal",
+        "eng_version": "Battle Heal",
+        "ru_version": "Боевое лечение",
+        "category_id": 3,
+        "bel_version": "Battle Heal"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.holy_lance",
+        "eng_version": "Holy Lance",
+        "ru_version": "Святое копьё",
+        "category_id": 3,
+        "bel_version": "Святы Лэнс"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.inspiring_cry",
+        "eng_version": "Inspiring Cry",
+        "ru_version": "Воодушевление",
+        "category_id": 3,
+        "bel_version": "Натхняльны крык"
+    },
+    {
+        "xml_id": "combat_skill_name_factotum_bold_slice",
+        "eng_version": "Bold Slice",
+        "ru_version": "Сильный рубец",
+        "category_id": 3,
+        "bel_version": "Тоўсты зрэз"
+    },
+    {
+        "xml_id": "combat_skill_name_factotum_pistol_shot",
+        "eng_version": "Pistol Shot",
+        "ru_version": "Пистолетный выстрел",
+        "category_id": 3,
+        "bel_version": "Стрэл з пісталета"
+    },
+    {
+        "xml_id": "combat_skill_name_factotum_point_blank_shot",
+        "eng_version": "Point Blank Shot",
+        "ru_version": "Неприцельный выстрел",
+        "category_id": 3,
+        "bel_version": "Стрэл ва ўпор"
+    },
+    {
+        "xml_id": "combat_skill_name_factotum_grape_shot_blast",
+        "eng_version": "Grapeshot Blast",
+        "ru_version": "Картечный залп",
+        "category_id": 3,
+        "bel_version": "Grapeshot Blast"
+    },
+    {
+        "xml_id": "combat_skill_name_factotum_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_wicked_slice",
+        "eng_version": "Wicked Slice",
+        "ru_version": "Глубокий порез",
+        "category_id": 3,
+        "bel_version": "Wicked Slice"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_pistol_shot",
+        "eng_version": "Pistol Shot",
+        "ru_version": "Пистолетный выстрел",
+        "category_id": 3,
+        "bel_version": "Стрэл з пісталета"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_point_blank_shot",
+        "eng_version": "Point Blank Shot",
+        "ru_version": "Неприцельный выстрел",
+        "category_id": 3,
+        "bel_version": "Стрэл ва ўпор"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_grape_shot_blast",
+        "eng_version": "Grapeshot Blast",
+        "ru_version": "Картечный залп",
+        "category_id": 3,
+        "bel_version": "Grapeshot Blast"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_take_aim",
+        "eng_version": "Tracking Shot",
+        "ru_version": "Прицельный выстрел",
+        "category_id": 3,
+        "bel_version": "Адсочваючы стрэл"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_duelist_advance",
+        "eng_version": "Duelist's Advance",
+        "ru_version": "Боевой натиск",
+        "category_id": 3,
+        "bel_version": "Аванс дуэлянта"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_opened_vein",
+        "eng_version": "Open Vein",
+        "ru_version": "Порез вены",
+        "category_id": 3,
+        "bel_version": "Адкрытая вена"
+    },
+    {
+        "xml_id": "combat_skill_name_highwayman_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.wicked_slice",
+        "eng_version": "Wicked Slice",
+        "ru_version": "Глубокий порез",
+        "category_id": 3,
+        "bel_version": "Wicked Slice"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.pistol_shot",
+        "eng_version": "Pistol Shot",
+        "ru_version": "Пистолетный выстрел",
+        "category_id": 3,
+        "bel_version": "Стрэл з пісталета"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.point_blank_shot",
+        "eng_version": "Point Blank Shot",
+        "ru_version": "Неприцельный выстрел",
+        "category_id": 3,
+        "bel_version": "Стрэл ва ўпор"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.grape_shot_blast",
+        "eng_version": "Grapeshot Blast",
+        "ru_version": "Картечный залп",
+        "category_id": 3,
+        "bel_version": "Grapeshot Blast"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.take_aim",
+        "eng_version": "Take Aim",
+        "ru_version": "Прицел",
+        "category_id": 3,
+        "bel_version": "Прыцэліцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.duelist_advance",
+        "eng_version": "Duelist's Advance",
+        "ru_version": "Боевой натиск",
+        "category_id": 3,
+        "bel_version": "Аванс дуэлянта"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.opened_vein",
+        "eng_version": "Open Vein",
+        "ru_version": "Порез вены",
+        "category_id": 3,
+        "bel_version": "Адкрытая вена"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_noxious_blast",
+        "eng_version": "Noxious Blast",
+        "ru_version": "Ядовитый залп",
+        "category_id": 3,
+        "bel_version": "Шкодны выбух"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_plague_grenade",
+        "eng_version": "Plague Grenade",
+        "ru_version": "Чумная граната",
+        "category_id": 3,
+        "bel_version": "Чумная граната"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_blinding_gas",
+        "eng_version": "Blinding Gas",
+        "ru_version": "Слепящий газ",
+        "category_id": 3,
+        "bel_version": "Асляпляльны газ"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_incision",
+        "eng_version": "Incision",
+        "ru_version": "Надрез",
+        "category_id": 3,
+        "bel_version": "Разрэз"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_battlefield_medicine",
+        "eng_version": "Battlefield Medicine",
+        "ru_version": "Боевая медицина",
+        "category_id": 3,
+        "bel_version": "Медыцына поля бою"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_emboldening_vapours",
+        "eng_version": "Emboldening Vapours",
+        "ru_version": "Ободряющий пар",
+        "category_id": 3,
+        "bel_version": "Абнадзейваючыя пары"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_disorienting_blast",
+        "eng_version": "Disorienting Blast",
+        "ru_version": "Дезориентирующий залп",
+        "category_id": 3,
+        "bel_version": "Дэзарыентуючы выбух"
+    },
+    {
+        "xml_id": "combat_skill_name_plague_doctor_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.noxious_blast",
+        "eng_version": "Noxious Blast",
+        "ru_version": "Ядовитый залп",
+        "category_id": 3,
+        "bel_version": "Шкодны выбух"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.plague_grenade",
+        "eng_version": "Plague Grenade",
+        "ru_version": "Чумная граната",
+        "category_id": 3,
+        "bel_version": "Чумная граната"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.blinding_gas",
+        "eng_version": "Blinding Gas",
+        "ru_version": "Слепящий газ",
+        "category_id": 3,
+        "bel_version": "Асляпляльны газ"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.incision",
+        "eng_version": "Incision",
+        "ru_version": "Надрез",
+        "category_id": 3,
+        "bel_version": "Разрэз"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.battlefield_medicine",
+        "eng_version": "Battlefield Medicine",
+        "ru_version": "Боевая медицина",
+        "category_id": 3,
+        "bel_version": "Медыцына поля бою"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.emboldening_vapours",
+        "eng_version": "Emboldening Vapours",
+        "ru_version": "Ободряющий пар",
+        "category_id": 3,
+        "bel_version": "Абнадзейваючыя пары"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.disorienting_blast",
+        "eng_version": "Disorienting Blast",
+        "ru_version": "Дезориентирующий залп",
+        "category_id": 3,
+        "bel_version": "Дэзарыентуючы выбух"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_judgement",
+        "eng_version": "Judgement",
+        "ru_version": "Осуждение",
+        "category_id": 3,
+        "bel_version": "Прысуд"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_mace_bash",
+        "eng_version": "Mace Bash",
+        "ru_version": "Удар булавой",
+        "category_id": 3,
+        "bel_version": "Мэйс Баш"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_dazzling_light",
+        "eng_version": "Dazzling Light",
+        "ru_version": "Слепящий свет",
+        "category_id": 3,
+        "bel_version": "Асляпляльнае святло"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_divine_grace",
+        "eng_version": "Divine Grace",
+        "ru_version": "Божья милость",
+        "category_id": 3,
+        "bel_version": "Боская ласка"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_gods_comfort",
+        "eng_version": "Divine Comfort",
+        "ru_version": "Божье утешение",
+        "category_id": 3,
+        "bel_version": "Боскі камфорт"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_gods_hand",
+        "eng_version": "Hand of Light",
+        "ru_version": "Рука Света",
+        "category_id": 3,
+        "bel_version": "Рука святла"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_gods_illumination",
+        "eng_version": "Illumination",
+        "ru_version": "Освещение",
+        "category_id": 3,
+        "bel_version": "Ілюмінацыя"
+    },
+    {
+        "xml_id": "combat_skill_name_vestal_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.judgement",
+        "eng_version": "Judgement",
+        "ru_version": "Осуждение",
+        "category_id": 3,
+        "bel_version": "Прысуд"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.mace_bash",
+        "eng_version": "Mace Bash",
+        "ru_version": "Удар булавой",
+        "category_id": 3,
+        "bel_version": "Мэйс Баш"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.dazzling_light",
+        "eng_version": "Dazzling Light",
+        "ru_version": "Слепящий Свет",
+        "category_id": 3,
+        "bel_version": "Асляпляльнае святло"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.divine_grace",
+        "eng_version": "Divine Grace",
+        "ru_version": "Божья милость",
+        "category_id": 3,
+        "bel_version": "Боская ласка"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.gods_comfort",
+        "eng_version": "Divine Comfort",
+        "ru_version": "Божье утешение",
+        "category_id": 3,
+        "bel_version": "Боскі камфорт"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.gods_hand",
+        "eng_version": "Hand of Light",
+        "ru_version": "Рука Света",
+        "category_id": 3,
+        "bel_version": "Рука святла"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.gods_illumination",
+        "eng_version": "Illumination",
+        "ru_version": "Освещение",
+        "category_id": 3,
+        "bel_version": "Ілюмінацыя"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_pick",
+        "eng_version": "Pick to the Face",
+        "ru_version": "Киркой в лицо",
+        "category_id": 3,
+        "bel_version": "Выбраць да твару"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_lunge",
+        "eng_version": "Lunge",
+        "ru_version": "Выпад",
+        "category_id": 3,
+        "bel_version": "Выпад"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_flashing_daggers",
+        "eng_version": "Flashing Daggers",
+        "ru_version": "Мерцающие кинжалы",
+        "category_id": 3,
+        "bel_version": "Мігатлівыя кінжалы"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_shadow_fade",
+        "eng_version": "Shadow Fade",
+        "ru_version": "Уход в тень",
+        "category_id": 3,
+        "bel_version": "Shadow Fade"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_thrown_dagger",
+        "eng_version": "Thrown Dagger",
+        "ru_version": "Бросок ножа",
+        "category_id": 3,
+        "bel_version": "Кінжал"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_poison_dart",
+        "eng_version": "Poison Darts",
+        "ru_version": "Ядовитые дротики",
+        "category_id": 3,
+        "bel_version": "Атрутныя дроцікі"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_toxin_trickery",
+        "eng_version": "Toxin Trickery",
+        "ru_version": "Подлый токсин",
+        "category_id": 3,
+        "bel_version": "Падман таксінаў"
+    },
+    {
+        "xml_id": "combat_skill_name_grave_robber_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.pick",
+        "eng_version": "Pick to the Face",
+        "ru_version": "Киркой в лицо",
+        "category_id": 3,
+        "bel_version": "Выбраць да твару"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.lunge",
+        "eng_version": "Lunge",
+        "ru_version": "Выпад",
+        "category_id": 3,
+        "bel_version": "Выпад"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.flashing_daggers",
+        "eng_version": "Flashing Daggers",
+        "ru_version": "Мерцающие кинжалы",
+        "category_id": 3,
+        "bel_version": "Мігатлівыя кінжалы"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.shadow_fade",
+        "eng_version": "Shadow Fade",
+        "ru_version": "Уход в тень",
+        "category_id": 3,
+        "bel_version": "Shadow Fade"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.thrown_dagger",
+        "eng_version": "Thrown Dagger",
+        "ru_version": "Бросок ножа",
+        "category_id": 3,
+        "bel_version": "Кінжал"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.poison_dart",
+        "eng_version": "Poison Darts",
+        "ru_version": "Ядовитые дротики",
+        "category_id": 3,
+        "bel_version": "Атрутныя дроцікі"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.toxin_trickery",
+        "eng_version": "Toxin Trickery",
+        "ru_version": "Подлый токсин",
+        "category_id": 3,
+        "bel_version": "Падман таксінаў"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_wicked_hack",
+        "eng_version": "Wicked Hack",
+        "ru_version": "Глубокий рубец",
+        "category_id": 3,
+        "bel_version": "Злы хак"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_iron_swan",
+        "eng_version": "Iron Swan",
+        "ru_version": "Железный лебедь",
+        "category_id": 3,
+        "bel_version": "Жалезны лебедзь"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_barbaric_yawp",
+        "eng_version": "Barbaric YAWP!",
+        "ru_version": "Варварский ВОПЛЬ!",
+        "category_id": 3,
+        "bel_version": "Варварскі ЯВП!"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_if_it_bleeds",
+        "eng_version": "If It Bleeds",
+        "ru_version": "Если кровоточит",
+        "category_id": 3,
+        "bel_version": "Калі гэта сыходзіць крывёй"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_breakthru",
+        "eng_version": "Breakthrough",
+        "ru_version": "Прорыв",
+        "category_id": 3,
+        "bel_version": "Прарыў"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_adrenaline_rush",
+        "eng_version": "Adrenaline Rush",
+        "ru_version": "Прилив адреналина",
+        "category_id": 3,
+        "bel_version": "Выкід адрэналіну"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_bleed_out",
+        "eng_version": "Bleed Out",
+        "ru_version": "Истечение кровью",
+        "category_id": 3,
+        "bel_version": "Выліцца крывёй"
+    },
+    {
+        "xml_id": "combat_skill_name_hellion_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.wicked_hack",
+        "eng_version": "Wicked Hack",
+        "ru_version": "Глубокий рубец",
+        "category_id": 3,
+        "bel_version": "Злы хак"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.iron_swan",
+        "eng_version": "Iron Swan",
+        "ru_version": "Железный лебедь",
+        "category_id": 3,
+        "bel_version": "Жалезны лебедзь"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.barbaric_yawp",
+        "eng_version": "Barbaric YAWP!",
+        "ru_version": "Варварский ВОПЛЬ!",
+        "category_id": 3,
+        "bel_version": "Варварскі ЯВП!"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.if_it_bleeds",
+        "eng_version": "If It Bleeds",
+        "ru_version": "Если кровоточит",
+        "category_id": 3,
+        "bel_version": "Калі гэта сыходзіць крывёй"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.breakthru",
+        "eng_version": "Breakthrough",
+        "ru_version": "Прорыв",
+        "category_id": 3,
+        "bel_version": "Прарыў"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.adrenaline_rush",
+        "eng_version": "Adrenaline Rush",
+        "ru_version": "Прилив адреналина",
+        "category_id": 3,
+        "bel_version": "Выкід адрэналіну"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.bleed_out",
+        "eng_version": "Bleed Out",
+        "ru_version": "Истечение кровью",
+        "category_id": 3,
+        "bel_version": "Выліцца крывёй"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_collect_bounty",
+        "eng_version": "Collect Bounty",
+        "ru_version": "Вознаграждение",
+        "category_id": 3,
+        "bel_version": "Збірайце Баунці"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_target_tag",
+        "eng_version": "Mark for Death",
+        "ru_version": "Смертная метка",
+        "category_id": 3,
+        "bel_version": "Знак смерці"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_come_hither",
+        "eng_version": "Come Hither",
+        "ru_version": "Иди сюда",
+        "category_id": 3,
+        "bel_version": "Прыходзьце сюды"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_uppercut",
+        "eng_version": "Uppercut",
+        "ru_version": "Апперкот",
+        "category_id": 3,
+        "bel_version": "Аперкот"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_flashbang",
+        "eng_version": "Flashbang",
+        "ru_version": "Светошумовая граната",
+        "category_id": 3,
+        "bel_version": "Успышка"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_finish_him",
+        "eng_version": "Finish Him",
+        "ru_version": "Добивание",
+        "category_id": 3,
+        "bel_version": "Дабіць Яго"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_hook_and_slice",
+        "eng_version": "Caltrops",
+        "ru_version": "Шипы",
+        "category_id": 3,
+        "bel_version": "Кальтрапы"
+    },
+    {
+        "xml_id": "combat_skill_name_bounty_hunter_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.collect_bounty",
+        "eng_version": "Collect Bounty",
+        "ru_version": "Вознаграждение",
+        "category_id": 3,
+        "bel_version": "Збірайце Баунці"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.target_tag",
+        "eng_version": "Mark for Death",
+        "ru_version": "Смертная метка",
+        "category_id": 3,
+        "bel_version": "Знак смерці"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.come_hither",
+        "eng_version": "Come Hither",
+        "ru_version": "Иди сюда",
+        "category_id": 3,
+        "bel_version": "Прыходзьце сюды"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.uppercut",
+        "eng_version": "Uppercut",
+        "ru_version": "Апперкот",
+        "category_id": 3,
+        "bel_version": "Аперкот"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.flashbang",
+        "eng_version": "Flashbang",
+        "ru_version": "Светошумовая граната",
+        "category_id": 3,
+        "bel_version": "Успышка"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.finish_him",
+        "eng_version": "Finish Him",
+        "ru_version": "Добивание",
+        "category_id": 3,
+        "bel_version": "Дабіць Яго"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.hook_and_slice",
+        "eng_version": "Maim",
+        "ru_version": "Калечить",
+        "category_id": 3,
+        "bel_version": "Калечыць"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_bloodlet",
+        "eng_version": "Sacrificial Stab",
+        "ru_version": "Жертвенный порез",
+        "category_id": 3,
+        "bel_version": "Ахвярны ўдар"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_abyssal_artillery",
+        "eng_version": "Abyssal Artillery",
+        "ru_version": "Бездонная артиллерия",
+        "category_id": 3,
+        "bel_version": "Грунтоўная артылерыя"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_weakening_curse",
+        "eng_version": "Weakening Curse",
+        "ru_version": "Ослабляющее проклятье",
+        "category_id": 3,
+        "bel_version": "Аслабляючы праклён"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_wyrd_reconstruction",
+        "eng_version": "Wyrd Reconstruction",
+        "ru_version": "Восстановление",
+        "category_id": 3,
+        "bel_version": "Рэканструкцыя Wyrd"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_disruptive_curse",
+        "eng_version": "Vulnerability Hex",
+        "ru_version": "Проклятье уязвимости",
+        "category_id": 3,
+        "bel_version": "Уразлівасць Hex"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_hands_from_abyss",
+        "eng_version": "Hands from the Abyss",
+        "ru_version": "Руки из бездны",
+        "category_id": 3,
+        "bel_version": "Рукі з бездані"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_daemons_pull",
+        "eng_version": "Daemon's Pull",
+        "ru_version": "Демоническая тяга",
+        "category_id": 3,
+        "bel_version": "Цяга Дэмана"
+    },
+    {
+        "xml_id": "combat_skill_name_occultist_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.bloodlet",
+        "eng_version": "Sacrificial Stab",
+        "ru_version": "Жертвенный порез",
+        "category_id": 3,
+        "bel_version": "Ахвярны ўдар"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.abyssal_artillery",
+        "eng_version": "Abyssal Artillery",
+        "ru_version": "Бездонная артиллерия",
+        "category_id": 3,
+        "bel_version": "Грунтоўная артылерыя"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.weakening_curse",
+        "eng_version": "Weakening Curse",
+        "ru_version": "Ослабляющее проклятье",
+        "category_id": 3,
+        "bel_version": "Аслабляючы праклён"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.wyrd_reconstruction",
+        "eng_version": "Wyrd Reconstruction",
+        "ru_version": "Восстановление",
+        "category_id": 3,
+        "bel_version": "Рэканструкцыя Wyrd"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.disruptive_curse",
+        "eng_version": "Vulnerability Hex",
+        "ru_version": "Проклятье уязвимости",
+        "category_id": 3,
+        "bel_version": "Уразлівасць Hex"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.hands_from_abyss",
+        "eng_version": "Hands from the Abyss",
+        "ru_version": "Руки из бездны",
+        "category_id": 3,
+        "bel_version": "Рукі з бездані"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.daemons_pull",
+        "eng_version": "Daemon's Pull",
+        "ru_version": "Демоническая тяга",
+        "category_id": 3,
+        "bel_version": "Цяга Дэмана"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_dirk_stab",
+        "eng_version": "Dirk Stab",
+        "ru_version": "Удар кинжалом",
+        "category_id": 3,
+        "bel_version": "Дырк Стаб"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_harvest",
+        "eng_version": "Harvest",
+        "ru_version": "Урожай",
+        "category_id": 3,
+        "bel_version": "Ураджай"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_heroic_end",
+        "eng_version": "Finale",
+        "ru_version": "Финал",
+        "category_id": 3,
+        "bel_version": "Фінал"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_inspiring_tune",
+        "eng_version": "Inspiring Tune",
+        "ru_version": "Бодрящая мелодия",
+        "category_id": 3,
+        "bel_version": "Натхняльная мелодыя"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_slice_off",
+        "eng_version": "Slice Off",
+        "ru_version": "Отрез",
+        "category_id": 3,
+        "bel_version": "Адрэзаць"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_battle_ballad",
+        "eng_version": "Battle Ballad",
+        "ru_version": "Боевая баллада",
+        "category_id": 3,
+        "bel_version": "Баявая балада"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_solo",
+        "eng_version": "Solo",
+        "ru_version": "Соло",
+        "category_id": 3,
+        "bel_version": "Сола"
+    },
+    {
+        "xml_id": "combat_skill_name_jester_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.dirk_stab",
+        "eng_version": "Dirk Stab",
+        "ru_version": "Удар кинжалом",
+        "category_id": 3,
+        "bel_version": "Дырк Стаб"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.harvest",
+        "eng_version": "Harvest",
+        "ru_version": "Урожай",
+        "category_id": 3,
+        "bel_version": "Ураджай"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.heroic_end",
+        "eng_version": "Finale",
+        "ru_version": "Финал",
+        "category_id": 3,
+        "bel_version": "Фінал"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.inspiring_tune",
+        "eng_version": "Inspiring Tune",
+        "ru_version": "Бодрящая мелодия",
+        "category_id": 3,
+        "bel_version": "Натхняльная мелодыя"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.slice_off",
+        "eng_version": "Slice Off",
+        "ru_version": "Отрез",
+        "category_id": 3,
+        "bel_version": "Адрэзаць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.battle_ballad",
+        "eng_version": "Battle Ballad",
+        "ru_version": "Боевая баллада",
+        "category_id": 3,
+        "bel_version": "Баявая балада"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.solo",
+        "eng_version": "Solo",
+        "ru_version": "Соло",
+        "category_id": 3,
+        "bel_version": "Сола"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_chop",
+        "eng_version": "Chop",
+        "ru_version": "Рубец",
+        "category_id": 3,
+        "bel_version": "Нарэзаць"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_hew",
+        "eng_version": "Hew",
+        "ru_version": "Сечка",
+        "category_id": 3,
+        "bel_version": "Hew"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_focus",
+        "eng_version": "Purge",
+        "ru_version": "Очищение",
+        "category_id": 3,
+        "bel_version": "Чыстка"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_revenge",
+        "eng_version": "Revenge",
+        "ru_version": "Месть",
+        "category_id": 3,
+        "bel_version": "Помста"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_solemnity",
+        "eng_version": "Solemnity",
+        "ru_version": "Обряд",
+        "category_id": 3,
+        "bel_version": "Урачыстасць"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_withstand",
+        "eng_version": "Withstand",
+        "ru_version": "Выдержка",
+        "category_id": 3,
+        "bel_version": "Вытрымаць"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_intimidate",
+        "eng_version": "Intimidate",
+        "ru_version": "Запугивание",
+        "category_id": 3,
+        "bel_version": "Запалохаць"
+    },
+    {
+        "xml_id": "combat_skill_name_leper_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.chop",
+        "eng_version": "Chop",
+        "ru_version": "Рубец",
+        "category_id": 3,
+        "bel_version": "Нарэзаць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.hew",
+        "eng_version": "Hew",
+        "ru_version": "Сечка",
+        "category_id": 3,
+        "bel_version": "Hew"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.focus",
+        "eng_version": "Purge",
+        "ru_version": "Очищение",
+        "category_id": 3,
+        "bel_version": "Чыстка"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.revenge",
+        "eng_version": "Revenge",
+        "ru_version": "Месть",
+        "category_id": 3,
+        "bel_version": "Помста"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.solemnity",
+        "eng_version": "Solemnity",
+        "ru_version": "Обряд",
+        "category_id": 3,
+        "bel_version": "Урачыстасць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.withstand",
+        "eng_version": "Withstand",
+        "ru_version": "Выдержка",
+        "category_id": 3,
+        "bel_version": "Вытрымаць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.intimidate",
+        "eng_version": "Intimidate",
+        "ru_version": "Запугивание",
+        "category_id": 3,
+        "bel_version": "Запалохаць"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_sniper_shot",
+        "eng_version": "Sniper Shot",
+        "ru_version": "Снайперский выстрел",
+        "category_id": 3,
+        "bel_version": "Снайперскі стрэл"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_suppressing_fire",
+        "eng_version": "Suppressing Fire",
+        "ru_version": "Подавляющий огонь",
+        "category_id": 3,
+        "bel_version": "Тушэнне агню"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_sniper_mark",
+        "eng_version": "Sniper's Mark",
+        "ru_version": "Метка снайпера",
+        "category_id": 3,
+        "bel_version": "Знак снайпера"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_bola",
+        "eng_version": "Bola",
+        "ru_version": "Бола",
+        "category_id": 3,
+        "bel_version": "Бола"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_blindfire",
+        "eng_version": "Blindfire",
+        "ru_version": "Огонь вслепую",
+        "category_id": 3,
+        "bel_version": "Сляпы агонь"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_battlefield_bandage",
+        "eng_version": "Battlefield Bandage",
+        "ru_version": "Боевая перевязка",
+        "category_id": 3,
+        "bel_version": "Павязка на полі бою"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_flare",
+        "eng_version": "Rallying Flare",
+        "ru_version": "Знак союзникам",
+        "category_id": 3,
+        "bel_version": "Мітынговая ракета"
+    },
+    {
+        "xml_id": "combat_skill_name_arbalest_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.sniper_shot",
+        "eng_version": "Sniper Shot",
+        "ru_version": "Снайперский выстрел",
+        "category_id": 3,
+        "bel_version": "Снайперскі стрэл"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.suppressing_fire",
+        "eng_version": "Suppressing Fire",
+        "ru_version": "Подавляющий огонь",
+        "category_id": 3,
+        "bel_version": "Тушэнне агню"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.sniper_mark",
+        "eng_version": "Sniper's Mark",
+        "ru_version": "Метка снайпера",
+        "category_id": 3,
+        "bel_version": "Знак снайпера"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.bola",
+        "eng_version": "Bola",
+        "ru_version": "Бола",
+        "category_id": 3,
+        "bel_version": "Бола"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.blindfire",
+        "eng_version": "Blindfire",
+        "ru_version": "Огонь вслепую",
+        "category_id": 3,
+        "bel_version": "Сляпы агонь"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.battlefield_bandage",
+        "eng_version": "Battlefield Bandage",
+        "ru_version": "Боевая перевязка",
+        "category_id": 3,
+        "bel_version": "Павязка на полі бою"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.flare",
+        "eng_version": "Rallying Flare",
+        "ru_version": "Знак союзникам",
+        "category_id": 3,
+        "bel_version": "Мітынговая ракета"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_crush",
+        "eng_version": "Crush",
+        "ru_version": "Сокрушение",
+        "category_id": 3,
+        "bel_version": "Раздушыць"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_rampart",
+        "eng_version": "Rampart",
+        "ru_version": "Укрепление",
+        "category_id": 3,
+        "bel_version": "Валы"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_bellow",
+        "eng_version": "Bellow",
+        "ru_version": "Рёв",
+        "category_id": 3,
+        "bel_version": "Беллоў"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_defender",
+        "eng_version": "Defender",
+        "ru_version": "Защитник",
+        "category_id": 3,
+        "bel_version": "Абаронца"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_retribution",
+        "eng_version": "Retribution",
+        "ru_version": "Воздаяние",
+        "category_id": 3,
+        "bel_version": "Адплата"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_command",
+        "eng_version": "Command",
+        "ru_version": "Команда",
+        "category_id": 3,
+        "bel_version": "Камандаванне"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_bolster",
+        "eng_version": "Bolster",
+        "ru_version": "Усиление",
+        "category_id": 3,
+        "bel_version": "Падкладка"
+    },
+    {
+        "xml_id": "combat_skill_name_man_at_arms_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.crush",
+        "eng_version": "Crush",
+        "ru_version": "Сокрушение",
+        "category_id": 3,
+        "bel_version": "Раздушыць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.rampart",
+        "eng_version": "Rampart",
+        "ru_version": "Укрепление",
+        "category_id": 3,
+        "bel_version": "Валы"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.bellow",
+        "eng_version": "Bellow",
+        "ru_version": "Рёв",
+        "category_id": 3,
+        "bel_version": "Беллоў"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.defender",
+        "eng_version": "Defender",
+        "ru_version": "Защитник",
+        "category_id": 3,
+        "bel_version": "Абаронца"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.retribution",
+        "eng_version": "Retribution",
+        "ru_version": "Воздаяние",
+        "category_id": 3,
+        "bel_version": "Адплата"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.command",
+        "eng_version": "Command",
+        "ru_version": "Команда",
+        "category_id": 3,
+        "bel_version": "Камандаванне"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.bolster",
+        "eng_version": "Bolster",
+        "ru_version": "Усиление",
+        "category_id": 3,
+        "bel_version": "Падкладка"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_hounds_rush",
+        "eng_version": "Hound's Rush",
+        "ru_version": "Бросок гончей",
+        "category_id": 3,
+        "bel_version": "Гончая спешка"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_hounds_harry",
+        "eng_version": "Hound's Harry",
+        "ru_version": "Наскок гончей",
+        "category_id": 3,
+        "bel_version": "Ганчы Гары"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_whistle",
+        "eng_version": "Target Whistle",
+        "ru_version": "Прицельный свист",
+        "category_id": 3,
+        "bel_version": "Мішэні свісток"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_howl",
+        "eng_version": "Cry Havoc",
+        "ru_version": "Губительный крик",
+        "category_id": 3,
+        "bel_version": "Cry Havoc"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_guard_dog",
+        "eng_version": "Guard Dog",
+        "ru_version": "Сторожевой пёс",
+        "category_id": 3,
+        "bel_version": "Вартавы сабака"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_lick_wounds",
+        "eng_version": "Lick Wounds",
+        "ru_version": "Зализывание ран",
+        "category_id": 3,
+        "bel_version": "Лізаць раны"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_blackjack",
+        "eng_version": "Blackjack",
+        "ru_version": "Блэкджек",
+        "category_id": 3,
+        "bel_version": "Блэкджек"
+    },
+    {
+        "xml_id": "combat_skill_name_houndmaster_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.hounds_rush",
+        "eng_version": "Hound's Rush",
+        "ru_version": "Бросок гончей",
+        "category_id": 3,
+        "bel_version": "Гончая спешка"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.hounds_harry",
+        "eng_version": "Hound's Harry",
+        "ru_version": "Наскок гончей",
+        "category_id": 3,
+        "bel_version": "Ганчы Гары"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.whistle",
+        "eng_version": "Target Whistle",
+        "ru_version": "Прицельный свист",
+        "category_id": 3,
+        "bel_version": "Мішэні свісток"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.howl",
+        "eng_version": "Cry Havoc",
+        "ru_version": "Губительный крик",
+        "category_id": 3,
+        "bel_version": "Cry Havoc"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.guard_dog",
+        "eng_version": "Guard Dog",
+        "ru_version": "Сторожевой пёс",
+        "category_id": 3,
+        "bel_version": "Вартавы сабака"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.lick_wounds",
+        "eng_version": "Lick Wounds",
+        "ru_version": "Зализывание ран",
+        "category_id": 3,
+        "bel_version": "Лізаць раны"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.blackjack",
+        "eng_version": "Blackjack",
+        "ru_version": "Блэкджек",
+        "category_id": 3,
+        "bel_version": "Блэкджек"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_transform",
+        "eng_version": "Transform",
+        "ru_version": "Трансформация",
+        "category_id": 3,
+        "bel_version": "Трансфармаваць"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_manacles",
+        "eng_version": "Manacles",
+        "ru_version": "Путы",
+        "category_id": 3,
+        "bel_version": "Наручнікі"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_vomit",
+        "eng_version": "Beast's Bile",
+        "ru_version": "Звериная желчь",
+        "category_id": 3,
+        "bel_version": "Жоўць звера"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_absolution",
+        "eng_version": "Absolution",
+        "ru_version": "Отпущение",
+        "category_id": 3,
+        "bel_version": "Адпушчэнне"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_rake",
+        "eng_version": "Rake",
+        "ru_version": "Рваная рана",
+        "category_id": 3,
+        "bel_version": "Граблі"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_rage",
+        "eng_version": "Rage",
+        "ru_version": "Ярость",
+        "category_id": 3,
+        "bel_version": "Лютасць"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_slam",
+        "eng_version": "Slam",
+        "ru_version": "Удар",
+        "category_id": 3,
+        "bel_version": "Слэм"
+    },
+    {
+        "xml_id": "combat_skill_name_abomination_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.transform",
+        "eng_version": "Transform",
+        "ru_version": "Трансформация",
+        "category_id": 3,
+        "bel_version": "Трансфармаваць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.manacles",
+        "eng_version": "Manacles",
+        "ru_version": "Путы",
+        "category_id": 3,
+        "bel_version": "Наручнікі"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.vomit",
+        "eng_version": "Beast's Bile",
+        "ru_version": "Звериная желчь",
+        "category_id": 3,
+        "bel_version": "Жоўць звера"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.absolution",
+        "eng_version": "Absolution",
+        "ru_version": "Отпущение",
+        "category_id": 3,
+        "bel_version": "Адпушчэнне"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.rake",
+        "eng_version": "Rake",
+        "ru_version": "Рваная рана",
+        "category_id": 3,
+        "bel_version": "Граблі"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.rage",
+        "eng_version": "Rage",
+        "ru_version": "Ярость",
+        "category_id": 3,
+        "bel_version": "Лютасць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.slam",
+        "eng_version": "Slam",
+        "ru_version": "Удар",
+        "category_id": 3,
+        "bel_version": "Слэм"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_kris_stab",
+        "eng_version": "Nervous Stab",
+        "ru_version": "Робкий выпад",
+        "category_id": 3,
+        "bel_version": "Нервовы ўдар"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_festering_vapours",
+        "eng_version": "Festering Vapours",
+        "ru_version": "Едкие испарения",
+        "category_id": 3,
+        "bel_version": "Гнойныя пары"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_cower",
+        "eng_version": "Get Down!",
+        "ru_version": "Ложись!",
+        "category_id": 3,
+        "bel_version": "Злазь!"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_flashpowder",
+        "eng_version": "Flashpowder",
+        "ru_version": "Слепящий порошок",
+        "category_id": 3,
+        "bel_version": "Flashpowder"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_fortifying_vapours",
+        "eng_version": "Fortifying Vapours",
+        "ru_version": "Укрепляющие благовония",
+        "category_id": 3,
+        "bel_version": "Ўмацавальныя пары"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_invigorating_vapours",
+        "eng_version": "Invigorating Vapours",
+        "ru_version": "Бодрящие благовония",
+        "category_id": 3,
+        "bel_version": "Падбадзёрлівыя пары"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_protect_me",
+        "eng_version": "Protect Me",
+        "ru_version": "Защити меня",
+        "category_id": 3,
+        "bel_version": "Абарані мяне"
+    },
+    {
+        "xml_id": "combat_skill_name_antiquarian_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.kris_stab",
+        "eng_version": "Nervous Stab",
+        "ru_version": "Робкий выпад",
+        "category_id": 3,
+        "bel_version": "Нервовы ўдар"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.festering_vapours",
+        "eng_version": "Festering Vapours",
+        "ru_version": "Едкие испарения",
+        "category_id": 3,
+        "bel_version": "Гнойныя пары"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.cower",
+        "eng_version": "Get Down!",
+        "ru_version": "Ложись!",
+        "category_id": 3,
+        "bel_version": "Злазь!"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.flashpowder",
+        "eng_version": "Flashpowder",
+        "ru_version": "Слепящий порошок",
+        "category_id": 3,
+        "bel_version": "Flashpowder"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.fortifying_vapours",
+        "eng_version": "Fortifying Vapours",
+        "ru_version": "Укрепляющие благовония",
+        "category_id": 3,
+        "bel_version": "Ўмацавальныя пары"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.invigorating_vapours",
+        "eng_version": "Invigorating Vapours",
+        "ru_version": "Бодрящие благовония",
+        "category_id": 3,
+        "bel_version": "Падбадзёрлівыя пары"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.protect_me",
+        "eng_version": "Protect Me",
+        "ru_version": "Защити меня",
+        "category_id": 3,
+        "bel_version": "Абарані мяне"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_aimed_shot",
+        "eng_version": "Aimed Shot",
+        "ru_version": "Прицельный выстрел",
+        "category_id": 3,
+        "bel_version": "Прыцэльны стрэл"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_smokescreen",
+        "eng_version": "Smokescreen",
+        "ru_version": "Дымовая завеса",
+        "category_id": 3,
+        "bel_version": "Дымавая заслона"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_call_the_shot",
+        "eng_version": "Call the Shot",
+        "ru_version": "Указать цель",
+        "category_id": 3,
+        "bel_version": "Call the Shot"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_buckshot",
+        "eng_version": "Buckshot",
+        "ru_version": "Картечь",
+        "category_id": 3,
+        "bel_version": "Карціна"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_sidearm",
+        "eng_version": "Sidearm",
+        "ru_version": "Пистолет",
+        "category_id": 3,
+        "bel_version": "Бакавая зброя"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_patch_up",
+        "eng_version": "Patch Up",
+        "ru_version": "Подлечить",
+        "category_id": 3,
+        "bel_version": "Латаць"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_skeet_shot",
+        "eng_version": "Skeet Shot",
+        "ru_version": "Выстрел навскидку",
+        "category_id": 3,
+        "bel_version": "Скіт Шот"
+    },
+    {
+        "xml_id": "combat_skill_name_musketeer_move",
+        "eng_version": "Move",
+        "ru_version": "Перемещение",
+        "category_id": 3,
+        "bel_version": "Рухайцеся"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.aimed_shot",
+        "eng_version": "Aimed Shot",
+        "ru_version": "Прицельный выстрел",
+        "category_id": 3,
+        "bel_version": "Прыцэльны стрэл"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.smokescreen",
+        "eng_version": "Smokescreen",
+        "ru_version": "Дымовая завеса",
+        "category_id": 3,
+        "bel_version": "Дымавая заслона"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.call_the_shot",
+        "eng_version": "Call the Shot",
+        "ru_version": "Указать цель",
+        "category_id": 3,
+        "bel_version": "Call the Shot"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.buckshot",
+        "eng_version": "Buckshot",
+        "ru_version": "Картечь",
+        "category_id": 3,
+        "bel_version": "Карціна"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.sidearm",
+        "eng_version": "Sidearm",
+        "ru_version": "Пистолет",
+        "category_id": 3,
+        "bel_version": "Бакавая зброя"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.patch_up",
+        "eng_version": "Patch Up",
+        "ru_version": "Подлечить",
+        "category_id": 3,
+        "bel_version": "Латаць"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.skeet_shot",
+        "eng_version": "Skeet Shot",
+        "ru_version": "Выстрел навскидку",
+        "category_id": 3,
+        "bel_version": "Скіт Шот"
+    },
+    {
+        "xml_id": "camping_skill_name_encourage",
+        "eng_version": "ENCOURAGE",
+        "ru_version": "ОБОДРЕНИЕ",
+        "category_id": 3,
+        "bel_version": "ЗАХВАТЫВАЦЬ"
+    },
+    {
+        "xml_id": "camping_skill_name_first_aid",
+        "eng_version": "WOUND CARE",
+        "ru_version": "ЛЕЧЕНИЕ РАН",
+        "category_id": 3,
+        "bel_version": "ДОГЛЯД ЗА РАНАМІ"
+    },
+    {
+        "xml_id": "camping_skill_name_pep_talk",
+        "eng_version": "PEP TALK",
+        "ru_version": "ДУШЕВНЫЙ РАЗГОВОР",
+        "category_id": 3,
+        "bel_version": "ГУТАРКА"
+    },
+    {
+        "xml_id": "camping_skill_name_hobby",
+        "eng_version": "HOBBY",
+        "ru_version": "ХОББИ",
+        "category_id": 3,
+        "bel_version": "ХОБІ"
+    },
+    {
+        "xml_id": "camping_skill_name_how_its_done",
+        "eng_version": "THIS IS HOW WE DO IT",
+        "ru_version": "ВОТ КАК НАДО",
+        "category_id": 3,
+        "bel_version": "ВОСЬ ТАК МЫ ГЭТА РОБІМ"
+    },
+    {
+        "xml_id": "camping_skill_name_bear_traps",
+        "eng_version": "BEAR TRAPS",
+        "ru_version": "МЕДВЕЖЬИ КАПКАНЫ",
+        "category_id": 3,
+        "bel_version": "МЯДЗВЕДЖЫЯ ПАСТКІ"
+    },
+    {
+        "xml_id": "camping_skill_name_tracking",
+        "eng_version": "TRACKING",
+        "ru_version": "ВЫСЛЕЖИВАНИЕ",
+        "category_id": 3,
+        "bel_version": "САЧЭННЕ"
+    },
+    {
+        "xml_id": "camping_skill_name_planned_takedown",
+        "eng_version": "PLANNED TAKEDOWN",
+        "ru_version": "ПЛАНОВЫЙ РАЗГРОМ",
+        "category_id": 3,
+        "bel_version": "ПЛАНАВАНЫ ЗБОР"
+    },
+    {
+        "xml_id": "camping_skill_name_scout_ahead",
+        "eng_version": "SCOUT AHEAD",
+        "ru_version": "РАЗВЕДКА ВПЕРЕДИ",
+        "category_id": 3,
+        "bel_version": "РАЗВЕДЧЫК НАПЕРАДЗЕ"
+    },
+    {
+        "xml_id": "camping_skill_name_unshakeable_leader",
+        "eng_version": "UNSHAKEABLE LEADER",
+        "ru_version": "НЕУСТРАШИМЫЙ ЛИДЕР",
+        "category_id": 3,
+        "bel_version": "НЕПАХІСНЫ ЛІДЭР"
+    },
+    {
+        "xml_id": "camping_skill_name_stand_tall",
+        "eng_version": "STAND TALL",
+        "ru_version": "ВЫСТАИВАНИЕ",
+        "category_id": 3,
+        "bel_version": "СТАЯЦЬ У ПОЎНЫ РОСТ"
+    },
+    {
+        "xml_id": "camping_skill_name_zealous_speech",
+        "eng_version": "ZEALOUS SPEECH",
+        "ru_version": "ВДОХНОВЛЯЮЩАЯ РЕЧЬ",
+        "category_id": 3,
+        "bel_version": "ЗАЯРЛІВАЯ ПРАМОВА"
+    },
+    {
+        "xml_id": "camping_skill_name_zealous_vigil",
+        "eng_version": "ZEALOUS VIGIL",
+        "ru_version": "НЕУСЫПНАЯ СТРАЖА",
+        "category_id": 3,
+        "bel_version": "РУПЛІВАЕ ЧУВАННЕ"
+    },
+    {
+        "xml_id": "camping_skill_name_forage",
+        "eng_version": "SNUFF BOX",
+        "ru_version": "ТАБАКЕРКА",
+        "category_id": 3,
+        "bel_version": "Табакерка"
+    },
+    {
+        "xml_id": "camping_skill_name_gallows_humor",
+        "eng_version": "GALLOWS HUMOR",
+        "ru_version": "ВИСЕЛЬНЫЕ ШУТКИ",
+        "category_id": 3,
+        "bel_version": "ШЫБЕННЫ ГУМАР"
+    },
+    {
+        "xml_id": "camping_skill_name_night_steps",
+        "eng_version": "NIGHT MOVES",
+        "ru_version": "НОЧНЫЕ ПРОГУЛКИ",
+        "category_id": 3,
+        "bel_version": "НАЧНЫЯ ХОДЫ"
+    },
+    {
+        "xml_id": "camping_skill_name_pilfer",
+        "eng_version": "PILFER",
+        "ru_version": "КРАЖА",
+        "category_id": 3,
+        "bel_version": "ЗЛОЙНІК"
+    },
+    {
+        "xml_id": "camping_skill_name_battle_trance",
+        "eng_version": "BATTLE TRANCE",
+        "ru_version": "БОЕВОЙ ТРАНС",
+        "category_id": 3,
+        "bel_version": "БАТАВЫ ТРАН"
+    },
+    {
+        "xml_id": "camping_skill_name_revel",
+        "eng_version": "REVEL",
+        "ru_version": "КУТЁЖ",
+        "category_id": 3,
+        "bel_version": "РАЗВЕЛ"
+    },
+    {
+        "xml_id": "camping_skill_name_reject_the_gods",
+        "eng_version": "REJECT THE GODS",
+        "ru_version": "ОТРИЦАНИЕ БОГОВ",
+        "category_id": 3,
+        "bel_version": "АДКРЫЦЬ БАГОЎ"
+    },
+    {
+        "xml_id": "camping_skill_name_sharpen_spear",
+        "eng_version": "SHARPEN SPEAR",
+        "ru_version": "ЗАТОЧКА КОПЬЯ",
+        "category_id": 3,
+        "bel_version": "ВАСТРЫЦЬ ДЗІДУ"
+    },
+    {
+        "xml_id": "camping_skill_name_uncatchable",
+        "eng_version": "UNPARALLELED FINESSE",
+        "ru_version": "НЕБЫВАЛОЕ МАСТЕРСТВО",
+        "category_id": 3,
+        "bel_version": "НЕПРАЎНЕННАЯ ТОНКІ"
+    },
+    {
+        "xml_id": "camping_skill_name_clean_guns",
+        "eng_version": "CLEAN GUNS",
+        "ru_version": "ЧИСТКА РУЖЕЙ",
+        "category_id": 3,
+        "bel_version": "ЧЫСТЫЯ СТРЭЛЫ"
+    },
+    {
+        "xml_id": "camping_skill_name_perimeter_alarms",
+        "eng_version": "PERIMITER ALARMS",
+        "ru_version": "ТРЕВОЖНЫЕ СИГНАЛЫ",
+        "category_id": 3,
+        "bel_version": "ПЕРЫМІТАРНЫЯ СИГНАЛІЗАЦЫІ"
+    },
+    {
+        "xml_id": "camping_skill_name_bandits_sense",
+        "eng_version": "BANDIT'S SENSE",
+        "ru_version": "БАНДИТСКОЕ ЧУВСТВО",
+        "category_id": 3,
+        "bel_version": "БАНДЫЦКІ ГЛУХ"
+    },
+    {
+        "xml_id": "camping_skill_name_abandon_hope",
+        "eng_version": "ABANDON HOPE",
+        "ru_version": "ЛИШЕНИЕ НАДЕЖДЫ",
+        "category_id": 3,
+        "bel_version": "ПАКІНУЦЬ НАДЗЕЮ"
+    },
+    {
+        "xml_id": "camping_skill_name_dark_ritual",
+        "eng_version": "DARK RITUAL",
+        "ru_version": "ТЁМНЫЙ РИТУАЛ",
+        "category_id": 3,
+        "bel_version": "ЦЕМНЫ РЫТУАЛ"
+    },
+    {
+        "xml_id": "camping_skill_name_dark_strength",
+        "eng_version": "DARK STRENGTH",
+        "ru_version": "ТЁМНАЯ СИЛА",
+        "category_id": 3,
+        "bel_version": "ЦЕМНАЯ СІЛА"
+    },
+    {
+        "xml_id": "camping_skill_name_unspeakable_commune",
+        "eng_version": "UNSPEAKABLE COMMUNE",
+        "ru_version": "ТАЙНЫЙ РАЗГОВОР",
+        "category_id": 3,
+        "bel_version": "НЕВЫКАЗНАЯ КАМУНА"
+    },
+    {
+        "xml_id": "camping_skill_name_experimental_vapours",
+        "eng_version": "EXPERIMENTAL VAPOURS",
+        "ru_version": "ЭКСПЕРИМЕНТАЛЬНЫЙ ПАР",
+        "category_id": 3,
+        "bel_version": "ЭКСПЕРЫМЕНТАЛЬНЫЯ ПАРЫ"
+    },
+    {
+        "xml_id": "camping_skill_name_leeches",
+        "eng_version": "LEECHES",
+        "ru_version": "ПИЯВКИ",
+        "category_id": 3,
+        "bel_version": "П'ЯЎКІ"
+    },
+    {
+        "xml_id": "camping_skill_name_let_the_mask_down",
+        "eng_version": "LET THE MASK DOWN",
+        "ru_version": "СБРАСЫВАНИЕ МАСКИ",
+        "category_id": 3,
+        "bel_version": "СКІНУЦЬ МАСКУ"
+    },
+    {
+        "xml_id": "camping_skill_name_self_medicate",
+        "eng_version": "SELF-MEDICATE",
+        "ru_version": "САМОЛЕЧЕНИЕ",
+        "category_id": 3,
+        "bel_version": "Займайцеся самалячэннем"
+    },
+    {
+        "xml_id": "camping_skill_name_bless",
+        "eng_version": "BLESS",
+        "ru_version": "БЛАГОСЛОВЕНИЕ",
+        "category_id": 3,
+        "bel_version": "БЛАСЛАВІЦЬ"
+    },
+    {
+        "xml_id": "camping_skill_name_chant",
+        "eng_version": "CHANT",
+        "ru_version": "НАПЕВ",
+        "category_id": 3,
+        "bel_version": "СПЕВЫ"
+    },
+    {
+        "xml_id": "camping_skill_name_pray",
+        "eng_version": "PRAY",
+        "ru_version": "МОЛИТВА",
+        "category_id": 3,
+        "bel_version": "МАЛІЦЦА"
+    },
+    {
+        "xml_id": "camping_skill_name_sanctuary",
+        "eng_version": "SANCTUARY",
+        "ru_version": "СВЯТИЛИЩЕ",
+        "category_id": 3,
+        "bel_version": "СВЯТЫНЯ"
+    },
+    {
+        "xml_id": "camping_skill_name_turn_back_time",
+        "eng_version": "TURN BACK TIME",
+        "ru_version": "ВРЕМЯ НАЗАД",
+        "category_id": 3,
+        "bel_version": "ВЕРНУЦЬ ЧАС НАЗАД"
+    },
+    {
+        "xml_id": "camping_skill_name_every_rose",
+        "eng_version": "EVERY ROSE HAS ITS THORN",
+        "ru_version": "У РОЗЫ ЕСТЬ ШИПЫ",
+        "category_id": 3,
+        "bel_version": "У КОЖНАЙ РУЖЫ ЁСЦЬ ШЫПЫ"
+    },
+    {
+        "xml_id": "camping_skill_name_tigers_eye",
+        "eng_version": "TIGER'S EYE",
+        "ru_version": "ТИГРИНЫЙ ГЛАЗ",
+        "category_id": 3,
+        "bel_version": "ТЫГРОВАЕ ВОК"
+    },
+    {
+        "xml_id": "camping_skill_name_mockery",
+        "eng_version": "MOCKERY",
+        "ru_version": "НАСМЕШКА",
+        "category_id": 3,
+        "bel_version": "Здзек"
+    },
+    {
+        "xml_id": "camping_skill_name_bloody_shroud",
+        "eng_version": "BLOODY SHROUD",
+        "ru_version": "КРОВАВЫЙ САВАН",
+        "category_id": 3,
+        "bel_version": "КРЫВАВЫ САВАН"
+    },
+    {
+        "xml_id": "camping_skill_name_reflection",
+        "eng_version": "REFLECTION",
+        "ru_version": "ОТРАЖЕНИЕ",
+        "category_id": 3,
+        "bel_version": "РЭФЛЕКСІЯ"
+    },
+    {
+        "xml_id": "camping_skill_name_quarantine",
+        "eng_version": "QUARANTINE",
+        "ru_version": "КАРАНТИН",
+        "category_id": 3,
+        "bel_version": "КАРАНЦІН"
+    },
+    {
+        "xml_id": "camping_skill_name_preventative_medicine",
+        "eng_version": "THE CURE",
+        "ru_version": "ЛЕКАРСТВО",
+        "category_id": 3,
+        "bel_version": "ЛЕЧЭННЕ"
+    },
+    {
+        "xml_id": "camping_skill_name_field_dressing",
+        "eng_version": "FIELD DRESSING",
+        "ru_version": "ПОЛЕВАЯ ФОРМА",
+        "category_id": 3,
+        "bel_version": "ПАЛЯВЫЯ АДРАШЭННІ"
+    },
+    {
+        "xml_id": "camping_skill_name_marching_plan",
+        "eng_version": "MARCHING PLAN",
+        "ru_version": "ПЛАН ПОХОДА",
+        "category_id": 3,
+        "bel_version": "ПЛАН МАРШУ"
+    },
+    {
+        "xml_id": "camping_skill_name_restring_crossbow",
+        "eng_version": "RESTRING CROSSBOW",
+        "ru_version": "НОВАЯ ТЕТИВА",
+        "category_id": 3,
+        "bel_version": "ПЕРАЦЯГА АРБАЛЕТА"
+    },
+    {
+        "xml_id": "camping_skill_name_triage",
+        "eng_version": "TRIAGE",
+        "ru_version": "ОЧЕРЁДНОСТЬ",
+        "category_id": 3,
+        "bel_version": "ТРЭЯЖ"
+    },
+    {
+        "xml_id": "camping_skill_name_maintain_equipment",
+        "eng_version": "MAINTAIN EQUIPMENT",
+        "ru_version": "РЕМОНТ СНАРЯЖЕНИЯ",
+        "category_id": 3,
+        "bel_version": "АБСЛУГОЎВАЙЦЕ АБСТАЛЯВАННЕ"
+    },
+    {
+        "xml_id": "camping_skill_name_tactics",
+        "eng_version": "TACTICS",
+        "ru_version": "ТАКТИКА",
+        "category_id": 3,
+        "bel_version": "ТАКТЫКА"
+    },
+    {
+        "xml_id": "camping_skill_name_instruction",
+        "eng_version": "INSTRUCTION",
+        "ru_version": "ИНСТРУКЦИЯ",
+        "category_id": 3,
+        "bel_version": "ІНСТРУКЦЫЯ"
+    },
+    {
+        "xml_id": "camping_skill_name_weapons_practice",
+        "eng_version": "WEAPONS PRACTICE",
+        "ru_version": "ТРЕНИРОВКА С ОРУЖИЕМ",
+        "category_id": 3,
+        "bel_version": "ПРАКТЫКА ЗБРОІ"
+    },
+    {
+        "xml_id": "camping_skill_name_hounds_watch",
+        "eng_version": "HOUND'S WATCH",
+        "ru_version": "НАДЗОР ГОНЧЕЙ",
+        "category_id": 3,
+        "bel_version": "ГАДЗІННІК ГАНЯКА"
+    },
+    {
+        "xml_id": "camping_skill_name_therapy_dog",
+        "eng_version": "THERAPY DOG",
+        "ru_version": "СОБАКОТЕРАПИЯ",
+        "category_id": 3,
+        "bel_version": "САБАКА-тэрапеўт"
+    },
+    {
+        "xml_id": "camping_skill_name_pet_the_hound",
+        "eng_version": "MAN'S BEST FRIEND",
+        "ru_version": "ДРУГ ЧЕЛОВЕКА",
+        "category_id": 3,
+        "bel_version": "ЛЕПШЫ СЯБАР ЧАЛАВЕКА"
+    },
+    {
+        "xml_id": "camping_skill_name_release_the_hound",
+        "eng_version": "RELEASE THE HOUND",
+        "ru_version": "СПУСТИТЬ ГОНЧУЮ",
+        "category_id": 3,
+        "bel_version": "ВЫПУСТІЦЬ ГАНАКА"
+    },
+    {
+        "xml_id": "camping_skill_name_anger_management",
+        "eng_version": "ANGER MANAGEMENT",
+        "ru_version": "УПРАВЛЕНИЕ ГНЕВОМ",
+        "category_id": 3,
+        "bel_version": "КІРАВАННЕ ГНЕВАМ"
+    },
+    {
+        "xml_id": "camping_skill_name_psych_up",
+        "eng_version": "PSYCH UP",
+        "ru_version": "РАСПАЛИТЬ",
+        "category_id": 3,
+        "bel_version": "PSYCH UP"
+    },
+    {
+        "xml_id": "camping_skill_name_eldritch_blood",
+        "eng_version": "ELDRITCH BLOOD",
+        "ru_version": "КРОВЬ МИСТИКИ",
+        "category_id": 3,
+        "bel_version": "ЭЛДРЫЧ КРЫЎ"
+    },
+    {
+        "xml_id": "camping_skill_name_the_quickening",
+        "eng_version": "THE QUICKENING",
+        "ru_version": "УСКОРЕНИЕ",
+        "category_id": 3,
+        "bel_version": "ПАСКАРЭННЕ"
+    },
+    {
+        "xml_id": "camping_skill_name_supply",
+        "eng_version": "Resupply",
+        "ru_version": "Пополнение запасов",
+        "category_id": 3,
+        "bel_version": "Папаўненне запасаў"
+    },
+    {
+        "xml_id": "camping_skill_name_trinket_scrounge",
+        "eng_version": "Trinket Scrounge",
+        "ru_version": "Поискать артефакт",
+        "category_id": 3,
+        "bel_version": "Цацалка Scrounge"
+    },
+    {
+        "xml_id": "camping_skill_name_strange_powders",
+        "eng_version": "Strange Powders",
+        "ru_version": "Подозрительные порошки",
+        "category_id": 3,
+        "bel_version": "Дзіўныя парашкі"
+    },
+    {
+        "xml_id": "camping_skill_name_curious_incantation",
+        "eng_version": "Curious Incantation",
+        "ru_version": "Загадочное заклинание",
+        "category_id": 3,
+        "bel_version": "Цікаўнае заклінанне"
+    },
+    {
+        "xml_id": "camping_skill_name_clean_musket",
+        "eng_version": "CLEAN MUSKET",
+        "ru_version": "ЧИСТКА И СМАЗКА МУШКЕТА",
+        "category_id": 3,
+        "bel_version": "ЧЫСТЫ МУШКЕТ"
+    },
+    {
+        "xml_id": "crusader_weapon_0",
+        "eng_version": "Battered Longsword",
+        "ru_version": "Побитый длинный меч",
+        "category_id": 3,
+        "bel_version": "Пабіты доўгі меч"
+    },
+    {
+        "xml_id": "crusader_weapon_1",
+        "eng_version": "Longsword",
+        "ru_version": "Длинный меч",
+        "category_id": 3,
+        "bel_version": "Доўгі меч"
+    },
+    {
+        "xml_id": "crusader_weapon_2",
+        "eng_version": "Questing Sword",
+        "ru_version": "Меч для задания",
+        "category_id": 3,
+        "bel_version": "Questing Sword"
+    },
+    {
+        "xml_id": "crusader_weapon_3",
+        "eng_version": "Greatsword",
+        "ru_version": "Двуручный меч",
+        "category_id": 3,
+        "bel_version": "Вялікі меч"
+    },
+    {
+        "xml_id": "crusader_weapon_4",
+        "eng_version": "\"The Long Crusade\"",
+        "ru_version": "Долгий крестовый поход",
+        "category_id": 3,
+        "bel_version": "«Доўгі крыжовы паход»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.weapon",
+        "eng_version": "Greatsword",
+        "ru_version": "Двуручный меч",
+        "category_id": 3,
+        "bel_version": "Вялікі меч"
+    },
+    {
+        "xml_id": "highwayman_weapon_0",
+        "eng_version": "Flintlock, Rusty Blade",
+        "ru_version": "Кремнёвое ружьё, ржавый клинок",
+        "category_id": 3,
+        "bel_version": "Флінтлок, Расці Клінок"
+    },
+    {
+        "xml_id": "highwayman_weapon_1",
+        "eng_version": "Versatile Pistol & Blade",
+        "ru_version": "Практичные пистолет и клинок",
+        "category_id": 3,
+        "bel_version": "Універсальны пісталет і лязо"
+    },
+    {
+        "xml_id": "highwayman_weapon_2",
+        "eng_version": "Polished Pistol & Blade",
+        "ru_version": "Полированные пистолет и клинок",
+        "category_id": 3,
+        "bel_version": "Паліраваны пісталет і лязо"
+    },
+    {
+        "xml_id": "highwayman_weapon_3",
+        "eng_version": "Fluted Pistol, Sharpened Edge",
+        "ru_version": "Зазубренный пистолет, наточенное лезвие",
+        "category_id": 3,
+        "bel_version": "Рыфлены пісталет, завостраны край"
+    },
+    {
+        "xml_id": "highwayman_weapon_4",
+        "eng_version": "\"Thunder & Lightning\"",
+        "ru_version": "Гром и молния",
+        "category_id": 3,
+        "bel_version": "«Гром і маланка»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.weapon",
+        "eng_version": "Pistol & Blade",
+        "ru_version": "Пистолет и клинок",
+        "category_id": 3,
+        "bel_version": "Пісталет і лязо"
+    },
+    {
+        "xml_id": "occultist_weapon_0",
+        "eng_version": "Battered Skull",
+        "ru_version": "Повреждённый череп",
+        "category_id": 3,
+        "bel_version": "Пабіты чэрап"
+    },
+    {
+        "xml_id": "occultist_weapon_1",
+        "eng_version": "Bleached Skull",
+        "ru_version": "Отбелённый череп",
+        "category_id": 3,
+        "bel_version": "Адбелены чэрап"
+    },
+    {
+        "xml_id": "occultist_weapon_2",
+        "eng_version": "Fine Skull",
+        "ru_version": "Отличный череп",
+        "category_id": 3,
+        "bel_version": "Выдатны чэрап"
+    },
+    {
+        "xml_id": "occultist_weapon_3",
+        "eng_version": "Scholar's Skull",
+        "ru_version": "Череп учёного",
+        "category_id": 3,
+        "bel_version": "Чэрап навукоўца"
+    },
+    {
+        "xml_id": "occultist_weapon_4",
+        "eng_version": "\"The Mentor's Skull\"",
+        "ru_version": "Череп наставника",
+        "category_id": 3,
+        "bel_version": "«Чэрап настаўніка»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.weapon",
+        "eng_version": "Skull",
+        "ru_version": "Череп",
+        "category_id": 3,
+        "bel_version": "Чэрап"
+    },
+    {
+        "xml_id": "plague_doctor_weapon_0",
+        "eng_version": "Crude Sachets",
+        "ru_version": "Примитивные мешочки",
+        "category_id": 3,
+        "bel_version": "Сырыя пакуначкі"
+    },
+    {
+        "xml_id": "plague_doctor_weapon_1",
+        "eng_version": "Crafted Sachets",
+        "ru_version": "Шитые мешочки",
+        "category_id": 3,
+        "bel_version": "Вырабленыя Сашы"
+    },
+    {
+        "xml_id": "plague_doctor_weapon_2",
+        "eng_version": "Diseased Grenades",
+        "ru_version": "Заразные гранаты",
+        "category_id": 3,
+        "bel_version": "Хворыя гранаты"
+    },
+    {
+        "xml_id": "plague_doctor_weapon_3",
+        "eng_version": "Toxic Grenades",
+        "ru_version": "Ядовитые гранаты",
+        "category_id": 3,
+        "bel_version": "Таксічныя гранаты"
+    },
+    {
+        "xml_id": "plague_doctor_weapon_4",
+        "eng_version": "\"The Bubonic Herald\"",
+        "ru_version": "Чумной вестник",
+        "category_id": 3,
+        "bel_version": "«Бубонны веснік»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.weapon",
+        "eng_version": "Grenades",
+        "ru_version": "Гранаты",
+        "category_id": 3,
+        "bel_version": "Гранаты"
+    },
+    {
+        "xml_id": "vestal_weapon_0",
+        "eng_version": "Rusted Mace",
+        "ru_version": "Ржавая булава",
+        "category_id": 3,
+        "bel_version": "Іржавая булава"
+    },
+    {
+        "xml_id": "vestal_weapon_1",
+        "eng_version": "Steady Mace",
+        "ru_version": "Надёжная булава",
+        "category_id": 3,
+        "bel_version": "Устойлівая булава"
+    },
+    {
+        "xml_id": "vestal_weapon_2",
+        "eng_version": "Stalwart Mace",
+        "ru_version": "Крепкая булава",
+        "category_id": 3,
+        "bel_version": "Сталая Булава"
+    },
+    {
+        "xml_id": "vestal_weapon_3",
+        "eng_version": "Gilded Mace",
+        "ru_version": "Позолоченная булава",
+        "category_id": 3,
+        "bel_version": "Пазалочаная булава"
+    },
+    {
+        "xml_id": "vestal_weapon_4",
+        "eng_version": "\"The Hand of Light\"",
+        "ru_version": "Рука Света",
+        "category_id": 3,
+        "bel_version": "«Рука святла»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.weapon",
+        "eng_version": "Mace",
+        "ru_version": "Булава",
+        "category_id": 3,
+        "bel_version": "Булава"
+    },
+    {
+        "xml_id": "grave_robber_weapon_0",
+        "eng_version": "Stolen Pick & Knives",
+        "ru_version": "Краденые кирка и ножи",
+        "category_id": 3,
+        "bel_version": "Скрадзеныя кіркі і нажы"
+    },
+    {
+        "xml_id": "grave_robber_weapon_1",
+        "eng_version": "Reliable Pick & Knives",
+        "ru_version": "Надёжные кирка и ножи",
+        "category_id": 3,
+        "bel_version": "Надзейныя кіркі і нажы"
+    },
+    {
+        "xml_id": "grave_robber_weapon_2",
+        "eng_version": "Balanced Pick & Knives",
+        "ru_version": "Сбалансированные кирка и ножи",
+        "category_id": 3,
+        "bel_version": "Збалансаваныя кіркі і нажы"
+    },
+    {
+        "xml_id": "grave_robber_weapon_3",
+        "eng_version": "Exceptional Pick & Knives",
+        "ru_version": "Исключительные кирка и ножи",
+        "category_id": 3,
+        "bel_version": "Выключныя кіркі і нажы"
+    },
+    {
+        "xml_id": "grave_robber_weapon_4",
+        "eng_version": "\"The Razor's Edge\"",
+        "ru_version": "Лезвие бритвы",
+        "category_id": 3,
+        "bel_version": "«Лязо брытвы»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.weapon",
+        "eng_version": "Pick & Knives",
+        "ru_version": "Кирка и ножи",
+        "category_id": 3,
+        "bel_version": "Кіркі і нажы"
+    },
+    {
+        "xml_id": "hellion_weapon_0",
+        "eng_version": "Primitive Glaive",
+        "ru_version": "Примитивная глефа",
+        "category_id": 3,
+        "bel_version": "Першабытная глефа"
+    },
+    {
+        "xml_id": "hellion_weapon_1",
+        "eng_version": "Reinforced Glaive",
+        "ru_version": "Укреплённая глефа",
+        "category_id": 3,
+        "bel_version": "Узмоцненая глефа"
+    },
+    {
+        "xml_id": "hellion_weapon_2",
+        "eng_version": "Resilient Glaive",
+        "ru_version": "Надёжная глефа",
+        "category_id": 3,
+        "bel_version": "Эластычная глефа"
+    },
+    {
+        "xml_id": "hellion_weapon_3",
+        "eng_version": "Battle-Tested Glaive",
+        "ru_version": "Верная боевая глефа",
+        "category_id": 3,
+        "bel_version": "Выпрабаваная ў баях глефа"
+    },
+    {
+        "xml_id": "hellion_weapon_4",
+        "eng_version": "\"The Wolf's Tooth\"",
+        "ru_version": "Волчий зуб",
+        "category_id": 3,
+        "bel_version": "«Воўчы зуб»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.weapon",
+        "eng_version": "Glaive",
+        "ru_version": "Глефа",
+        "category_id": 3,
+        "bel_version": "Глефа"
+    },
+    {
+        "xml_id": "bounty_hunter_weapon_0",
+        "eng_version": "Abandoned Axe",
+        "ru_version": "Брошенный топор",
+        "category_id": 3,
+        "bel_version": "Закінутая сякера"
+    },
+    {
+        "xml_id": "bounty_hunter_weapon_1",
+        "eng_version": "Refurbished Axe",
+        "ru_version": "Починенный топор",
+        "category_id": 3,
+        "bel_version": "Адноўленая сякера"
+    },
+    {
+        "xml_id": "bounty_hunter_weapon_2",
+        "eng_version": "Fine Axe",
+        "ru_version": "Отличный топор",
+        "category_id": 3,
+        "bel_version": "Выдатная сякера"
+    },
+    {
+        "xml_id": "bounty_hunter_weapon_3",
+        "eng_version": "Professional's Axe",
+        "ru_version": "Профессиональный топор",
+        "category_id": 3,
+        "bel_version": "Сякера прафесіянала"
+    },
+    {
+        "xml_id": "bounty_hunter_weapon_4",
+        "eng_version": "\"The Widowmaker\"",
+        "ru_version": "Оставляющий вдов",
+        "category_id": 3,
+        "bel_version": "«Удавец»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.weapon",
+        "eng_version": "Axe",
+        "ru_version": "Топор",
+        "category_id": 3,
+        "bel_version": "Сякера"
+    },
+    {
+        "xml_id": "jester_weapon_0",
+        "eng_version": "Worn Sickle, Untuned Lute",
+        "ru_version": "Старый серп, расстроенная лютня",
+        "category_id": 3,
+        "bel_version": "Паношаны серп, неналаджаная лютня"
+    },
+    {
+        "xml_id": "jester_weapon_1",
+        "eng_version": "Reclaimed Sickle & Lute",
+        "ru_version": "Краденый серп и лютня",
+        "category_id": 3,
+        "bel_version": "Адноўленыя серп і лютня"
+    },
+    {
+        "xml_id": "jester_weapon_2",
+        "eng_version": "Sharpened Sickle, Restrung Lute",
+        "ru_version": "Острый серп, перетянутая лютня",
+        "category_id": 3,
+        "bel_version": "Завостраны серп, пераструненая лютня"
+    },
+    {
+        "xml_id": "jester_weapon_3",
+        "eng_version": "Masterwork Sickle, Fine Lute",
+        "ru_version": "Изящный серп, отличная лютня",
+        "category_id": 3,
+        "bel_version": "Серп майстэрства, выдатная лютня"
+    },
+    {
+        "xml_id": "jester_weapon_4",
+        "eng_version": "\"Slash & Solo\"",
+        "ru_version": "Рубец и соло",
+        "category_id": 3,
+        "bel_version": "«Слэш і сола»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.weapon",
+        "eng_version": "Sickle and Lute",
+        "ru_version": "Серп и лютня",
+        "category_id": 3,
+        "bel_version": "Серп і лютня"
+    },
+    {
+        "xml_id": "leper_weapon_0",
+        "eng_version": "Rusted Executioner's Sword",
+        "ru_version": "Ржавый меч палача",
+        "category_id": 3,
+        "bel_version": "Іржавы меч ката"
+    },
+    {
+        "xml_id": "leper_weapon_1",
+        "eng_version": "Heavy Executioner's Sword",
+        "ru_version": "Тяжёлый меч палача",
+        "category_id": 3,
+        "bel_version": "Цяжкі меч ката"
+    },
+    {
+        "xml_id": "leper_weapon_2",
+        "eng_version": "Sharpened Executioner's Sword",
+        "ru_version": "Наточенный меч палача",
+        "category_id": 3,
+        "bel_version": "Завостраны меч ката"
+    },
+    {
+        "xml_id": "leper_weapon_3",
+        "eng_version": "Masterful Executioner's Sword",
+        "ru_version": "Мастерский меч палача",
+        "category_id": 3,
+        "bel_version": "Майстэрскі меч ката"
+    },
+    {
+        "xml_id": "leper_weapon_4",
+        "eng_version": "\"The Broken Blade\"",
+        "ru_version": "Сломанный клинок",
+        "category_id": 3,
+        "bel_version": "«Зламанае лязо»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.weapon",
+        "eng_version": "Executioner's Sword",
+        "ru_version": "Меч палача",
+        "category_id": 3,
+        "bel_version": "Меч ката"
+    },
+    {
+        "xml_id": "arbalest_weapon_0",
+        "eng_version": "Crude Crossbow",
+        "ru_version": "Грубый арбалет",
+        "category_id": 3,
+        "bel_version": "Грубы арбалет"
+    },
+    {
+        "xml_id": "arbalest_weapon_1",
+        "eng_version": "Reinforced Crossbow",
+        "ru_version": "Укреплённый арбалет",
+        "category_id": 3,
+        "bel_version": "Узмоцнены арбалет"
+    },
+    {
+        "xml_id": "arbalest_weapon_2",
+        "eng_version": "Heavy Crossbow",
+        "ru_version": "Тяжёлый арбалет",
+        "category_id": 3,
+        "bel_version": "Цяжкі арбалет"
+    },
+    {
+        "xml_id": "arbalest_weapon_3",
+        "eng_version": "Veteran's Crossbow",
+        "ru_version": "Ветеранский арбалет",
+        "category_id": 3,
+        "bel_version": "Ветэранскі арбалет"
+    },
+    {
+        "xml_id": "arbalest_weapon_4",
+        "eng_version": "\"Millicent\"",
+        "ru_version": "Миллисента",
+        "category_id": 3,
+        "bel_version": "«Мілісэнт»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.weapon",
+        "eng_version": "Arbalest",
+        "ru_version": "Арбалет",
+        "category_id": 3,
+        "bel_version": "Арбалет"
+    },
+    {
+        "xml_id": "man_at_arms_weapon_0",
+        "eng_version": "Footman's Mace",
+        "ru_version": "Булава пехотинца",
+        "category_id": 3,
+        "bel_version": "Лакецкая булава"
+    },
+    {
+        "xml_id": "man_at_arms_weapon_1",
+        "eng_version": "Private's Mace",
+        "ru_version": "Булава рядового",
+        "category_id": 3,
+        "bel_version": "Булава радавога"
+    },
+    {
+        "xml_id": "man_at_arms_weapon_2",
+        "eng_version": "Sergeant Major's Mace",
+        "ru_version": "Булава старшины",
+        "category_id": 3,
+        "bel_version": "Булава сяржанта"
+    },
+    {
+        "xml_id": "man_at_arms_weapon_3",
+        "eng_version": "Master Sergeant's Mace",
+        "ru_version": "Булава мастер-сержанта",
+        "category_id": 3,
+        "bel_version": "Булава старшага сяржанта"
+    },
+    {
+        "xml_id": "man_at_arms_weapon_4",
+        "eng_version": "\"Bludgeon\"",
+        "ru_version": "Арясина",
+        "category_id": 3,
+        "bel_version": "\"Дупінка\""
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.weapon",
+        "eng_version": "Mace",
+        "ru_version": "Булава",
+        "category_id": 3,
+        "bel_version": "Булава"
+    },
+    {
+        "xml_id": "houndmaster_weapon_0",
+        "eng_version": "Crude Cudgel, Frayed Collar",
+        "ru_version": "Грубая дубина, ветхий ошейник",
+        "category_id": 3,
+        "bel_version": "Грубая дубінка, пацёрты каўнер"
+    },
+    {
+        "xml_id": "houndmaster_weapon_1",
+        "eng_version": "Sturdy Cudgel, Rope Collar",
+        "ru_version": "Крепкая дубина, верёвочный ошейник",
+        "category_id": 3,
+        "bel_version": "Трывалая дубінка, вяровачны хамут"
+    },
+    {
+        "xml_id": "houndmaster_weapon_2",
+        "eng_version": "Fine Cudgel, Leather Collar",
+        "ru_version": "Отличная дубина, кожаный ошейник",
+        "category_id": 3,
+        "bel_version": "Тонкая дубінка, скураны каўнер"
+    },
+    {
+        "xml_id": "houndmaster_weapon_3",
+        "eng_version": "Studded Cudgel & Collar",
+        "ru_version": "Шипастая дубина и ошейник",
+        "category_id": 3,
+        "bel_version": "Дубінка з шыпамі і нашыйнік"
+    },
+    {
+        "xml_id": "houndmaster_weapon_4",
+        "eng_version": "\"Lawbringer\"",
+        "ru_version": "Слуга закона",
+        "category_id": 3,
+        "bel_version": "«Законнік»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.weapon",
+        "eng_version": "Cudgel & Collar",
+        "ru_version": "Дубина и ошейник",
+        "category_id": 3,
+        "bel_version": "Дубінка і нашыйнік"
+    },
+    {
+        "xml_id": "abomination_weapon_0",
+        "eng_version": "Incubating Mutation",
+        "ru_version": "Мутация роста",
+        "category_id": 3,
+        "bel_version": "Інкубацыйная мутацыя"
+    },
+    {
+        "xml_id": "abomination_weapon_1",
+        "eng_version": "Progressive Mutation",
+        "ru_version": "Прогрессивная мутация",
+        "category_id": 3,
+        "bel_version": "Прагрэсіўная мутацыя"
+    },
+    {
+        "xml_id": "abomination_weapon_2",
+        "eng_version": "Aggressive Mutation",
+        "ru_version": "Агрессивная мутация",
+        "category_id": 3,
+        "bel_version": "Агрэсіўная мутацыя"
+    },
+    {
+        "xml_id": "abomination_weapon_3",
+        "eng_version": "Malignant Mutation",
+        "ru_version": "Пагубная мутация",
+        "category_id": 3,
+        "bel_version": "Злаякасная мутацыя"
+    },
+    {
+        "xml_id": "abomination_weapon_4",
+        "eng_version": "\"Damnation's Gift\"",
+        "ru_version": "Дар проклятия",
+        "category_id": 3,
+        "bel_version": "«Падарунак пракляцця»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.weapon",
+        "eng_version": "Mutation",
+        "ru_version": "Мутация",
+        "category_id": 3,
+        "bel_version": "Мутацыя"
+    },
+    {
+        "xml_id": "antiquarian_weapon_0",
+        "eng_version": "Makeshift Censer",
+        "ru_version": "Самодельное кадило",
+        "category_id": 3,
+        "bel_version": "Імправізаванае кадзіла"
+    },
+    {
+        "xml_id": "antiquarian_weapon_1",
+        "eng_version": "Pungent Censer",
+        "ru_version": "Чадящее кадило",
+        "category_id": 3,
+        "bel_version": "Востры кадзільнік"
+    },
+    {
+        "xml_id": "antiquarian_weapon_2",
+        "eng_version": "Ordained Censer",
+        "ru_version": "Освященное кадило",
+        "category_id": 3,
+        "bel_version": "Пасвячоны кадзільнік"
+    },
+    {
+        "xml_id": "antiquarian_weapon_3",
+        "eng_version": "Ceremonial Censer",
+        "ru_version": "Церемониальное кадило",
+        "category_id": 3,
+        "bel_version": "Абрадавае кадзіла"
+    },
+    {
+        "xml_id": "antiquarian_weapon_4",
+        "eng_version": "\"The Sarcophagus\"",
+        "ru_version": "Саркофаг",
+        "category_id": 3,
+        "bel_version": "«Саркафаг»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.weapon",
+        "eng_version": "Censer",
+        "ru_version": "Кадило",
+        "category_id": 3,
+        "bel_version": "Кадзіла"
+    },
+    {
+        "xml_id": "musketeer_weapon_0",
+        "eng_version": "Shoddy Musket",
+        "ru_version": "Ржавый мушкет",
+        "category_id": 3,
+        "bel_version": "Дрэнны мушкет"
+    },
+    {
+        "xml_id": "musketeer_weapon_1",
+        "eng_version": "Reliable Musket",
+        "ru_version": "Надежный мушкет",
+        "category_id": 3,
+        "bel_version": "Надзейны мушкет"
+    },
+    {
+        "xml_id": "musketeer_weapon_2",
+        "eng_version": "Balanced Musket",
+        "ru_version": "Пристрелянный мушкет",
+        "category_id": 3,
+        "bel_version": "Збалансаваны мушкет"
+    },
+    {
+        "xml_id": "musketeer_weapon_3",
+        "eng_version": "Marksman's Musket",
+        "ru_version": "Снайперский мушкет",
+        "category_id": 3,
+        "bel_version": "Мушкет стралка"
+    },
+    {
+        "xml_id": "musketeer_weapon_4",
+        "eng_version": "\"Trueshot\"",
+        "ru_version": "Кукушка",
+        "category_id": 3,
+        "bel_version": "\"Праўдзівы здымак\""
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.weapon",
+        "eng_version": "Musket",
+        "ru_version": "Мушкет",
+        "category_id": 3,
+        "bel_version": "Мушкет"
+    },
+    {
+        "xml_id": "crusader_armour_0",
+        "eng_version": "Rusty Hauberk",
+        "ru_version": "Ржавая кольчуга",
+        "category_id": 3,
+        "bel_version": "Іржавы хауберк"
+    },
+    {
+        "xml_id": "crusader_armour_1",
+        "eng_version": "Chainmail",
+        "ru_version": "Кольчуга",
+        "category_id": 3,
+        "bel_version": "Кальчуга"
+    },
+    {
+        "xml_id": "crusader_armour_2",
+        "eng_version": "Chain and Plate",
+        "ru_version": "Цепи и пластины",
+        "category_id": 3,
+        "bel_version": "Ланцуг і талерка"
+    },
+    {
+        "xml_id": "crusader_armour_3",
+        "eng_version": "Plate",
+        "ru_version": "Броня",
+        "category_id": 3,
+        "bel_version": "Талерка"
+    },
+    {
+        "xml_id": "crusader_armour_4",
+        "eng_version": "\"Zealous Conviction\"",
+        "ru_version": "Ревностная вера",
+        "category_id": 3,
+        "bel_version": "«Гарлівае перакананне»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_crusader.armour",
+        "eng_version": "Chain and Plate",
+        "ru_version": "Цепи и пластины",
+        "category_id": 3,
+        "bel_version": "Ланцуг і талерка"
+    },
+    {
+        "xml_id": "highwayman_armour_0",
+        "eng_version": "Worn Overcoat",
+        "ru_version": "Поношенное пальто",
+        "category_id": 3,
+        "bel_version": "Паношанае паліто"
+    },
+    {
+        "xml_id": "highwayman_armour_1",
+        "eng_version": "Durable Overcoat",
+        "ru_version": "Прочное пальто",
+        "category_id": 3,
+        "bel_version": "Трывалае паліто"
+    },
+    {
+        "xml_id": "highwayman_armour_2",
+        "eng_version": "Padded Overcoat",
+        "ru_version": "Укреплённое пальто",
+        "category_id": 3,
+        "bel_version": "Падшытае паліто"
+    },
+    {
+        "xml_id": "highwayman_armour_3",
+        "eng_version": "Bandit's Overcoat",
+        "ru_version": "Бандитское пальто",
+        "category_id": 3,
+        "bel_version": "Бандыцкі шынель"
+    },
+    {
+        "xml_id": "highwayman_armour_4",
+        "eng_version": "\"The Uncatchable\"",
+        "ru_version": "Неуловимый",
+        "category_id": 3,
+        "bel_version": "«Неўлоўны»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_highwayman.armour",
+        "eng_version": "Bandit's Overcoat",
+        "ru_version": "Бандитское пальто",
+        "category_id": 3,
+        "bel_version": "Бандыцкі шынель"
+    },
+    {
+        "xml_id": "occultist_armour_0",
+        "eng_version": "Tattered Robes",
+        "ru_version": "Поношенная мантия",
+        "category_id": 3,
+        "bel_version": "Пацёртыя халаты"
+    },
+    {
+        "xml_id": "occultist_armour_1",
+        "eng_version": "Scholar's Robes",
+        "ru_version": "Мантия учёного",
+        "category_id": 3,
+        "bel_version": "Мантыя вучонага"
+    },
+    {
+        "xml_id": "occultist_armour_2",
+        "eng_version": "Academic's Robes",
+        "ru_version": "Мантия академика",
+        "category_id": 3,
+        "bel_version": "Мантыя акадэміка"
+    },
+    {
+        "xml_id": "occultist_armour_3",
+        "eng_version": "Antiquarian's Robes",
+        "ru_version": "Мантия антиквара",
+        "category_id": 3,
+        "bel_version": "Адзенне антыквара"
+    },
+    {
+        "xml_id": "occultist_armour_4",
+        "eng_version": "\"Dark Inquisition\"",
+        "ru_version": "Тёмная инквизиция",
+        "category_id": 3,
+        "bel_version": "«Цёмная інквізіцыя»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_occultist.armour",
+        "eng_version": "Robes",
+        "ru_version": "Мантия",
+        "category_id": 3,
+        "bel_version": "Халаты"
+    },
+    {
+        "xml_id": "vestal_armour_0",
+        "eng_version": "Worn Cloth and Plate",
+        "ru_version": "Ветхая ткань и броня",
+        "category_id": 3,
+        "bel_version": "Зношаная тканіна і талерка"
+    },
+    {
+        "xml_id": "vestal_armour_1",
+        "eng_version": "Light Cloth and Plate",
+        "ru_version": "Лёгкая ткань и броня",
+        "category_id": 3,
+        "bel_version": "Лёгкая тканіна і талерка"
+    },
+    {
+        "xml_id": "vestal_armour_2",
+        "eng_version": "Fine Cloth, Hammered Plate",
+        "ru_version": "Хорошая ткань, выпрямленная броня",
+        "category_id": 3,
+        "bel_version": "Тонкая тканіна, бітая пліта"
+    },
+    {
+        "xml_id": "vestal_armour_3",
+        "eng_version": "Silk Robes, Hardened Plate",
+        "ru_version": "Шёлковая мантия, укреплённая броня",
+        "category_id": 3,
+        "bel_version": "Шаўковыя мантыі, загартаваная пласціна"
+    },
+    {
+        "xml_id": "vestal_armour_4",
+        "eng_version": "\"The Blessed Bulwark\"",
+        "ru_version": "Благая твердыня",
+        "category_id": 3,
+        "bel_version": "«Блаславёны бастыён»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_vestal.armour",
+        "eng_version": "Silk and Plate",
+        "ru_version": "Шёлк и броня",
+        "category_id": 3,
+        "bel_version": "Шоўк і пласціна"
+    },
+    {
+        "xml_id": "hellion_armour_0",
+        "eng_version": "Worn Leather, Tattered Furs",
+        "ru_version": "Старая кожа, ветхий мех",
+        "category_id": 3,
+        "bel_version": "Паношаная скура, пацёртае футра"
+    },
+    {
+        "xml_id": "hellion_armour_1",
+        "eng_version": "Restitched Leather & Furs",
+        "ru_version": "Зашитая кожа и меха",
+        "category_id": 3,
+        "bel_version": "Перашытыя скура і футра"
+    },
+    {
+        "xml_id": "hellion_armour_2",
+        "eng_version": "Fresh Leather & Furs",
+        "ru_version": "Свежая кожа и меха",
+        "category_id": 3,
+        "bel_version": "Свежая скура і футра"
+    },
+    {
+        "xml_id": "hellion_armour_3",
+        "eng_version": "Master-Sewn Leather & Furs",
+        "ru_version": "Мастерски сшитая кожа и меха",
+        "category_id": 3,
+        "bel_version": "Майстар пашытыя скура і футра"
+    },
+    {
+        "xml_id": "hellion_armour_4",
+        "eng_version": "\"The Wolf's Pelt\"",
+        "ru_version": "Волчья шкура",
+        "category_id": 3,
+        "bel_version": "«Воўчая шкура»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_hellion.armour",
+        "eng_version": "Leather and Furs",
+        "ru_version": "Кожа и меха",
+        "category_id": 3,
+        "bel_version": "Скура і футра"
+    },
+    {
+        "xml_id": "grave_robber_armour_0",
+        "eng_version": "Pilfered Jacket",
+        "ru_version": "Краденая куртка",
+        "category_id": 3,
+        "bel_version": "Скрадзеная куртка"
+    },
+    {
+        "xml_id": "grave_robber_armour_1",
+        "eng_version": "Patched Jacket",
+        "ru_version": "Латаная куртка",
+        "category_id": 3,
+        "bel_version": "Латаная куртка"
+    },
+    {
+        "xml_id": "grave_robber_armour_2",
+        "eng_version": "Fine Jacket",
+        "ru_version": "Отличная куртка",
+        "category_id": 3,
+        "bel_version": "Выдатная куртка"
+    },
+    {
+        "xml_id": "grave_robber_armour_3",
+        "eng_version": "Formal Jacket",
+        "ru_version": "Формальная куртка",
+        "category_id": 3,
+        "bel_version": "Афіцыйны жакет"
+    },
+    {
+        "xml_id": "grave_robber_armour_4",
+        "eng_version": "\"Shadowlace\"",
+        "ru_version": "Теневое кружево",
+        "category_id": 3,
+        "bel_version": "«Ценявое карункі»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_grave_robber.armour",
+        "eng_version": "Pilfered Jacket",
+        "ru_version": "Краденая куртка",
+        "category_id": 3,
+        "bel_version": "Скрадзеная куртка"
+    },
+    {
+        "xml_id": "bounty_hunter_armour_0",
+        "eng_version": "Rigid Leathers",
+        "ru_version": "Жёсткая кожа",
+        "category_id": 3,
+        "bel_version": "Жорсткая скура"
+    },
+    {
+        "xml_id": "bounty_hunter_armour_1",
+        "eng_version": "Buckled Leathers",
+        "ru_version": "Кожа с пряжками",
+        "category_id": 3,
+        "bel_version": "Скура з спражкамі"
+    },
+    {
+        "xml_id": "bounty_hunter_armour_2",
+        "eng_version": "Reinforced Leathers",
+        "ru_version": "Укреплённая кожа",
+        "category_id": 3,
+        "bel_version": "Узмоцненая скура"
+    },
+    {
+        "xml_id": "bounty_hunter_armour_3",
+        "eng_version": "Scale and Leathers",
+        "ru_version": "Чешуя и кожа",
+        "category_id": 3,
+        "bel_version": "Маштаб і скуры"
+    },
+    {
+        "xml_id": "bounty_hunter_armour_4",
+        "eng_version": "\"Death's Head\"",
+        "ru_version": "Череп",
+        "category_id": 3,
+        "bel_version": "«Галава смерці»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_bounty_hunter.armour",
+        "eng_version": "Rigid Leathers",
+        "ru_version": "Жёсткая кожа",
+        "category_id": 3,
+        "bel_version": "Жорсткая скура"
+    },
+    {
+        "xml_id": "plague_doctor_armour_0",
+        "eng_version": "Attendant's Robes",
+        "ru_version": "Форма сиделки",
+        "category_id": 3,
+        "bel_version": "Адзенне служачага"
+    },
+    {
+        "xml_id": "plague_doctor_armour_1",
+        "eng_version": "Intern's Robes",
+        "ru_version": "Форма стажёра",
+        "category_id": 3,
+        "bel_version": "Халаты стажора"
+    },
+    {
+        "xml_id": "plague_doctor_armour_2",
+        "eng_version": "Doctor's Robes",
+        "ru_version": "Форма врача",
+        "category_id": 3,
+        "bel_version": "Доктарскія халаты"
+    },
+    {
+        "xml_id": "plague_doctor_armour_3",
+        "eng_version": "Surgeon's Robes",
+        "ru_version": "Форма хирурга",
+        "category_id": 3,
+        "bel_version": "Халаты хірурга"
+    },
+    {
+        "xml_id": "plague_doctor_armour_4",
+        "eng_version": "\"The Malignant Mantle\"",
+        "ru_version": "Пагубная мантия",
+        "category_id": 3,
+        "bel_version": "«Злаякасная мантыя»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_plague_doctor.armour",
+        "eng_version": "Doctor's Robes",
+        "ru_version": "Форма врача",
+        "category_id": 3,
+        "bel_version": "Доктарскія халаты"
+    },
+    {
+        "xml_id": "jester_armour_0",
+        "eng_version": "Motley Garb",
+        "ru_version": "Пёстрая одежда",
+        "category_id": 3,
+        "bel_version": "Стракатае адзенне"
+    },
+    {
+        "xml_id": "jester_armour_1",
+        "eng_version": "Mocking Garb",
+        "ru_version": "Шутовская одежда",
+        "category_id": 3,
+        "bel_version": "Насмешлівае адзенне"
+    },
+    {
+        "xml_id": "jester_armour_2",
+        "eng_version": "Padded Garb",
+        "ru_version": "Укреплённая одежда",
+        "category_id": 3,
+        "bel_version": "Падшытае адзенне"
+    },
+    {
+        "xml_id": "jester_armour_3",
+        "eng_version": "Armored Garb",
+        "ru_version": "Бронированная одежда",
+        "category_id": 3,
+        "bel_version": "Браняваная вопратка"
+    },
+    {
+        "xml_id": "jester_armour_4",
+        "eng_version": "\"The Cruelest Crown\"",
+        "ru_version": "Жесточайшая корона",
+        "category_id": 3,
+        "bel_version": "«Жэстачайшая карона»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_jester.armour",
+        "eng_version": "Motley Garb",
+        "ru_version": "Пёстрая одежда",
+        "category_id": 3,
+        "bel_version": "Стракатае адзенне"
+    },
+    {
+        "xml_id": "leper_armour_0",
+        "eng_version": "Battered Chestplate",
+        "ru_version": "Побитая кираса",
+        "category_id": 3,
+        "bel_version": "Пабіты нагруднік"
+    },
+    {
+        "xml_id": "leper_armour_1",
+        "eng_version": "Reforged Chestplate",
+        "ru_version": "Перекованная кираса",
+        "category_id": 3,
+        "bel_version": "Перакованы нагруднік"
+    },
+    {
+        "xml_id": "leper_armour_2",
+        "eng_version": "Reinforced Chestplate",
+        "ru_version": "Укреплённая кираса",
+        "category_id": 3,
+        "bel_version": "Узмоцнены нагруднік"
+    },
+    {
+        "xml_id": "leper_armour_3",
+        "eng_version": "Bronzed Chestplate",
+        "ru_version": "Бронзовая кираса",
+        "category_id": 3,
+        "bel_version": "Бронзавы нагруднік"
+    },
+    {
+        "xml_id": "leper_armour_4",
+        "eng_version": "\"Indomitable\"",
+        "ru_version": "Непреклонный",
+        "category_id": 3,
+        "bel_version": "«Нязломны»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_leper.armour",
+        "eng_version": "Bronzed Chestplate",
+        "ru_version": "Бронзовая кираса",
+        "category_id": 3,
+        "bel_version": "Бронзавы нагруднік"
+    },
+    {
+        "xml_id": "arbalest_armour_0",
+        "eng_version": "Second-Hand Plate",
+        "ru_version": "Поношенная броня",
+        "category_id": 3,
+        "bel_version": "Пліта б / у"
+    },
+    {
+        "xml_id": "arbalest_armour_1",
+        "eng_version": "Pawned Plate",
+        "ru_version": "Заложенная броня",
+        "category_id": 3,
+        "bel_version": "Закладзеная талерка"
+    },
+    {
+        "xml_id": "arbalest_armour_2",
+        "eng_version": "Reliable Plate",
+        "ru_version": "Надёжная броня",
+        "category_id": 3,
+        "bel_version": "Надзейная пліта"
+    },
+    {
+        "xml_id": "arbalest_armour_3",
+        "eng_version": "Refined Plate",
+        "ru_version": "Улучшенная броня",
+        "category_id": 3,
+        "bel_version": "Вытанчаная талерка"
+    },
+    {
+        "xml_id": "arbalest_armour_4",
+        "eng_version": "\"Survivor\"",
+        "ru_version": "Выживший",
+        "category_id": 3,
+        "bel_version": "«Выжыў»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_arbalest.armour",
+        "eng_version": "Plate Armor",
+        "ru_version": "Пластинчатая броня",
+        "category_id": 3,
+        "bel_version": "Пласціністы даспех"
+    },
+    {
+        "xml_id": "man_at_arms_armour_0",
+        "eng_version": "Shoddy Splint",
+        "ru_version": "Слабая планка",
+        "category_id": 3,
+        "bel_version": "Дрэнная шыба"
+    },
+    {
+        "xml_id": "man_at_arms_armour_1",
+        "eng_version": "Military-Issue Armor",
+        "ru_version": "Военная броня",
+        "category_id": 3,
+        "bel_version": "Ваенная броня"
+    },
+    {
+        "xml_id": "man_at_arms_armour_2",
+        "eng_version": "Sergeant Major's Plate",
+        "ru_version": "Броня старшины",
+        "category_id": 3,
+        "bel_version": "Талерка старшага сяржанта"
+    },
+    {
+        "xml_id": "man_at_arms_armour_3",
+        "eng_version": "Master Sergeant's Plate",
+        "ru_version": "Броня мастер-сержанта",
+        "category_id": 3,
+        "bel_version": "Талерка старшага сяржанта"
+    },
+    {
+        "xml_id": "man_at_arms_armour_4",
+        "eng_version": "\"The Bulwark\"",
+        "ru_version": "Твердыня",
+        "category_id": 3,
+        "bel_version": "«Аплот»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_man_at_arms.armour",
+        "eng_version": "Plate Mail",
+        "ru_version": "Пластинчатый доспех",
+        "category_id": 3,
+        "bel_version": "Талерка Пошта"
+    },
+    {
+        "xml_id": "houndmaster_armour_0",
+        "eng_version": "Ragged Leather Vest",
+        "ru_version": "Поношенный кожаный жилет",
+        "category_id": 3,
+        "bel_version": "Ірваная скураная камізэлька"
+    },
+    {
+        "xml_id": "houndmaster_armour_1",
+        "eng_version": "Stitched Leather Vest",
+        "ru_version": "Зашитый кожаный жилет",
+        "category_id": 3,
+        "bel_version": "Пашытая скураная камізэлька"
+    },
+    {
+        "xml_id": "houndmaster_armour_2",
+        "eng_version": "Resilient Leather Vest",
+        "ru_version": "Прочный кожаный жилет",
+        "category_id": 3,
+        "bel_version": "Эластычны скураны камізэлька"
+    },
+    {
+        "xml_id": "houndmaster_armour_3",
+        "eng_version": "Splinted Leather Vest",
+        "ru_version": "Скреплённый кожаный жилет",
+        "category_id": 3,
+        "bel_version": "Скураная камізэлька"
+    },
+    {
+        "xml_id": "houndmaster_armour_4",
+        "eng_version": "\"Gendarme's Pride\"",
+        "ru_version": "Гордость жандарма",
+        "category_id": 3,
+        "bel_version": "«Жандарскі гонар»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_houndmaster.armour",
+        "eng_version": "Leather Vest",
+        "ru_version": "Кожаный жилет",
+        "category_id": 3,
+        "bel_version": "Скураная камізэлька"
+    },
+    {
+        "xml_id": "abomination_armour_0",
+        "eng_version": "Rusted Chains",
+        "ru_version": "Ржавые цепи",
+        "category_id": 3,
+        "bel_version": "Іржавыя ланцугі"
+    },
+    {
+        "xml_id": "abomination_armour_1",
+        "eng_version": "Iron Chains",
+        "ru_version": "Железные цепи",
+        "category_id": 3,
+        "bel_version": "Жалезныя ланцугі"
+    },
+    {
+        "xml_id": "abomination_armour_2",
+        "eng_version": "Steel Chains",
+        "ru_version": "Стальные цепи",
+        "category_id": 3,
+        "bel_version": "Сталёвыя ланцугі"
+    },
+    {
+        "xml_id": "abomination_armour_3",
+        "eng_version": "Hellforged Chains",
+        "ru_version": "Адские цепи",
+        "category_id": 3,
+        "bel_version": "пякельныя ланцугі"
+    },
+    {
+        "xml_id": "abomination_armour_4",
+        "eng_version": "\"Inhuman Bondage\"",
+        "ru_version": "Нечеловеческие обмотки",
+        "category_id": 3,
+        "bel_version": "«Нечалавечая няволя»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_abomination.armour",
+        "eng_version": "Chains",
+        "ru_version": "Цепи",
+        "category_id": 3,
+        "bel_version": "Ланцугі"
+    },
+    {
+        "xml_id": "antiquarian_armour_0",
+        "eng_version": "Rucksack & Baubles",
+        "ru_version": "Мешок с безделушками",
+        "category_id": 3,
+        "bel_version": "Заплечнік і цацкі"
+    },
+    {
+        "xml_id": "antiquarian_armour_1",
+        "eng_version": "Pouches & Curiosities",
+        "ru_version": "Кисет с диковинками",
+        "category_id": 3,
+        "bel_version": "Мяшэчкі і цікавосткі"
+    },
+    {
+        "xml_id": "antiquarian_armour_2",
+        "eng_version": "Sturdy Satchel & Oddities",
+        "ru_version": "Прочный ранец с раритетами",
+        "category_id": 3,
+        "bel_version": "Трывалы ранец і дзівацтвы"
+    },
+    {
+        "xml_id": "antiquarian_armour_3",
+        "eng_version": "Expedition Pack & Relics",
+        "ru_version": "Экспедиционный рюкзак с реликвиями",
+        "category_id": 3,
+        "bel_version": "Экспедыцыйны пакет і рэліквіі"
+    },
+    {
+        "xml_id": "antiquarian_armour_4",
+        "eng_version": "\"Timurik's Bottomless Bag\"",
+        "ru_version": "Бездонный мешок Тимурика",
+        "category_id": 3,
+        "bel_version": "«Бяздонная сумка Цімурыка»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_antiquarian.armour",
+        "eng_version": "Pouches & Curiosities",
+        "ru_version": "Сумка с амулетами",
+        "category_id": 3,
+        "bel_version": "Мяшэчкі і цікавосткі"
+    },
+    {
+        "xml_id": "musketeer_armour_0",
+        "eng_version": "Participant's Vest & Cloak",
+        "ru_version": "Дублет и плащ новичка",
+        "category_id": 3,
+        "bel_version": "Камізэлька і плашч удзельніка"
+    },
+    {
+        "xml_id": "musketeer_armour_1",
+        "eng_version": "Competitor's Vest & Cloak",
+        "ru_version": "Дублет и плащ участника",
+        "category_id": 3,
+        "bel_version": "Камізэлька і плашч удзельніка"
+    },
+    {
+        "xml_id": "musketeer_armour_2",
+        "eng_version": "Finalist's Vest & Cloak",
+        "ru_version": "Дублет и плащ призёра",
+        "category_id": 3,
+        "bel_version": "Камізэлька і плашч фіналіста"
+    },
+    {
+        "xml_id": "musketeer_armour_3",
+        "eng_version": "Medalist's Vest & Cloak",
+        "ru_version": "Дублет и плащ финалиста",
+        "category_id": 3,
+        "bel_version": "Камізэлька і плашч медаліста"
+    },
+    {
+        "xml_id": "musketeer_armour_4",
+        "eng_version": "\"The Champion's Regalia\"",
+        "ru_version": "Облачение чемпиона",
+        "category_id": 3,
+        "bel_version": "«Рэгаліі чэмпіёна»"
+    },
+    {
+        "xml_id": "upgrade_tree_name_musketeer.armour",
+        "eng_version": "Vest & Cloak",
+        "ru_version": "Дублет и плащ",
+        "category_id": 3,
+        "bel_version": "Камізэлька і плашч"
+    },
+    {
+        "xml_id": "action_verbose_body_guild_bounty_hunter",
+        "eng_version": "A brutally efficient single-target executioner and crowd control specialist. For the Bounty Hunter, planning is key - mark targets for bonus damage or look for opportunties to capitalize on a stunned foe. He can also wreak havoc on an enemy party's order using his grappling hook, flashbangs and powerful uppercut.",
+        "ru_version": "Жестокий, знающий своё дело палач. Отлично уничтожает одиночные цели и управляет толпой. Главное для наёмника – планирование. Нужно выбирать правильные цели для нанесения им большего урона, или высматривать оглушённых врагов с целью заработать на них. Также наёмник может внести сумятицу во вражескую группу при помощи крюка, светошумовых гранат и мощного апперкота.",
+        "category_id": 3,
+        "bel_version": "Жорстка эфектыўны кат па адной цэлі і спецыяліст па кантролі натоўпу. Для Паляўнічага за галовамі планаванне з'яўляецца ключавым - адзначайце мэты для дадатковага ўрону або шукайце магчымасці атрымаць выгаду з ашаломленага праціўніка. Ён таксама можа нанесці хаос па загадзе варожага боку, выкарыстоўваючы свой захоп, удары ўспышкай і магутны аперкот."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_crusader",
+        "eng_version": "Battle-hardened and stalwart, the Crusader has held the front lines in a hundred holy wars. He either attacks foes head-on with righteous fury, or embraces a melee support role by leveraging his powerful defensive buffs & off-heals.",
+        "ru_version": "Стойкий, закалённый в бою крестоносец побывал на передовой в сотне священных войн. Он либо нападает на врагов в лоб, одержимый праведным гневом, либо помогает товарищам в рукопашном бою, придавая им сил и немного подлечивая.",
+        "category_id": 3,
+        "bel_version": "Загартаваны ў баях і стойкі крыжакі ўтрымліваў лінію фронту ў сотні свяшчэнных войнаў. Ён альбо атакуе ворагаў лоб у лоб з праведнай лютасцю, альбо выконвае ролю падтрымкі ў блізкім бою, выкарыстоўваючы свае магутныя абарончыя бафы і невылечванні."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_grave_robber",
+        "eng_version": "The Grave Robber is a versatile and nimble combatant, moving back and forth through the ranks with ease. She strikes without warning and retreats to the shadows, continuing her assault at range. If her throwing daggers and poison darts aren't getting the job done, she can return to the melee, buffed and slinging her pickaxe!",
+        "ru_version": "Могильная воровка – шустрая воительница, которая пригодится в любом бою и будет легко перемещаться по полю. Она нападает без предупреждения, после чего отходит в тень и продолжает атаковать издали. Если её метательные ножи и ядовитые дротики не помогут, она возьмёт кирку, сделает усиление и пойдёт врукопашную.",
+        "category_id": 3,
+        "bel_version": "Рабаўнік магіл - універсальны і спрытны баец, які з лёгкасцю перамяшчаецца наперад і назад па шэрагах. Яна наносіць удар без папярэджання і адступае ў цень, працягваючы штурм на адлегласці. Калі яе кідальныя кінжалы і атрутныя дроцікі не спраўляюцца са сваёй задачай, яна можа вярнуцца ў блізкі бой, атрымаўшы баф і кінуўшы кірку з прашчы!"
+    },
+    {
+        "xml_id": "action_verbose_body_guild_hellion",
+        "eng_version": "Wild, unpredictable, and utterly ruthless, the Hellion thrills to the spilling of blood! Her massive glaive affords her impressive reach in combat, while its razor sharp edge leaves lasting wounds on enemies. Certain skills leave her exhausted, however, and she may occasionally need to take a turn to recharge her adrenaline before entering the fray once again.",
+        "ru_version": "Свирепая, непредсказуемая и безумно жестокая дикарка обожает вид крови. Огромной глефой с острым лезвием она может дотянуться очень далеко и оставить на врагах глубокие шрамы. Некоторые навыки подрывают её силы, и иногда ей нужно пропустить ход и набраться адреналина, прежде чем снова броситься в бой.",
+        "category_id": 3,
+        "bel_version": "Дзікі, непрадказальны і абсалютна бязлітасны, Hellion захапляе да праліцця крыві! Яе масіўная глефа дае ёй уражлівы радыус дзеяння ў баі, у той час як яе востры як брытва край пакідае працяглыя раны на ворагах. Аднак некаторыя навыкі знясільваюць яе, і ёй час ад часу спатрэбіцца пагуляць, каб аднавіць адрэналін, перш чым зноў уступіць у бойку."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_highwayman",
+        "eng_version": "A rogue, a thug and a thief, the Highwayman has honed his skills with dirk and flintlock to devastating effect. Whether at range or in a melee, he is equally effective at dispatching his foes. Be it a grapeshot area-of-effect, or single target bleed, the Highwayman's skills focus solely on dealing damage in a variety of ways.",
+        "ru_version": "Воровство, бандитизм и убийства помогли разбойнику как следует освоить кинжал и кремнёвое ружьё. Он сражается врукопашную и стреляет издали, так что врагам не поздоровится. Разбойник может наносить урон как одной цели, вызывая у неё кровотечения, так и по площади, главное – чтобы врагу пришлось плохо.",
+        "category_id": 3,
+        "bel_version": "Нягоднік, бандыт і злодзей, Разбойнік адточыў свае навыкі валодання кіркай і крэмневым замкам да разбуральнага эфекту. На далёкасці або ў блізкім бою, ён аднолькава эфектыўна разбівае сваіх ворагаў. Навыкі разбойніка сканцэнтраваны толькі на нанясенні страт рознымі спосабамі, няхай гэта будзе вінаградная дроб у зоне ўздзеяння або крывацёк з адной мэты."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_occultist",
+        "eng_version": "A lifetime of scholarly inquest into ancient and forbidden lore has opened the Occultist's mind to the powers of the void. Debilitating curses and maddeningly impossible support skills are his specialty. The void, however, is an unpredictable power, and consequently skills' effectiveness can vary dramatically, and usually come at a cost of light, or stress.",
+        "ru_version": "Всю жизнь оккультист изучал древние запретные предания и постиг силу пустоты. Его специальность – ослабляющие проклятья и невероятно сильная поддержка товарищей. Сила пустоты, однако, непредсказуема, так что действенность навыков оккультиста может меняться, и зачастую их применение стоит ему потери света или получению стресса.",
+        "category_id": 3,
+        "bel_version": "Навуковае даследаванне старажытных і забароненых ведаў на працягу ўсяго жыцця адкрыла розум акультыста для сіл пустэчы. Знясільваючыя праклёны і вар'яцка немагчымыя навыкі падтрымкі - яго спецыяльнасць. Пустэча, аднак, з'яўляецца непрадказальнай сілай, і, адпаведна, эфектыўнасць навыкаў можа рэзка адрознівацца, і звычайна гэта адбываецца за кошт святла або стрэсу."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_plague_doctor",
+        "eng_version": "A doctor, researcher and alchemist who prefers to hang back, eating away at her foes with stacking damage-over-time abilties like toxic clouds & plague-filled grenades. She is equally effective in a support role, blinding and confusing foes while enhancing a party's survival with damage-increasing tonics, and remedies for bleed and blight effects.",
+        "ru_version": "Врач, исследовательница и алхимик, предпочитающая держаться позади и забрасывать врагов ядовитыми облаками и чумными гранатами, которые наносят урон в течение долгого времени, и эффект действия которых накладывается друг на друга. Также чумной доктор может поддерживать товарищей, ослепляя врагов и раздавая друзьям бодрящие тоники, лекарства от чумы и средства от кровотечения.",
+        "category_id": 3,
+        "bel_version": "Доктар, даследчык і алхімік, якая аддае перавагу адцягвацца, з'ядаючы сваіх ворагаў здольнасцямі, якія наносяць страты з часам, такімі як таксічныя аблокі і напоўненыя чумой гранаты. Яна аднолькава эфектыўна выконвае ролю падтрымкі, асляпляючы і збіваючы з панталыку ворагаў, адначасова павялічваючы выжыванне групы з дапамогай тонікаў, якія павялічваюць страты, і лекаў ад крывацёку і паразы."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_vestal",
+        "eng_version": "The warrior nun channels her zeal for battle into healing abilities, holy judgements and dazzling explosions of light. A strong backbone to any party, the Vestal can also hold her own on the front line with a powerful mace bash and close-quarters condemnations.",
+        "ru_version": "Боевая монахиня обращает свой гнев в исцеление, священное правосудие и ослепительные вспышки света. Весталка – хороший задний игрок для любой группы, но может справиться и на передовой: она отлично владеет булавой и несколькими проклятьями для ближнего боя.",
+        "category_id": 3,
+        "bel_version": "Ваяўнічая манашка накіроўвае свой запал да бітвы ў здольнасці вылячэння, святыя суды і асляпляльныя выбухі святла. Моцны касцяк любой партыі, весталка таксама можа трымацца на перадавой моцным ударам булавой і асуджэннем з блізкага бою."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_jester",
+        "eng_version": "Combat is a power-ballad - a slow build up, and a grand finale! On the offense, the Jester leaps to and fro in a bloody cacophony, positioning himself for a glorious end in the front ranks! Alternatively, he can hang back, delivering chilling melodies and unsettling riffs that terrorize his foes, and give strength to his allies.",
+        "ru_version": "Бой, по сути, баллада: медленный запев и грандиозный финал! Если шут решит нападать, то расположится на передовой и обрушит на врага кровавую какофонию. Он может держаться и позади, исполняя жуткие мелодии и противные риффы, которые напугают врагов и придадут сил товарищам.",
+        "category_id": 3,
+        "bel_version": "Combat - гэта сілавая балада - павольнае нарошчванне і грандыёзны фінал! У нападзе Шут скача туды-сюды ў крывавай какафоніі, пазіцыянуючы сябе для слаўнага канца ў першых шэрагах! У якасці альтэрнатывы ён можа трымацца ў баку, выдаючы жудасныя мелодыі і трывожныя рыфы, якія тэрарызуюць яго ворагаў і даюць сілы сваім саюзнікам."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_leper",
+        "eng_version": "A ruined man, a warrior, and a poet. The Leper is most effective when given a turn to focus himself before raising his massive blade. When he swings, it is all or nothing - crushing blows and massive damage or the empty whistling of a glancing blow. He is entirely self-sufficient, drawing strength from his life of trauma, and able to channel it into heals, protection, or unrelenting fury.",
+        "ru_version": "Сломленный человек, воин и поэт. Прокажённый действует лучше всего, если дать ему время сосредоточиться перед тем, как поднять огромный клинок. Взмах этого клинка окончится всем или ничем: либо врагу будет нанесён сокрушающий урон, либо лезвие просто рассечёт воздух. Прокажённый рассчитывает только на себя, черпая силу из своей болезни и обращая её в лечение, защиту или неудержимый гнев.",
+        "category_id": 3,
+        "bel_version": "Загублены чалавек, воін і паэт. Пракажоны найбольш эфектыўны, калі яму даюць паварот, каб засяродзіцца перад тым, як падняць свой масіўны клінок. Калі ён замахваецца, гэта ўсё ці нічога - сакрушальныя ўдары і масавыя пашкоджанні або пусты свіст рэзкага ўдару. Ён цалкам самадастатковы, чэрпаючы сілы з жыцця, напоўненага траўмамі, і здольны накіраваць іх на лячэнне, абарону або няўмольную лютасць."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_arbalest",
+        "eng_version": "A runaway turned soldier, the Arbalest is the definitive backline fighter. Able to rain suppressing fire down on the enemy, snipe high profile targets and apply powerfully effective first-aid, she is a rallying point, a turret, a beacon in the dark.",
+        "ru_version": "Арбалетчица – беглянка, ставшая воительницей, и сражается она в задних рядах. Она способна вести подавляющий огонь, отстреливать важные цели и оказывать первую помощь, а также вдохновлять своих товарищей.",
+        "category_id": 3,
+        "bel_version": "Арбалет, які стаў салдатам-уцякачом, з'яўляецца надзейным баявым тылам. Здольная падаўляць агонь па ворагу, страляць па высокіх мэтах і аказваць вельмі эфектыўную першую дапамогу, яна з'яўляецца пунктам збору, вежай, маяком у цемры."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_man_at_arms",
+        "eng_version": "The Man-at-Arms is a seasoned veteran of combat, and has been rewarded for his toil with haunting guilt and stoic resilience in equal measure. Immovable, commanding, and focused, the Man-at-Arms breaks down enemy lines with his mace, buckler, and furious battle cries.",
+        "ru_version": "Воитель прошёл множество битв, из которых вынес одинаково сильные чувство вины и стойкость. Уверенный и непоколебимый, он раздаёт команды и крушит вражеские ряды дубиной, щитом и боевыми кличами.",
+        "category_id": 3,
+        "bel_version": "Ваеннаслужачы з'яўляецца вопытным ветэранам баявых дзеянняў, і ён быў узнагароджаны за сваю працу аднолькавым пачуццём віны і стаічнай устойлівасцю. Непарушны, уладны і засяроджаны, Ваеннаслужачы разбівае варожыя шэрагі з дапамогай сваёй булавы, баклера і лютых баявых крыкаў."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_houndmaster",
+        "eng_version": "A tough and uncommonly compassionate ex-lawman, the Houndmaster and his faithful Wolfhound work in tandem to bring down their enemies and protect the innocent. Together they stalk the back ranks, bursting forth in a flurry of harrying bleeds, gnashing teeth, and stunning blows. Should the tide of battle turn, the pair can support an ailing party by protecting the weak, and rallying the stressed.",
+        "ru_version": "Дрессировщик – бывший слуга закона, суровый, но на удивление милосердный. Вместе со своей гончей они крушат врагов и спасают невиновных, обычно держась в задних рядах, откуда бросаются в бой, нанося раны, укусы и оглушающие удары. Если ход битвы изменится, дрессировщик и собака смогут защитить слабых и придать сил уставшим.",
+        "category_id": 3,
+        "bel_version": "Жорсткі і незвычайна спагадлівы былы законнік, Хаундмайстар і яго верны Ваўкадаў працуюць у тандэме, каб знішчыць сваіх ворагаў і абараніць невінаватых. Разам яны пераследуюць заднія шэрагі, вырываючыся ў шквале крывацёкаў, скрыгату зубоў і ашаламляльных удараў. Калі ход бітвы паменшыцца, пара можа падтрымаць хворую групу, абараняючы слабых і згуртоўваючы тых, хто знаходзіцца ў стрэсе."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_abomination",
+        "eng_version": "Beaten, branded and imprisoned for untold decades, this furtive vagrant hides a terrible secret. The eldritch poison coursing through his veins has given him unspeakable power, at a terrible cost. As his form changes, so too does his role in combat!",
+        "ru_version": "Избитый и заклеймённый таинственный странник многие годы провёл в заточении, и теперь скрывает ужасную тайну. Текущий по венам мистический яд наделил его невероятной силой, за которую он платит невероятную цену. Со сменой формы меняется и его роль в бою.",
+        "category_id": 3,
+        "bel_version": "Збіты, кляймаваны і заключаны ў турму на незлічоныя дзесяцігоддзі, гэты ўтойлівы валацуга хавае жудасную таямніцу. Страшэнны яд, які цячэ па яго жылах, даў яму невыказную моц за жудасную цану. Калі змяняецца яго форма, змяняецца і яго роля ў баі!"
+    },
+    {
+        "xml_id": "action_verbose_body_guild_antiquarian",
+        "eng_version": "A scholar, researcher, and keen archaeologist, The Antiquarian is not well suited for combat. She is, however, an expert in self-preservation - by making herself scarce in a fight, or demanding an ally protect her, she ensures her survival. If direct combat is unavoidable, The Antiquarian can use her fulminating censer to heal and invigorate allies... and to toxify attackers.",
+        "ru_version": "Ученая, исследователь и любознательный археолог, Антиквар не приспособлена для битвы. Зато она эксперт по части самосохранения и обеспечивает собственную безопасность, укрываясь от врагов и требуя защиты от союзников. Если же прямое столкновение неизбежно, Антиквар пустит в ход чадящее кадило, чтобы вылечить и взбодрить союзников... или отравить врагов.",
+        "category_id": 3,
+        "bel_version": "Вучоны, даследчык і заўзяты археолаг, Антыкварый не вельмі прыдатны для бою. Аднак яна з'яўляецца экспертам у самазахаванні - робячы сябе дэфіцытнай у барацьбе або патрабуючы абароны саюзніка, яна забяспечвае сваё выжыванне. Калі прамога бою не пазбегнуць, Антыкварыянка можа выкарыстаць сваё бліскучае кадзіла, каб вылечыць і падбадзёрыць саюзнікаў... і атруціць нападнікаў."
+    },
+    {
+        "xml_id": "action_verbose_body_guild_musketeer",
+        "eng_version": "A competitive sharpshooter with little practical experience, the Musketeer excels when enemies remain at a distance. Her unerring eye and practiced reloading makes her a dependable damage dealer, and her smokescreen, first aid, and skeet shot provide some supportive utility to the party.",
+        "ru_version": "Азартный стрелок без серьезного боевого опыта, Мушкетер предпочитает держать противников на расстоянии. Ее верный глаз и отточенный опыт перезарядки делают Мушкетера надежной ударной силой, а дымовая завеса, перевязка и выстрел навскидку послужат неплохой поддержкой команде.",
+        "category_id": 3,
+        "bel_version": "Канкурэнтаздольны снайпер з невялікім практычным вопытам, Мушкецёр вылучаецца, калі ворагі застаюцца на адлегласці. Яе беспамылковае вока і спрактыкаванае перазараджванне робяць яе надзейным наношчыкам шкоды, а яе дымавая заслона, першая дапамога і стрэл па тарелках забяспечваюць некаторую падтрымку вечарыне."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_bounty_hunter",
+        "eng_version": "The Bounty Hunter favors a hand-axe and grappling hook, a pairing that allows him to ensnare and execute his quarry with professional efficiency. His tough leather and scale armor grants decent protection, without sacrificing mobility.",
+        "ru_version": "Наёмник вооружён топором и крюком, что позволяет ему с лёгкостью обездвижить и прикончить жертву. Броня из толстой кожи и чешуи неплохо защищает его и не сковывает движений.",
+        "category_id": 3,
+        "bel_version": "Паляўнічы за галовамі аддае перавагу ручной сякеры і захопу, спалучэнню, якое дазваляе яму злавіць і выканаць сваю здабычу з прафесійнай эфектыўнасцю. Яго цвёрдая скура і лускавая браня забяспечваюць годную абарону без шкоды для мабільнасці."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_crusader",
+        "eng_version": "The Crusader wears heavy plate mail and wields a longsword. While affording him excellent protection and damage, his armor restricts movement, and his sword cannot be swung effectively in the back ranks.",
+        "ru_version": "Крестоносец одет в тяжёлую броню и вооружён длинным мечом. Такая экипировка хорошо защищает и позволяет наносить большой урон, но при этом сковывает движения, а мечом сложно действовать в задних рядах.",
+        "category_id": 3,
+        "bel_version": "Крыжак апрануты ў цяжкую латную кальчугу і валодае доўгім мячом. Даючы яму выдатную абарону і страты, яго даспехі скоўваюць рух, а яго мячом нельга эфектыўна размахваць у задніх шэрагах."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_grave_robber",
+        "eng_version": "A light coat is all the Graverobber will wear, she favours mobility and dexterity over protection. Concealed within her garment are razor sharp throwing daggers, and buckled to her back - a pickaxe!",
+        "ru_version": "Могильная воровка носит только лёгкую куртку, потому что защите предпочитает ловкость и мобильность. Под курткой она прячет острые как бритва метательные ножи, а на спине носит кирку.",
+        "category_id": 3,
+        "bel_version": "Лёгкае паліто - усё, што будзе насіць Graverobber, яна аддае перавагу мабільнасці і спрыту, а не абароне. У яе вопратцы схаваны вострыя як брытва кідальныя кінжалы, а на спіне прышпілена кірка!"
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_hellion",
+        "eng_version": "Crude leather and furs may offer little protection, but the Hellion lives to bear the scars of battle proudly. Her priority is wreaking havoc with her massive glaive and bathing in the blood of her adversaries.",
+        "ru_version": "Грубая кожа и мех не сильно защищают, но дикарка гордится своими боевыми шрамами. Больше всего она любит сеять хаос при помощи своей огромной глефы, а потом купаться в крови врагов.",
+        "category_id": 3,
+        "bel_version": "Грубая скура і футра могуць мала абараняць, але Геліён жыве, каб з гонарам несці шнары бітвы. Яе прыярытэт - сеяць хаос сваёй масіўнай глефай і купацца ў крыві праціўнікаў."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_highwayman",
+        "eng_version": "The Highwayman's reinforced overcoat will dull a knife-strike, but he relies more on evasion than damage mitigation. His flintlock and short sword afford him great versatility; he is never out of position, or caught unawares.",
+        "ru_version": "Укреплённая куртка разбойника выдержит удар ножом, но вместо того, чтобы держать удар, разбойник предпочитает увернуться. Он вооружён кремнёвым ружьём и коротким мечом, что позволяет ему сражаться на какой угодно позиции. Ничто не застанет его врасплох!",
+        "category_id": 3,
+        "bel_version": "Узмоцненае паліто Разбойніка прытупіць удар нажом, але ён больш разлічвае на ўхіленне, чым на змякчэнне пашкоджанняў. Яго крэмневы замок і кароткі меч забяспечваюць яму вялікую ўніверсальнасць; ён ніколі не выходзіць з пазіцыі і не бывае знянацку."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_occultist",
+        "eng_version": "Scholarly robes, better suited to the library than the harsh realities of adventuring, are all the Occultist has brought with him. His rituals and chants require deft movements of hand and finger, so better he be unencumbered that he may channel the power of his morbid fetish: the polished skull of a dead man.",
+        "ru_version": "Одежды учёного, подходящие для библиотеки, но никак не для приключений – вот и всё имущество оккультиста. Для его ритуалов и напевов нужно быстро двигать руками и пальцами, поэтому он предпочитает драться налегке, чтобы ничто не мешало ему черпать силу из своего жуткого талисмана: отполированного человечьего черепа.",
+        "category_id": 3,
+        "bel_version": "Акультыст прыхапіў з сабой вопратку вучонага, якая лепш падыходзіць для бібліятэкі, чым для суровай рэальнасці прыгод. Яго рытуалы і спевы патрабуюць спрытных рухаў рук і пальцаў, так што лепш яму быць свабодным, каб ён мог накіраваць сілу свайго хваравітага фетыша: паліраванага чэрапа мерцвяка."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_plague_doctor",
+        "eng_version": "The Plague Doctor wears only light cloth - intent on remaining as far from melee combat as possible. From a distance she lobs toxic sachets that can blind, disorient, and eat away at her foes.",
+        "ru_version": "Чумной доктор носит лишь лёгкую одежду и старается держаться как можно дальше от поля боя. Издали она кидает ядовитые мешочки, которые ослепляют, дезориентируют и обжигают врагов.",
+        "category_id": 3,
+        "bel_version": "Чумны доктар носіць толькі лёгкую тканіну - імкнучыся трымацца як мага далей ад рукапашнага бою. Здалёк яна кідае таксічныя пакеты, якія могуць асляпіць, дэзарыентаваць і з'есці яе ворагаў."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_vestal",
+        "eng_version": "Blessed plate mail encases the Vestal as she delivers terrible violence and healing comfort in equal measure. A mace in one hand, and holy book in the other - a study in contrasts, and all the more effective for it!",
+        "ru_version": "Благословлённая пластинчатая броня защищает весталку, занятую во время боя исцелением и нанесением урона врагам. В одной руке у неё дубина, а другой – священная книга. Эффективное и действенное сочетание!",
+        "category_id": 3,
+        "bel_version": "Благаслаўлёная кальчуга ахінае весталку, бо яна ў аднолькавай ступені нясе жудасны гвалт і лячэбны камфорт. Булава ў адной руцэ, а святая кніга ў другой - даследаванне ў кантрастах, і тым больш эфектыўна!"
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_jester",
+        "eng_version": "Clad only in mildewed cloth, the Jester makes a mockery of battle. Only a fool would underestimate the vicious bloodletting power of his sharpened sickle, or the discordant throng of his lute.",
+        "ru_version": "Шут одет лишь в заплесневелые тряпки, и в бою его не воспринимают серьёзно. Однако не стоит недооценивать его острый серп или нестройное бренчание его лютни.",
+        "category_id": 3,
+        "bel_version": "Апрануты толькі ў зацвілую тканіну, Шут здзекуецца з бітвы. Толькі дурань мог бы недаацаніць злосную кровапускальную моц ягонага завостранага сярпа ці нязгодны натоўп ягонай лютні."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_leper",
+        "eng_version": "Heavy and restricting, the Leper's bronzed cuirass can absorb all manner of punishing blow. His massive sword is slow to swing, but delivers crushing damage to anyone caught in its unstoppable arc.",
+        "ru_version": "Тяжёлая плотная бронзовая кираса прокажённого защитит от любых ударов. На взмах его огромным мечом уходит много времени, но тем, кто попадёт под удар, точно не поздоровится.",
+        "category_id": 3,
+        "bel_version": "Цяжкая і абмежавальная, бронзавая кіраса Пракажонага можа паглынуць любыя жорсткія ўдары. Яго вялізны меч павольна размахваецца, але наносіць ашаламляльны ўрон кожнаму, хто апынуўся ў яго нястрымнай дузе."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_arbalest",
+        "eng_version": "The Arbalest takes her name from the massive crossbow she carries into battle. Able to decimate enemies at range with a dizzying array of ammunition, she wears medium plate for increased protection against the volleys she knows are coming...",
+        "ru_version": "Арбалетчицу прозвали так из-за массивного арбалета, с которым она ходит в бой. Разнообразные стрелы помогают ей расправляться с врагами издали, а от ответного огня её защищает средняя броня.",
+        "category_id": 3,
+        "bel_version": "Арбалет атрымаў сваю назву ад масіўнага арбалета, які яна нясе ў бой. Здольная знішчаць ворагаў на адлегласці галавакружным наборам боепрыпасаў, яна носіць сярэднія латы для большай абароны ад залпаў, якія, як яна ведае, ідуць..."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_man_at_arms",
+        "eng_version": "Clad in the heaviest plate, the Man-at-Arms is a mace-wielding wrecking ball! Quick to react and adapt, he is most effective leading the charge, protecting his companions with his unbreakable shield.",
+        "ru_version": "Закованный в тяжёлую броню воитель – будто пушечное ядро с дубиной! Он быстро реагирует и подстраивается, так что лучше всего ставить его во главе отряда, который воитель ещё и закроет своим нерушимым щитом.",
+        "category_id": 3,
+        "bel_version": "Апрануты ў самую цяжкую пліту, мужчына са зброяй - гэта разбуральны мяч з булавой! Ён хутка рэагуе і прыстасоўваецца, ён найбольш эфектыўна вядзе атаку, абараняючы сваіх таварышаў сваім непарушным шчытом."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_houndmaster",
+        "eng_version": "Still clad in his worn Gendarme's uniform, the Houndmaster's focus is on evasion over mitigation. His cudgel is an effecive stunning tool, but it is the Hound who delivers the pair's most crippling blows, especially when he's been fed an invigorating snack!",
+        "ru_version": "Всё ещё одетый в поношенную униформу жандарма, дрессировщик способен ловко уклоняться от ударов. Дубинкой он может легко оглушить, но самый большой урон наносит его гончая, особенно если ей дать бодрящее лакомство.",
+        "category_id": 3,
+        "bel_version": "Па-ранейшаму апрануты ў зношаную жандарскую форму, Houndmaster засяроджаны на ўхіленні, а не на змякчэнні наступстваў. Яго дубінка з'яўляецца эфектыўным ашаламляльным інструментам, але менавіта Ганчак наносіць найбольш жудасныя ўдары гэтай пары, асабліва калі яго накармілі падбадзёрлівай закускай!"
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_abomination",
+        "eng_version": "Protected by cursed chains and a thick, leathery hide, the Abomination can withstand the pressures of frontline combat as well as any plated footman. His terrible claws are each the size of daggers, and his progressive mutation manifests in unspeakable strength, speed, and a profusion of bile.",
+        "ru_version": "Благодаря зачарованным цепям и толстой коже выродок отлично подходит для передовой, как и любой воин в тяжёлой броне. Его когти размером с кинжалы, а непрестанные мутации придают ему сил, скорости и невероятной желчности.",
+        "category_id": 3,
+        "bel_version": "Абаронены праклятымі ланцугамі і тоўстай скурыстай скурай, Агіднасць можа супрацьстаяць націску франтавога бою гэтак жа добра, як любы латны лакей. Яго жудасныя кіпцюры памерам з кінжалы, а яго прагрэсіўная мутацыя выяўляецца ў невыказнай сіле, хуткасці і багацці жоўці."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_antiquarian",
+        "eng_version": "The Antiquarian wears no armor to speak of, instead relying on the power of the innumerable ancient charms and relics she has collected in her travels. Her eye for rarities is enhanced by the unsettling properties of her censer's vapours, which can offer some utility to the party in ...problematic encounters.",
+        "ru_version": "У Антиквара нет брони как таковой. Взамен она полагается на бесчисленные древние амулеты и реликвии, подобранные в предыдущих странствиях. Ее нюх на раритеты обострен подозрительными свойствами паров кадила, которые могут пригодиться и всей команде в... непростых ситуациях.",
+        "category_id": 3,
+        "bel_version": "Антыквар не носіць ніякіх даспехаў, абапіраючыся на моц незлічоных старажытных абярэгаў і рэліквій, якія яна сабрала ў сваіх падарожжах. Яе погляд на рарытэты ўзмацняецца трывожнымі ўласцівасцямі пароў яе кадзіла, якія могуць прынесці некаторую карысць групе ў ...праблемных сустрэчах."
+    },
+    {
+        "xml_id": "action_verbose_body_blacksmith_musketeer",
+        "eng_version": "Although outwardly inconspicuous, the Musketeer's regalia is reinforced with hardened leather underarmor, allowing her to sustain a considerable amount of focus fire. Her Musket's variable ammunition and trusty sidearm allow her to deal debilitating damage at range.",
+        "ru_version": "Неброское с виду облачение Мушкетера подбито дублёной кожей, уберегающей от многих яростных атак. Разнообразие боеприпасов ее мушкета и верный пистолет позволяют изматывать врагов на расстоянии.",
+        "category_id": 3,
+        "bel_version": "Нягледзячы на тое, што знешне непрыкметныя, рэгаліі мушкецёра ўмацаваны даспехамі з загартаванай скуры, што дазваляе ёй вытрымліваць значную колькасць факусіраванага агню. Зменныя боепрыпасы яе мушкета і надзейная бакавая зброя дазваляюць ёй наносіць знясільваючы ўрон на далёкасці."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_crusader",
+        "eng_version": "Righteousness and conviction inspire compelling speeches around the campfire! In the face of mounting stress, the Crusader is a leader, standing tall and refusing to break. His unshakable belief can assuage companions' fears, reassuring them that despite the hardships they will most certainly endure, all will be well in the end.",
+        "ru_version": "Праведность и убеждения вдохновляют на захватывающие речи у костра. Крестоносец – лидер, и он стойко выдерживает неуклонно растущий стресс. Его непоколебимая вера может успокоить товарищей и убедить их, что, несмотря на все трудности, которые наверняка ждут их впереди, всё закончится хорошо.",
+        "category_id": 3,
+        "bel_version": "Праведнасць і перакананасць натхняюць на пераканаўчыя прамовы каля вогнішча! Перад абліччам нарастаючага стрэсу, Crusader з'яўляецца лідэрам, які стаіць высока і адмаўляецца зламацца. Яго непахісная вера можа супакоіць страхі спадарожнікаў, запэўніўшы іх, што, нягледзячы на цяжкасці, якія яны напэўна вытрымаюць, у рэшце рэшт усё будзе добра."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_grave_robber",
+        "eng_version": "The Grave Robber is restless, and prefers to wander while the party camps, always on the lookout for trinkets and baubles. She may reluctantly confess to pilfering an item in the Hamlet prior to departure, or entertain those with a similarly morbid sense of humour with a biting and ironic wit.",
+        "ru_version": "Пока товарищи отдыхают, неугомонная могильная воровка любит побродить вокруг в поисках ценностей и безделушек. Перед тем, как покинуть город, она может с неохотой признать, что стащила там что-нибудь. Если же кто-то разделяет её чёрное чувство юмора, она может развлечь их ироническими колкостями.",
+        "category_id": 3,
+        "bel_version": "Рабаўнік магіл няўрымслівы і аддае перавагу блукаць па лагерах, заўсёды ў пошуках цацанак і цацанак. Яна можа неахвотна прызнацца ў крадзяжы прадмета ў Гамлеце перад ад'ездам або пацешыць тых, хто мае падобнае хваравітае пачуццё гумару, з'едлівым і іранічным розумам."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_hellion",
+        "eng_version": "At camp, the Hellion mutters blasphemies and sharpens her blade, eager to put it to use against the enemy hordes. Raucous and untamed, she is a study in contrasts - sitting stoically preparing for battle, or pealing with the unhinged laughter of the damned.",
+        "ru_version": "В лагере дикарка бормочет себе под нос непристойности и точит клинок, чтобы как можно скорее обратить его против вражеских полчищ. Шумная и дикая, она являет собой удивительный контраст: то прилежно готовится к бою, а то дико хохочет, словно безумная.",
+        "category_id": 3,
+        "bel_version": "У лагеры Геліён мармыча блюзнерства і точыць свой клінок, жадаючы выкарыстаць яго супраць варожых полчышчаў. Хрыплая і непрыручаная, яна ўяўляе сабой даследаванне кантрастаў: сядзіць стаічна, рыхтуючыся да бітвы, або рыкае бязвольным смехам праклятых."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_highwayman",
+        "eng_version": "The Highwayman relishes cynical preparedness and off-color jokes around the campfire. A life spent running and hiding has taught him the tenuous benefit of perimeter alarms, and late-night investigations into the encroaching shadows.",
+        "ru_version": "Циничный разбойник всегда готов ко всему, а у костра он отпускает непристойные шутки. Всю жизнь он бегал и прятался, и это научило его ценить преимущества расставленного сигнального периметра от незваных гостей; поздно ночью он уходит на разведку в обступившую лагерь черноту.",
+        "category_id": 3,
+        "bel_version": "Разбойнік любіць цынічную падрыхтаванасць і непрыстойныя жарты каля вогнішча. Жыццё, праведзенае ў бегах і хаваннях, навучыла яго мізэрнай карысці сігналізацыі па перыметры і начных расследаванняў надыходзячых ценяў."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_occultist",
+        "eng_version": "At rest, the Occultist will attempt communion with the dark and impossible forces of the void in an effort to strengthen himself and the party. Such efforts are frequently taxing, however, exacting a toll in darkness and stress.",
+        "ru_version": "На отдыхе оккультист попытается установить связь с тёмными силами пустоты, чтобы придать сил и себе, и товарищам. Часто такие попытки оканчиваются внезапной темнотой и стрессом.",
+        "category_id": 3,
+        "bel_version": "У стане спакою акультыст паспрабуе злучыцца з цёмнымі і немагчымымі сіламі пустэчы, каб умацаваць сябе і групу. Такія намаганні часта абцяжарваюць, аднак, спаганяючы плату ў цемры і стрэсе."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_plague_doctor",
+        "eng_version": "The Plague Doctor makes use of experimental remedies and risky healing practices to cure her companions' ailments, and restore their vigor. Eager to prove the effectiveness of her latest untested concotion, she will inject herself - blindly faithful in its beneficial results.",
+        "ru_version": "Чумной доктор делает экспериментальные лекарства и проводит опасные процедуры с целью вылечить товарищей и восстановить им силы. Чтобы доказать эффективность своего последнего зелья, она может выпить его сама, слепо веря в положительный результат.",
+        "category_id": 3,
+        "bel_version": "Чумны доктар выкарыстоўвае эксперыментальныя лекі і рызыкоўныя метады лячэння, каб вылечыць хваробы сваіх таварышаў і аднавіць іх сілы. Жадаючы даказаць эфектыўнасць сваёй апошняй неправеранай сумесі, яна зробіць сабе ін'екцыю - слепа верная яго карысным вынікам."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_vestal",
+        "eng_version": "Prayers, chants, and blessings bring peace and solace to the Vestal and her party. She can improve a companion's combat prowess, or instead focus on reducing the group's stress, and making the campsite a safe place for a good night's rest.",
+        "ru_version": "Молитвы, напевы и благословения приносят мир и покой в компанию весталки. Она может придать товарищу сил в бою, сосредоточиться на снятии стресса у всей команды или на обеспечении безопасного сна для всех этой ночью.",
+        "category_id": 3,
+        "bel_version": "Малітвы, спевы і дабраславеньні прыносяць мір і суцяшэнне весталцы і яе групе. Яна можа палепшыць баявое майстэрства кампаньёна або замест гэтага засяродзіцца на зніжэнні стрэсу ў групе і зрабіць кемпінг бяспечным месцам для добрага начнога адпачынку."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_leper",
+        "eng_version": "A loner and an outcast, the Leper will tend to shun the others in his group, preferring instead to mend his own dying body at the expense of the horror such an undertaking brings forth. In order to reduce his stress, the Leper can remove his mask, but such a thing is sure to unsettle his companions.",
+        "ru_version": "Прокажённый – одинокий изгой, и будет избегать товарищей. Обычно он латает своё умирающее тело и приходит в ужас от этакого занятия. Чтобы немного успокоиться, прокажённый может снять маску, но это точно не понравится остальным.",
+        "category_id": 3,
+        "bel_version": "Адзіночка і ізгой, пракажоны, як правіла, будзе цурацца іншых у сваёй групе, аддаючы перавагу замест таго, каб паправіць сваё паміраючае цела за кошт жаху, які спараджае такое мерапрыемства. Каб паменшыць стрэс, Пракажоны можа зняць маску, але гэта абавязкова выкліча з панталыку яго таварышаў."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_jester",
+        "eng_version": "The Jester shines in the flickering light of the campfire, bringing his lute and unerring wit to bear against the fears and stress his companions suffer. He can inspire greater combat prowess, or raise the group's spirits at the cost of singling out a target for his acrimonious scandalizing.",
+        "ru_version": "Шут блистает в свете костра. Его лютня и остроумие помогают товарищам забыть о страхах и расслабиться. Он вдохновляет на бой или поднимает боевой дух команде – правда, за счёт кого-нибудь одного, на которого шут станет изливать всю свою желчь.",
+        "category_id": 3,
+        "bel_version": "Шут ззяе ў мігатлівым святле вогнішча, ужываючы сваю лютню і беспамылковы розум, каб супрацьстаяць страхам і стрэсам, якія пакутуюць яго таварышы. Ён можа натхніць на большае баявое майстэрства або падняць настрой групы коштам вылучэння мішэні для свайго з'едлівага скандалу."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_arbalest",
+        "eng_version": "As on the battlefield, so too at camp. The Arbalest splits her time at rest, providing expert first aid care, and preparing for the next leg of the journey with optimized marching plans and a fresh, taut bowstring.",
+        "ru_version": "Какова в бою, такова и в лагере. Арбалетчица проводит мирное время, оказывая отличную первую помощь и приготовляясь к следующему путешествию: составляет план похода и натягивает свежую тетиву.",
+        "category_id": 3,
+        "bel_version": "Як на полі бою, так і ў лагеры. Арбалет падзяляе свой час на адпачынак, аказваючы экспертную першую дапамогу і рыхтуючыся да наступнага этапу падарожжа з дапамогай аптымізаваных планаў маршу і свежай, нацягнутай цецівы."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_man_at_arms",
+        "eng_version": "The Man-at-Arms seeks to either practice his strict training regimen himself, or teach it to his companions. Dexterity, damage and unerring accuracy await those fortified enough to endure his lessons.",
+        "ru_version": "Воитель желает либо потренироваться сам, либо потренировать товарищей. Те, кто выдержит его уроки, станут ловкими, меткими, и будут наносить врагу больше урона.",
+        "category_id": 3,
+        "bel_version": "Ваеннаслужачы імкнецца альбо сам практыкаваць свой строгі рэжым трэніровак, альбо навучыць гэтаму сваіх таварышаў. Спрыт, страты і беспамылковая дакладнасць чакаюць тых, хто дастаткова ўмацаваны, каб вытрымаць яго ўрокі."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_houndmaster",
+        "eng_version": "A clever lawman knows the value of preparedness and information. To this end, the Houndmaster can send his Wolfhound to scout ahead, or put him on watch to ensure a good night's rest. If spirits are low, the dog's affectionate companionship can soften the heart, and ease the mind.",
+        "ru_version": "Умный слуга закона знает, сколь важна подготовка и информация. Поэтому дрессировщик может послать свою гончую на разведку или велеть ей сторожить всю ночь, чтобы хозяин мог как следует выспаться. Если боевой дух низок, присутствие собаки может приободрить и смягчить сердце.",
+        "category_id": 3,
+        "bel_version": "Разумны законнік ведае цану гатоўнасці і інфармацыі. З гэтай мэтай Houndmaster можа адправіць свайго ваўкадава на разведку наперадзе або паставіць яго на вахту, каб забяспечыць добры начны адпачынак. Калі настрой паніжаны, ласкавае таварыства сабакі можа змякчыць сэрца і палегчыць розум."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_abomination",
+        "eng_version": "The Abomination spends his restful moments lost in the myriad symptoms of his condition. Pulse-pounding self-buffs provide opportunities for even greater effectiveness in the next melee, while concentrating on suppressing his terrible impulses can alleviate some of the party's apprehension.",
+        "ru_version": "В спокойное время выродок занят мириадом симптомов своей болезни. Его личные усиления разгоняют пульс и придают сил в рукопашном бою, а когда он пытается сдержать свои яростные порывы, то может облегчить работу остальным участникам команды.",
+        "category_id": 3,
+        "bel_version": "Агіднасць праводзіць хвіліны адпачынку, губляючыся ў мірыядах сімптомаў свайго стану. Пульсавыя самабафы даюць магчымасць для яшчэ большай эфектыўнасці ў наступным блізкім бою, у той час як засяроджванне на падаўленні яго жудасных імпульсаў можа палегчыць некаторыя асцярогі групы."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_antiquarian",
+        "eng_version": "A researcher never rests! The Antiquarian surveys the campsite, obtaining supply items and even trinkets that the party may have overlooked. Her peculiar utterances and strange powders have been known to put minds at ease, and strengthen corporeal hardiness.",
+        "ru_version": "Исследователю нет покоя! Антиквар осматривает лагерь в поисках провизии и даже артефактов, укрытых от глаз остальной команды. Ее странные бормотания и подозрительные порошки помогут успокоить рассудок и закалить тело.",
+        "category_id": 3,
+        "bel_version": "Даследчык ніколі не адпачывае! Антыкварый аглядае кемпінг, здабываючы прадметы прыпасаў і нават цацанкі, якія ўдзельнікі маглі не заўважыць. Вядома, што яе своеасаблівыя выказванні і дзіўныя парашкі супакойваюць розум і ўмацоўваюць цялесную цягавітасць."
+    },
+    {
+        "xml_id": "action_verbose_body_camping_trainer_musketeer",
+        "eng_version": "The Musketeer understands that her's is a delicate instrument, and must be properly maintained if it to be relied upon in the heat of battle! She is equally adept and providing first aid to her companions, if only to keep them between her and her targets.",
+        "ru_version": "Мушкетер понимает, насколько хрупко ее оружие, и что правильное обслуживание необходимо для надежной стрельбы в пылу сражения. Умела она и в оказании первой помощи соратникам - пусть и для того, чтобы прикрываться ими от врагов.",
+        "category_id": 3,
+        "bel_version": "Мушкецёр разумее, што гэта тонкая прылада, і яе трэба належным чынам даглядаць, каб на яе спадзявацца ў запале бітвы! Яна гэтак жа спрытная і аказвае першую дапамогу сваім спадарожнікам, хаця б толькі для таго, каб трымаць іх паміж сабой і яе мэтамі."
+    },
+    {
+        "xml_id": "building_verbose_abbey",
+        "eng_version": "Upgrading the Abbey increases the types of stress treatments and their effectiveness.",
+        "ru_version": "Чем лучше монастырь, тем больше в нём способов снять стресс, и тем они действеннее.",
+        "category_id": 3,
+        "bel_version": "Мадэрнізацыя абацтва павялічвае тыпы лячэння стрэсу і іх эфектыўнасць."
+    },
+    {
+        "xml_id": "building_verbose_blacksmith",
+        "eng_version": "Upgrading the Blacksmith allows for purchasing better weapons and armor, and at reduced costs.",
+        "ru_version": "Чем лучше кузница, тем лучше в ней броня и оружие, и тем ниже цены на них.",
+        "category_id": 3,
+        "bel_version": "Мадэрнізацыя Каваля дазваляе набываць лепшую зброю і даспехі па меншай цане."
+    },
+    {
+        "xml_id": "building_verbose_camping_trainer",
+        "eng_version": "Upgrading the Survivalist increases the available Camping skills and reduces their learning cost.",
+        "ru_version": "Чем лучше дом лесника, тем больше лагерных навыков можно в нём изучить, и тем дешевле изучение.",
+        "category_id": 3,
+        "bel_version": "Абнаўленне Survivalist павялічвае даступныя навыкі кэмпінгу і зніжае кошт навучання."
+    },
+    {
+        "xml_id": "building_verbose_graveyard",
+        "eng_version": "The Graveyard cannot be upgraded.",
+        "ru_version": "Кладбище улучшать нельзя.",
+        "category_id": 3,
+        "bel_version": "Могілкі нельга палепшыць."
+    },
+    {
+        "xml_id": "building_verbose_guild",
+        "eng_version": "Upgrading the Guild allows for training of advanced ranks in hero skills.",
+        "ru_version": "Чем лучше гильдия, тем выше можно развить навыки героев.",
+        "category_id": 3,
+        "bel_version": "Абнаўленне гільдыі дазваляе навучаць прасунутых рангаў навыкам герояў."
+    },
+    {
+        "xml_id": "building_verbose_nomad_wagon",
+        "eng_version": "Upgrading the Nomad Wagon improves the trinket purchase selection and reduces their cost.",
+        "ru_version": "Чем лучше кибитка цыган, тем больше в ней выбор украшений, и тем они дешевле.",
+        "category_id": 3,
+        "bel_version": "Абнаўленне Nomad Wagon паляпшае выбар цацанак і зніжае іх кошт."
+    },
+    {
+        "xml_id": "building_verbose_sanitarium",
+        "eng_version": "Upgrading the Sanitarium allows for more quirk treatment slots and reduces treatment cost.",
+        "ru_version": "Чем лучше лечебница, тем больше там можно изменить черт характера, и тем дешевле лечение.",
+        "category_id": 3,
+        "bel_version": "Мадэрнізацыя санаторыя дае больш месцаў для лячэння асаблівасцяў і зніжае кошт лячэння."
+    },
+    {
+        "xml_id": "building_verbose_stage_coach",
+        "eng_version": "Upgrading the Stagecoach increases the available heroes for hire each week or increases your roster size.",
+        "ru_version": "Улучшение дилижанса расширяет выбор героев на неделю или добавляет мест в вашу команду.",
+        "category_id": 3,
+        "bel_version": "Абнаўленне Stagecoach павялічвае колькасць даступных герояў для найму кожны тыдзень або павялічвае памер вашага спісу."
+    },
+    {
+        "xml_id": "building_verbose_tavern",
+        "eng_version": "Upgrading the Tavern increases the types of stress treatments and their effectiveness.",
+        "ru_version": "Чем лучше трактир, тем больше в нём способов снять стресс, и тем они действеннее.",
+        "category_id": 3,
+        "bel_version": "Мадэрнізацыя карчмы павялічвае тыпы лячэння стрэсу і іх эфектыўнасць."
+    },
+    {
+        "xml_id": "str_bark_clean_musket",
+        "eng_version": "Honed and polished, you'll fire true now, my love.",
+        "ru_version": "Лоснясь от смазки, рази врага без промаха, моя любовь.",
+        "category_id": 3,
+        "bel_version": "Адточаны і адшліфаваны, цяпер ты будзеш страляць, любоў мая."
+    }
+]

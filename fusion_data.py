@@ -2,7 +2,7 @@ import json
 import pandas as pd
 import numpy as np
 
-name = "heroes.string_table"
+name = "dialogue.string_table"
 
 df = pd.read_excel(f"xlsx_files/{name}.xlsx")
 

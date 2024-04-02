@@ -1,0 +1,2879 @@
+[
+    {
+        "xml_id": "party_name_default",
+        "eng_version": "Build a Party From the Roster",
+        "ru_version": "Соберите группу, выбирая героев из списка",
+        "category_id": 6,
+        "bel_version": "Стварыце групу з спісу"
+    },
+    {
+        "xml_id": "party_name_0",
+        "eng_version": "The Usual Suspects",
+        "ru_version": "Подозрительные типы",
+        "category_id": 6,
+        "bel_version": "Звычайныя падазраваныя"
+    },
+    {
+        "xml_id": "party_name_1",
+        "eng_version": "The Privateers",
+        "ru_version": "Геройский патруль",
+        "category_id": 6,
+        "bel_version": "Прыватнікі"
+    },
+    {
+        "xml_id": "party_name_2",
+        "eng_version": "Blood Money",
+        "ru_version": "Кровавые деньги",
+        "category_id": 6,
+        "bel_version": "Кроўныя грошы"
+    },
+    {
+        "xml_id": "party_name_3",
+        "eng_version": "Make it Bleed",
+        "ru_version": "Кровопускание",
+        "category_id": 6,
+        "bel_version": "Зрабіце гэта крывацёкам"
+    },
+    {
+        "xml_id": "party_name_4",
+        "eng_version": "The Femme Fatales",
+        "ru_version": "Роковые женщины",
+        "category_id": 6,
+        "bel_version": "Смяротныя жанчыны"
+    },
+    {
+        "xml_id": "party_name_5",
+        "eng_version": "World of Tanks",
+        "ru_version": "Мир танков",
+        "category_id": 6,
+        "bel_version": "Свет танкаў"
+    },
+    {
+        "xml_id": "party_name_6",
+        "eng_version": "Undying Light",
+        "ru_version": "Немеркнущий Свет",
+        "category_id": 6,
+        "bel_version": "Бясконцае святло"
+    },
+    {
+        "xml_id": "party_name_7",
+        "eng_version": "The Black Plague",
+        "ru_version": "Черная чума",
+        "category_id": 6,
+        "bel_version": "Чорная чума"
+    },
+    {
+        "xml_id": "party_name_8",
+        "eng_version": "The Last Crusade",
+        "ru_version": "Последний крестовый поход",
+        "category_id": 6,
+        "bel_version": "Апошні крыжовы паход"
+    },
+    {
+        "xml_id": "party_name_9",
+        "eng_version": "Stunrise Stunset",
+        "ru_version": "Оглушительный успех",
+        "category_id": 6,
+        "bel_version": "Stunrise Stunset"
+    },
+    {
+        "xml_id": "party_name_10",
+        "eng_version": "Tip of the Spear",
+        "ru_version": "Острие копья",
+        "category_id": 6,
+        "bel_version": "Наканечнік дзіды"
+    },
+    {
+        "xml_id": "party_name_11",
+        "eng_version": "Of Blight And Blood",
+        "ru_version": "Отравленная кровь",
+        "category_id": 6,
+        "bel_version": "Згубы і крыві"
+    },
+    {
+        "xml_id": "party_name_12",
+        "eng_version": "Leper Colony",
+        "ru_version": "Колония прокаженных",
+        "category_id": 6,
+        "bel_version": "Калонія пракажоных"
+    },
+    {
+        "xml_id": "party_name_13",
+        "eng_version": "Critical Condition",
+        "ru_version": "Тяжелое состояние",
+        "category_id": 6,
+        "bel_version": "Крытычны стан"
+    },
+    {
+        "xml_id": "party_name_14",
+        "eng_version": "Deathwatch",
+        "ru_version": "Смерти вопреки",
+        "category_id": 6,
+        "bel_version": "Дазор смерці"
+    },
+    {
+        "xml_id": "party_name_15",
+        "eng_version": "Vagabonds",
+        "ru_version": "Скитальцы",
+        "category_id": 6,
+        "bel_version": "Валацугі"
+    },
+    {
+        "xml_id": "party_name_16",
+        "eng_version": "Trouble",
+        "ru_version": "Баламуты",
+        "category_id": 6,
+        "bel_version": "Бяда"
+    },
+    {
+        "xml_id": "party_name_17",
+        "eng_version": "Crusaders on March",
+        "ru_version": "Крестоносцы на марше",
+        "category_id": 6,
+        "bel_version": "Крыжакі ў сакавіку"
+    },
+    {
+        "xml_id": "party_name_18",
+        "eng_version": "Blinding Light",
+        "ru_version": "Слепящий Свет",
+        "category_id": 6,
+        "bel_version": "Асляпляльнае святло"
+    },
+    {
+        "xml_id": "party_name_19",
+        "eng_version": "Axe Brigade",
+        "ru_version": "Банда с топорами",
+        "category_id": 6,
+        "bel_version": "Сякерная брыгада"
+    },
+    {
+        "xml_id": "party_name_20",
+        "eng_version": "The Inverted Bunch",
+        "ru_version": "Странное сборище",
+        "category_id": 6,
+        "bel_version": "Перавернутая кучка"
+    },
+    {
+        "xml_id": "party_name_21",
+        "eng_version": "The Bait and Switch",
+        "ru_version": "Крючок и приманка",
+        "category_id": 6,
+        "bel_version": "Прынада і пераключэнне"
+    },
+    {
+        "xml_id": "party_name_22",
+        "eng_version": "The Vagrants",
+        "ru_version": "Бродяги",
+        "category_id": 6,
+        "bel_version": "Бадзягі"
+    },
+    {
+        "xml_id": "party_name_23",
+        "eng_version": "Tomb Raiders",
+        "ru_version": "Грабители гробниц",
+        "category_id": 6,
+        "bel_version": "Раскрадальніцы магіл"
+    },
+    {
+        "xml_id": "party_name_24",
+        "eng_version": "The Wolf Pack",
+        "ru_version": "Волчья стая",
+        "category_id": 6,
+        "bel_version": "Воўчая зграя"
+    },
+    {
+        "xml_id": "party_name_25",
+        "eng_version": "Highway Robbery",
+        "ru_version": "Работники ножа и топора",
+        "category_id": 6,
+        "bel_version": "Рабаванне на шашы"
+    },
+    {
+        "xml_id": "party_name_26",
+        "eng_version": "Smokey and Bandit",
+        "ru_version": "Полицейский и бандит",
+        "category_id": 6,
+        "bel_version": "Смокі і бандыт"
+    },
+    {
+        "xml_id": "party_name_27",
+        "eng_version": "Judge and Execution",
+        "ru_version": "Судья и палач",
+        "category_id": 6,
+        "bel_version": "Суддзя і расстрэл"
+    },
+    {
+        "xml_id": "party_name_28",
+        "eng_version": "The Mercenaries",
+        "ru_version": "Солдаты удачи",
+        "category_id": 6,
+        "bel_version": "Найміты"
+    },
+    {
+        "xml_id": "party_name_29",
+        "eng_version": "The Exorcists",
+        "ru_version": "Изгоняющие дьявола",
+        "category_id": 6,
+        "bel_version": "Экзарцысты"
+    },
+    {
+        "xml_id": "party_name_30",
+        "eng_version": "The Cleanup Crew",
+        "ru_version": "Чистильщики",
+        "category_id": 6,
+        "bel_version": "Ачышчальная каманда"
+    },
+    {
+        "xml_id": "party_name_31",
+        "eng_version": "Hell's Belles",
+        "ru_version": "Адские колокола",
+        "category_id": 6,
+        "bel_version": "Пякельная красуня"
+    },
+    {
+        "xml_id": "party_name_32",
+        "eng_version": "Cutthroats",
+        "ru_version": "Головорезы",
+        "category_id": 6,
+        "bel_version": "Галаварэзы"
+    },
+    {
+        "xml_id": "party_name_33",
+        "eng_version": "The Quick and the Dead",
+        "ru_version": "Быстрые и мертвые",
+        "category_id": 6,
+        "bel_version": "Хуткі і мёртвы"
+    },
+    {
+        "xml_id": "party_name_34",
+        "eng_version": "The Lawless",
+        "ru_version": "Вне закона",
+        "category_id": 6,
+        "bel_version": "Беззаконны"
+    },
+    {
+        "xml_id": "party_name_35",
+        "eng_version": "Chain Gang",
+        "ru_version": "Каторжники",
+        "category_id": 6,
+        "bel_version": "Ланцуговая банда"
+    },
+    {
+        "xml_id": "party_name_36",
+        "eng_version": "The Stance Dance",
+        "ru_version": "Пафосные позеры",
+        "category_id": 6,
+        "bel_version": "Танец стойкі"
+    },
+    {
+        "xml_id": "party_name_37",
+        "eng_version": "Bountiful Ballad",
+        "ru_version": "Геройская баллада",
+        "category_id": 6,
+        "bel_version": "Шчодрая балада"
+    },
+    {
+        "xml_id": "party_name_38",
+        "eng_version": "Bloody Party",
+        "ru_version": "Кровавые маньяки",
+        "category_id": 6,
+        "bel_version": "Крывавая вечарына"
+    },
+    {
+        "xml_id": "party_name_39",
+        "eng_version": "Motley Misfits",
+        "ru_version": "Разношерстная компания",
+        "category_id": 6,
+        "bel_version": "Стракатыя непаладкі"
+    },
+    {
+        "xml_id": "party_name_40",
+        "eng_version": "A Merry Band of Misfits",
+        "ru_version": "Веселые висельники",
+        "category_id": 6,
+        "bel_version": "Вясёлая група непаладак"
+    },
+    {
+        "xml_id": "party_name_41",
+        "eng_version": "The Guilty",
+        "ru_version": "Рецидивисты",
+        "category_id": 6,
+        "bel_version": "Вінаваты"
+    },
+    {
+        "xml_id": "party_name_42",
+        "eng_version": "Criminal Minds",
+        "ru_version": "Злоумышленники",
+        "category_id": 6,
+        "bel_version": "Злачынныя розумы"
+    },
+    {
+        "xml_id": "party_name_43",
+        "eng_version": "Stout Hearts",
+        "ru_version": "Каменные сердца",
+        "category_id": 6,
+        "bel_version": "Моцныя сэрцы"
+    },
+    {
+        "xml_id": "party_name_44",
+        "eng_version": "Gang of Thieves",
+        "ru_version": "Воровская шайка",
+        "category_id": 6,
+        "bel_version": "Банда злодзеяў"
+    },
+    {
+        "xml_id": "party_name_45",
+        "eng_version": "Misfits",
+        "ru_version": "Изгои",
+        "category_id": 6,
+        "bel_version": "Недарэчныя"
+    },
+    {
+        "xml_id": "party_name_46",
+        "eng_version": "Jokes And Folks",
+        "ru_version": "Шутки и пляски",
+        "category_id": 6,
+        "bel_version": "Жарты і людзі"
+    },
+    {
+        "xml_id": "party_name_47",
+        "eng_version": "Fools Rush In",
+        "ru_version": "Отряд олухов",
+        "category_id": 6,
+        "bel_version": "Дурні кідаюцца"
+    },
+    {
+        "xml_id": "party_name_48",
+        "eng_version": "The Covenant",
+        "ru_version": "Пакт о нападении",
+        "category_id": 6,
+        "bel_version": "Запавет"
+    },
+    {
+        "xml_id": "party_name_49",
+        "eng_version": "Heathens",
+        "ru_version": "Язычники",
+        "category_id": 6,
+        "bel_version": "Язычнікі"
+    },
+    {
+        "xml_id": "party_name_50",
+        "eng_version": "Circus Freaks",
+        "ru_version": "Цирковые уродцы",
+        "category_id": 6,
+        "bel_version": "Цыркавыя фрыкі"
+    },
+    {
+        "xml_id": "party_name_51",
+        "eng_version": "Masquerade Ball",
+        "ru_version": "Бал-маскарад",
+        "category_id": 6,
+        "bel_version": "Баль-маскарад"
+    },
+    {
+        "xml_id": "party_name_52",
+        "eng_version": "Tainted Devotion",
+        "ru_version": "Осквернители веры",
+        "category_id": 6,
+        "bel_version": "Заплямленая адданасць"
+    },
+    {
+        "xml_id": "party_name_53",
+        "eng_version": "The Mercs",
+        "ru_version": "Наемники",
+        "category_id": 6,
+        "bel_version": "Мерс"
+    },
+    {
+        "xml_id": "party_name_54",
+        "eng_version": "The Motley",
+        "ru_version": "Что попало",
+        "category_id": 6,
+        "bel_version": "Стракаты"
+    },
+    {
+        "xml_id": "party_name_55",
+        "eng_version": "All for One",
+        "ru_version": "Все за одного",
+        "category_id": 6,
+        "bel_version": "Усе за аднаго"
+    },
+    {
+        "xml_id": "party_name_56",
+        "eng_version": "Rot Squad",
+        "ru_version": "Порченые",
+        "category_id": 6,
+        "bel_version": "Атрад гнілі"
+    },
+    {
+        "xml_id": "party_name_57",
+        "eng_version": "The Wild Hunt",
+        "ru_version": "Дикая охота",
+        "category_id": 6,
+        "bel_version": "Дзікае паляванне"
+    },
+    {
+        "xml_id": "party_name_58",
+        "eng_version": "The Blockade",
+        "ru_version": "Мастера блока",
+        "category_id": 6,
+        "bel_version": "Блакада"
+    },
+    {
+        "xml_id": "party_name_59",
+        "eng_version": "Crit Happens",
+        "ru_version": "Удар наповал",
+        "category_id": 6,
+        "bel_version": "Крыт Бывае"
+    },
+    {
+        "xml_id": "party_name_60",
+        "eng_version": "The Killers",
+        "ru_version": "Убийцы",
+        "category_id": 6,
+        "bel_version": "Забойцы"
+    },
+    {
+        "xml_id": "party_name_61",
+        "eng_version": "Kingdom Undone",
+        "ru_version": "Дорога в ад",
+        "category_id": 6,
+        "bel_version": "Каралеўства Undone"
+    },
+    {
+        "xml_id": "party_name_62",
+        "eng_version": "Pit and Pendulum",
+        "ru_version": "Колодец и маятник",
+        "category_id": 6,
+        "bel_version": "Яма і ківач"
+    },
+    {
+        "xml_id": "party_name_63",
+        "eng_version": "Dark Soul's Night",
+        "ru_version": "Ночь темных душ",
+        "category_id": 6,
+        "bel_version": "Ноч цёмнай душы"
+    },
+    {
+        "xml_id": "party_name_64",
+        "eng_version": "The Outcasts",
+        "ru_version": "Изгнанники",
+        "category_id": 6,
+        "bel_version": "Ізгоі"
+    },
+    {
+        "xml_id": "party_name_65",
+        "eng_version": "Criminal Intent",
+        "ru_version": "Преступное намерение",
+        "category_id": 6,
+        "bel_version": "Злачынныя намеры"
+    },
+    {
+        "xml_id": "party_name_66",
+        "eng_version": "Nothing Sacred",
+        "ru_version": "Ничего святого",
+        "category_id": 6,
+        "bel_version": "Нічога святога"
+    },
+    {
+        "xml_id": "party_name_67",
+        "eng_version": "Dysfunctional Family",
+        "ru_version": "Ненормальная семья",
+        "category_id": 6,
+        "bel_version": "Дысфункцыянальная сям'я"
+    },
+    {
+        "xml_id": "party_name_68",
+        "eng_version": "The Fallen",
+        "ru_version": "Падшие",
+        "category_id": 6,
+        "bel_version": "Палеглыя"
+    },
+    {
+        "xml_id": "party_name_69",
+        "eng_version": "Darkness Within",
+        "ru_version": "Темные души",
+        "category_id": 6,
+        "bel_version": "Цемра ўнутры"
+    },
+    {
+        "xml_id": "party_name_70",
+        "eng_version": "Bruiser Brigade",
+        "ru_version": "Бригада бойцов",
+        "category_id": 6,
+        "bel_version": "Брыгада Брэйзера"
+    },
+    {
+        "xml_id": "party_name_71",
+        "eng_version": "Cleaving Time",
+        "ru_version": "Топорная работа",
+        "category_id": 6,
+        "bel_version": "Час расколу"
+    },
+    {
+        "xml_id": "party_name_72",
+        "eng_version": "Merry Men",
+        "ru_version": "Веселые ребята",
+        "category_id": 6,
+        "bel_version": "Вясёлыя мужчыны"
+    },
+    {
+        "xml_id": "party_name_73",
+        "eng_version": "Brothers in Arms",
+        "ru_version": "Товарищи по оружию",
+        "category_id": 6,
+        "bel_version": "Браты па зброі"
+    },
+    {
+        "xml_id": "party_name_74",
+        "eng_version": "The Mad Gamble",
+        "ru_version": "Игра в кости",
+        "category_id": 6,
+        "bel_version": "Вар'яцкая азартная гульня"
+    },
+    {
+        "xml_id": "party_name_75",
+        "eng_version": "Who's Laughing Now?",
+        "ru_version": "Смеющиеся последними",
+        "category_id": 6,
+        "bel_version": "Хто цяпер смяецца?"
+    },
+    {
+        "xml_id": "party_name_76",
+        "eng_version": "Cast Out",
+        "ru_version": "Отверженные",
+        "category_id": 6,
+        "bel_version": "Выгнаць"
+    },
+    {
+        "xml_id": "party_name_77",
+        "eng_version": "The Oddballs",
+        "ru_version": "Странные люди",
+        "category_id": 6,
+        "bel_version": "Дзівакі"
+    },
+    {
+        "xml_id": "party_name_78",
+        "eng_version": "Nightshift",
+        "ru_version": "Ночная смена",
+        "category_id": 6,
+        "bel_version": "Начная змена"
+    },
+    {
+        "xml_id": "party_name_79",
+        "eng_version": "Eldritch Slayers",
+        "ru_version": "Убийцы мистики",
+        "category_id": 6,
+        "bel_version": "Eldritch Slayers"
+    },
+    {
+        "xml_id": "party_name_80",
+        "eng_version": "R'yleh R'yleh Ole!",
+        "ru_version": "Ктулху фхтагн!",
+        "category_id": 6,
+        "bel_version": "R'yleh R'yleh Оле!"
+    },
+    {
+        "xml_id": "party_name_81",
+        "eng_version": "Forefront",
+        "ru_version": "Ударная группа",
+        "category_id": 6,
+        "bel_version": "Авангард"
+    },
+    {
+        "xml_id": "party_name_82",
+        "eng_version": "Status Mayhem",
+        "ru_version": "Нанесение увечий",
+        "category_id": 6,
+        "bel_version": "Статусны пагром"
+    },
+    {
+        "xml_id": "party_name_83",
+        "eng_version": "Geysers of Blood",
+        "ru_version": "Фонтаны крови",
+        "category_id": 6,
+        "bel_version": "Гейзеры крыві"
+    },
+    {
+        "xml_id": "party_name_84",
+        "eng_version": "Plague Bearers",
+        "ru_version": "Носители заразы",
+        "category_id": 6,
+        "bel_version": "Носьбіты чумы"
+    },
+    {
+        "xml_id": "party_name_85",
+        "eng_version": "The Pagan Warriors",
+        "ru_version": "Воины-язычники",
+        "category_id": 6,
+        "bel_version": "Паганскія воіны"
+    },
+    {
+        "xml_id": "party_name_86",
+        "eng_version": "Uncultured Filth",
+        "ru_version": "Грязная чернь",
+        "category_id": 6,
+        "bel_version": "Некультурная бруд"
+    },
+    {
+        "xml_id": "party_name_87",
+        "eng_version": "The Godless",
+        "ru_version": "Безбожники",
+        "category_id": 6,
+        "bel_version": "Бязбожнік"
+    },
+    {
+        "xml_id": "party_name_88",
+        "eng_version": "Mixed Bag",
+        "ru_version": "Гремучая смесь",
+        "category_id": 6,
+        "bel_version": "Змешаны мяшок"
+    },
+    {
+        "xml_id": "party_name_89",
+        "eng_version": "Merciless",
+        "ru_version": "Беспощадные",
+        "category_id": 6,
+        "bel_version": "Бязлітасны"
+    },
+    {
+        "xml_id": "party_name_90",
+        "eng_version": "The Forsaken",
+        "ru_version": "Покинутые",
+        "category_id": 6,
+        "bel_version": "Пакінутыя"
+    },
+    {
+        "xml_id": "party_name_91",
+        "eng_version": "Devil's Playthings",
+        "ru_version": "Пешки дьявола",
+        "category_id": 6,
+        "bel_version": "Д'ябальскія цацкі"
+    },
+    {
+        "xml_id": "party_name_92",
+        "eng_version": "Traveling Circus",
+        "ru_version": "Бродячий цирк",
+        "category_id": 6,
+        "bel_version": "Вандроўны цырк"
+    },
+    {
+        "xml_id": "party_name_93",
+        "eng_version": "The Dark Brigade",
+        "ru_version": "Темная бригада",
+        "category_id": 6,
+        "bel_version": "Цёмная брыгада"
+    },
+    {
+        "xml_id": "party_name_94",
+        "eng_version": "Accursed Ones",
+        "ru_version": "Непрощенные",
+        "category_id": 6,
+        "bel_version": "Праклятыя"
+    },
+    {
+        "xml_id": "party_name_95",
+        "eng_version": "The Cleaning Crew",
+        "ru_version": "Бригада зачистки",
+        "category_id": 6,
+        "bel_version": "Ачышчальная брыгада"
+    },
+    {
+        "xml_id": "party_name_96",
+        "eng_version": "Inferno Paradise",
+        "ru_version": "Адский рай",
+        "category_id": 6,
+        "bel_version": "Пякельны рай"
+    },
+    {
+        "xml_id": "party_name_97",
+        "eng_version": "Tank N' Spank",
+        "ru_version": "Грозная броня",
+        "category_id": 6,
+        "bel_version": "Tank N' Spank"
+    },
+    {
+        "xml_id": "party_name_98",
+        "eng_version": "Hell's Angels",
+        "ru_version": "Ангелы ада",
+        "category_id": 6,
+        "bel_version": "Анёлы пекла"
+    },
+    {
+        "xml_id": "party_name_99",
+        "eng_version": "Insurmountable Four",
+        "ru_version": "Великолепная четверка",
+        "category_id": 6,
+        "bel_version": "Непераадольная чацвёрка"
+    },
+    {
+        "xml_id": "party_name_100",
+        "eng_version": "Holy Quaternity",
+        "ru_version": "Четверо смелых",
+        "category_id": 6,
+        "bel_version": "Святая чацвярніца"
+    },
+    {
+        "xml_id": "party_name_101",
+        "eng_version": "Unhallowed Hand",
+        "ru_version": "Нечестивая десница",
+        "category_id": 6,
+        "bel_version": "Несвятая рука"
+    },
+    {
+        "xml_id": "party_name_102",
+        "eng_version": "The Veterans",
+        "ru_version": "Ветераны",
+        "category_id": 6,
+        "bel_version": "Ветэраны"
+    },
+    {
+        "xml_id": "party_name_103",
+        "eng_version": "Scavengers",
+        "ru_version": "Стервятники",
+        "category_id": 6,
+        "bel_version": "Смецяры"
+    },
+    {
+        "xml_id": "party_name_104",
+        "eng_version": "The Damned Company",
+        "ru_version": "Проклятая рота",
+        "category_id": 6,
+        "bel_version": "Праклятая кампанія"
+    },
+    {
+        "xml_id": "party_name_105",
+        "eng_version": "Shock and Awe",
+        "ru_version": "Шок и трепет",
+        "category_id": 6,
+        "bel_version": "Шок і трапятанне"
+    },
+    {
+        "xml_id": "party_name_106",
+        "eng_version": "The Dancing Sisters",
+        "ru_version": "Сестрицы-танцовщицы",
+        "category_id": 6,
+        "bel_version": "Танцуючыя сёстры"
+    },
+    {
+        "xml_id": "party_name_107",
+        "eng_version": "The Shunned",
+        "ru_version": "Стреляные воробьи",
+        "category_id": 6,
+        "bel_version": "Пазбягалі"
+    },
+    {
+        "xml_id": "party_name_108",
+        "eng_version": "Death Dealers",
+        "ru_version": "Торговцы смертью",
+        "category_id": 6,
+        "bel_version": "Гандляры смерцю"
+    },
+    {
+        "xml_id": "party_name_109",
+        "eng_version": "Danse Macabre",
+        "ru_version": "Танец смерти",
+        "category_id": 6,
+        "bel_version": "Жудасны танец"
+    },
+    {
+        "xml_id": "party_name_110",
+        "eng_version": "The Breakers",
+        "ru_version": "Костоломы",
+        "category_id": 6,
+        "bel_version": "Брэйкеры"
+    },
+    {
+        "xml_id": "party_name_111",
+        "eng_version": "Valkyries",
+        "ru_version": "Валькирии",
+        "category_id": 6,
+        "bel_version": "Валькірыі"
+    },
+    {
+        "xml_id": "party_name_112",
+        "eng_version": "Dangerous Lonesome",
+        "ru_version": "Опасное одиночество",
+        "category_id": 6,
+        "bel_version": "Небяспечны адзінокі"
+    },
+    {
+        "xml_id": "party_name_113",
+        "eng_version": "Tricky Glory",
+        "ru_version": "Славные ублюдки",
+        "category_id": 6,
+        "bel_version": "Хітрая слава"
+    },
+    {
+        "xml_id": "party_name_114",
+        "eng_version": "The Faces of Stress",
+        "ru_version": "Лицо стресса",
+        "category_id": 6,
+        "bel_version": "Асобы стрэсу"
+    },
+    {
+        "xml_id": "party_name_115",
+        "eng_version": "Shrouded Ones",
+        "ru_version": "Белые саваны",
+        "category_id": 6,
+        "bel_version": "Агорнутыя"
+    },
+    {
+        "xml_id": "party_name_116",
+        "eng_version": "Commedia dell'arte",
+        "ru_version": "Итальянская комедия",
+        "category_id": 6,
+        "bel_version": "Камедыя дэль артэ"
+    },
+    {
+        "xml_id": "party_name_117",
+        "eng_version": "Medieval Spirits",
+        "ru_version": "Духи Средневековья",
+        "category_id": 6,
+        "bel_version": "Сярэднявечныя духі"
+    },
+    {
+        "xml_id": "party_name_118",
+        "eng_version": "Black Death",
+        "ru_version": "Черная смерть",
+        "category_id": 6,
+        "bel_version": "Чорная смерць"
+    },
+    {
+        "xml_id": "party_name_119",
+        "eng_version": "Pragmatic",
+        "ru_version": "Прагматики",
+        "category_id": 6,
+        "bel_version": "Прагматычны"
+    },
+    {
+        "xml_id": "party_name_120",
+        "eng_version": "Blight's Out",
+        "ru_version": "Общество отравителей",
+        "category_id": 6,
+        "bel_version": "Блайт пайшоў"
+    },
+    {
+        "xml_id": "party_name_121",
+        "eng_version": "Outsiders",
+        "ru_version": "Чужаки",
+        "category_id": 6,
+        "bel_version": "Аўтсайдэры"
+    },
+    {
+        "xml_id": "party_name_122",
+        "eng_version": "Bloody Stunners",
+        "ru_version": "Кровожадные красавцы",
+        "category_id": 6,
+        "bel_version": "Крывавыя ашаламляльнікі"
+    },
+    {
+        "xml_id": "party_name_123",
+        "eng_version": "Blood and Blight",
+        "ru_version": "Кровь и яд",
+        "category_id": 6,
+        "bel_version": "Кроў і пагібель"
+    },
+    {
+        "xml_id": "party_name_124",
+        "eng_version": "Walking Death",
+        "ru_version": "Ходячая смерть",
+        "category_id": 6,
+        "bel_version": "Хадзячая смерць"
+    },
+    {
+        "xml_id": "party_name_125",
+        "eng_version": "The Scorned",
+        "ru_version": "Презренные парии",
+        "category_id": 6,
+        "bel_version": "Пагарджаныя"
+    },
+    {
+        "xml_id": "party_name_126",
+        "eng_version": "Doctor and Patient",
+        "ru_version": "Врач и пациент",
+        "category_id": 6,
+        "bel_version": "Лекар і пацыент"
+    },
+    {
+        "xml_id": "party_name_127",
+        "eng_version": "The Plague Robbers",
+        "ru_version": "Чумные мародеры",
+        "category_id": 6,
+        "bel_version": "Чумныя разбойнікі"
+    },
+    {
+        "xml_id": "party_name_128",
+        "eng_version": "Plague Party",
+        "ru_version": "Пир во время чумы",
+        "category_id": 6,
+        "bel_version": "Партыя чумы"
+    },
+    {
+        "xml_id": "party_name_129",
+        "eng_version": "Plague Cart",
+        "ru_version": "Чумная повозка",
+        "category_id": 6,
+        "bel_version": "Чумны воз"
+    },
+    {
+        "xml_id": "party_name_130",
+        "eng_version": "The Stalwart",
+        "ru_version": "Непоколебимые",
+        "category_id": 6,
+        "bel_version": "Столварт"
+    },
+    {
+        "xml_id": "party_name_131",
+        "eng_version": "Eldritch Angels",
+        "ru_version": "Мистические ангелы",
+        "category_id": 6,
+        "bel_version": "Eldritch Angels"
+    },
+    {
+        "xml_id": "party_name_132",
+        "eng_version": "Red Hook",
+        "ru_version": "Red Hook",
+        "category_id": 6,
+        "bel_version": "Чырвоны Крук"
+    },
+    {
+        "xml_id": "party_name_133",
+        "eng_version": "Circle of Light",
+        "ru_version": "Круг Света",
+        "category_id": 6,
+        "bel_version": "Круг святла"
+    },
+    {
+        "xml_id": "party_name_134",
+        "eng_version": "Hook Line and YAWP!",
+        "ru_version": "Крючок и наживка",
+        "category_id": 6,
+        "bel_version": "Hook Line і YAWP!"
+    },
+    {
+        "xml_id": "party_name_135",
+        "eng_version": "Dented Steel",
+        "ru_version": "Зазубренная сталь",
+        "category_id": 6,
+        "bel_version": "Паглыбленая сталь"
+    },
+    {
+        "xml_id": "party_name_136",
+        "eng_version": "The Vanguard",
+        "ru_version": "Передовой отряд",
+        "category_id": 6,
+        "bel_version": "Авангард"
+    },
+    {
+        "xml_id": "party_name_137",
+        "eng_version": "Hunting Party",
+        "ru_version": "Охота пуще неволи",
+        "category_id": 6,
+        "bel_version": "Паляўнічая партыя"
+    },
+    {
+        "xml_id": "party_name_138",
+        "eng_version": "The Fierce",
+        "ru_version": "Свирепые",
+        "category_id": 6,
+        "bel_version": "Люты"
+    },
+    {
+        "xml_id": "party_name_139",
+        "eng_version": "Holier Than Thou",
+        "ru_version": "Получше тебя",
+        "category_id": 6,
+        "bel_version": "Святейшы за цябе"
+    },
+    {
+        "xml_id": "party_name_140",
+        "eng_version": "Glorious Gold",
+        "ru_version": "Зов золота",
+        "category_id": 6,
+        "bel_version": "Слаўнае золата"
+    },
+    {
+        "xml_id": "party_name_141",
+        "eng_version": "Scalion's Hunters",
+        "ru_version": "Охотники за скальпами",
+        "category_id": 6,
+        "bel_version": "Паляўнічыя Скаліёна"
+    },
+    {
+        "xml_id": "party_name_142",
+        "eng_version": "Vengeance Dire",
+        "ru_version": "Страшная месть",
+        "category_id": 6,
+        "bel_version": "Страшная помста"
+    },
+    {
+        "xml_id": "party_name_143",
+        "eng_version": "Stun Smash Parade",
+        "ru_version": "Убойный парад",
+        "category_id": 6,
+        "bel_version": "Stun Smash Parade"
+    },
+    {
+        "xml_id": "party_name_144",
+        "eng_version": "The Forgotten Ones",
+        "ru_version": "Забытые герои",
+        "category_id": 6,
+        "bel_version": "Забытыя"
+    },
+    {
+        "xml_id": "party_name_145",
+        "eng_version": "Jack of All Trades",
+        "ru_version": "Мастера на все руки",
+        "category_id": 6,
+        "bel_version": "Майстар на ўсе рукі"
+    },
+    {
+        "xml_id": "party_name_146",
+        "eng_version": "The Bloodletters",
+        "ru_version": "Кровопускатели",
+        "category_id": 6,
+        "bel_version": "Кровапускальнікі"
+    },
+    {
+        "xml_id": "party_name_147",
+        "eng_version": "Old Faithful",
+        "ru_version": "Староверы",
+        "category_id": 6,
+        "bel_version": "Стары Верны"
+    },
+    {
+        "xml_id": "party_name_148",
+        "eng_version": "The Crimson Hand",
+        "ru_version": "Кровавая рука",
+        "category_id": 6,
+        "bel_version": "Пунсовая рука"
+    },
+    {
+        "xml_id": "party_name_149",
+        "eng_version": "Good Bad and Ugly",
+        "ru_version": "Хороший, плохой, злой",
+        "category_id": 6,
+        "bel_version": "Добры Дрэнны і Гадкі"
+    },
+    {
+        "xml_id": "party_name_150",
+        "eng_version": "Merry Go Round",
+        "ru_version": "Веселая карусель",
+        "category_id": 6,
+        "bel_version": "Карусель"
+    },
+    {
+        "xml_id": "party_name_151",
+        "eng_version": "Gun and Roses",
+        "ru_version": "Пистолет и розы",
+        "category_id": 6,
+        "bel_version": "Пісталет і ружы"
+    },
+    {
+        "xml_id": "party_name_152",
+        "eng_version": "The Hellhounds",
+        "ru_version": "Церберы",
+        "category_id": 6,
+        "bel_version": "Пякельныя сабакі"
+    },
+    {
+        "xml_id": "party_name_153",
+        "eng_version": "Single Ray of Humor",
+        "ru_version": "Луч веселья",
+        "category_id": 6,
+        "bel_version": "Адзіны прамень гумару"
+    },
+    {
+        "xml_id": "party_name_154",
+        "eng_version": "Wine, Women, Song",
+        "ru_version": "Вино, женщины и песни",
+        "category_id": 6,
+        "bel_version": "Віно, жанчыны, песня"
+    },
+    {
+        "xml_id": "party_name_155",
+        "eng_version": "Unlikely Lively",
+        "ru_version": "Смертники",
+        "category_id": 6,
+        "bel_version": "Наўрад ці Жывы"
+    },
+    {
+        "xml_id": "party_name_156",
+        "eng_version": "Delvers in the Dark",
+        "ru_version": "Спуск во тьму",
+        "category_id": 6,
+        "bel_version": "Апускальнікі ў цемры"
+    },
+    {
+        "xml_id": "party_name_157",
+        "eng_version": "Charging Madness",
+        "ru_version": "Градус неадеквата",
+        "category_id": 6,
+        "bel_version": "Вар'яцтва зарадкі"
+    },
+    {
+        "xml_id": "party_name_158",
+        "eng_version": "Ghost Busters",
+        "ru_version": "Охотники за привидениями",
+        "category_id": 6,
+        "bel_version": "Паляўнічыя за прывідамі"
+    },
+    {
+        "xml_id": "party_name_159",
+        "eng_version": "The Lost Band",
+        "ru_version": "Пропащая компания",
+        "category_id": 6,
+        "bel_version": "The Lost Band"
+    },
+    {
+        "xml_id": "party_name_160",
+        "eng_version": "Sacred and Profane",
+        "ru_version": "Праведник и богохульник",
+        "category_id": 6,
+        "bel_version": "Сакральнае і прафаннае"
+    },
+    {
+        "xml_id": "party_name_161",
+        "eng_version": "Lords of Position",
+        "ru_version": "Влиятельные особы",
+        "category_id": 6,
+        "bel_version": "Уладары пазіцыі"
+    },
+    {
+        "xml_id": "party_name_162",
+        "eng_version": "Heaven and Hell",
+        "ru_version": "Небеса и преисподняя",
+        "category_id": 6,
+        "bel_version": "Рай і пекла"
+    },
+    {
+        "xml_id": "party_name_163",
+        "eng_version": "Saints and Sinners",
+        "ru_version": "Святые и грешники",
+        "category_id": 6,
+        "bel_version": "Святыя і грэшнікі"
+    },
+    {
+        "xml_id": "party_name_164",
+        "eng_version": "Heroes and Heretics",
+        "ru_version": "Герои и еретики",
+        "category_id": 6,
+        "bel_version": "Героі і ерэтыкі"
+    },
+    {
+        "xml_id": "party_name_165",
+        "eng_version": "Faith and Fury",
+        "ru_version": "Вера и ярость",
+        "category_id": 6,
+        "bel_version": "Вера і лютасьць"
+    },
+    {
+        "xml_id": "party_name_166",
+        "eng_version": "The Black Shield",
+        "ru_version": "Чёрный щит",
+        "category_id": 6,
+        "bel_version": "Чорны шчыт"
+    },
+    {
+        "xml_id": "party_name_167",
+        "eng_version": "The Wardens",
+        "ru_version": "Стражи",
+        "category_id": 6,
+        "bel_version": "Наглядчыкі"
+    },
+    {
+        "xml_id": "party_name_168",
+        "eng_version": "The Inquisition",
+        "ru_version": "Инквизиция",
+        "category_id": 6,
+        "bel_version": "Інквізіцыя"
+    },
+    {
+        "xml_id": "party_name_169",
+        "eng_version": "Good Cop Bad Cop",
+        "ru_version": "Хороший коп, плохой коп",
+        "category_id": 6,
+        "bel_version": "Добры паліцэйскі Дрэнны паліцэйскі"
+    },
+    {
+        "xml_id": "party_name_170",
+        "eng_version": "Witch Hunt",
+        "ru_version": "Охота на ведьм",
+        "category_id": 6,
+        "bel_version": "Паляванне на ведзьмаў"
+    },
+    {
+        "xml_id": "party_name_171",
+        "eng_version": "The Strays",
+        "ru_version": "Беспризорники",
+        "category_id": 6,
+        "bel_version": "Прыблуды"
+    },
+    {
+        "xml_id": "party_name_172",
+        "eng_version": "The Copper Faithful",
+        "ru_version": "Благочестивая банда",
+        "category_id": 6,
+        "bel_version": "Медны Верны"
+    },
+    {
+        "xml_id": "party_name_173",
+        "eng_version": "The Cautious",
+        "ru_version": "Осторожные",
+        "category_id": 6,
+        "bel_version": "Асцярожны"
+    },
+    {
+        "xml_id": "party_name_174",
+        "eng_version": "Witch Hunters",
+        "ru_version": "Охотники на ведьм",
+        "category_id": 6,
+        "bel_version": "Паляўнічыя на ведзьмаў"
+    },
+    {
+        "xml_id": "party_name_175",
+        "eng_version": "Soultrain",
+        "ru_version": "Душевная компания",
+        "category_id": 6,
+        "bel_version": "Soultrain"
+    },
+    {
+        "xml_id": "party_name_176",
+        "eng_version": "King's Court",
+        "ru_version": "Королевский двор",
+        "category_id": 6,
+        "bel_version": "Каралеўскі двор"
+    },
+    {
+        "xml_id": "party_name_177",
+        "eng_version": "The Masquerade",
+        "ru_version": "Маскарад",
+        "category_id": 6,
+        "bel_version": "Маскарад"
+    },
+    {
+        "xml_id": "party_name_178",
+        "eng_version": "The Greater Good",
+        "ru_version": "Высшее благо",
+        "category_id": 6,
+        "bel_version": "Вышэйшае Дабро"
+    },
+    {
+        "xml_id": "party_name_179",
+        "eng_version": "The Holy Flame",
+        "ru_version": "Священное Пламя",
+        "category_id": 6,
+        "bel_version": "Святое полымя"
+    },
+    {
+        "xml_id": "party_name_180",
+        "eng_version": "Holy Rollers",
+        "ru_version": "Святоши",
+        "category_id": 6,
+        "bel_version": "Святыя валікі"
+    },
+    {
+        "xml_id": "party_name_181",
+        "eng_version": "Holy Shooter",
+        "ru_version": "Святой снайпер",
+        "category_id": 6,
+        "bel_version": "Святы стралок"
+    },
+    {
+        "xml_id": "party_name_182",
+        "eng_version": "Safe Shot",
+        "ru_version": "Убойный выстрел",
+        "category_id": 6,
+        "bel_version": "Бяспечны стрэл"
+    },
+    {
+        "xml_id": "party_name_183",
+        "eng_version": "Nuns With Puns",
+        "ru_version": "Монашки с замашками",
+        "category_id": 6,
+        "bel_version": "Манашкі з каламбурамі"
+    },
+    {
+        "xml_id": "party_name_184",
+        "eng_version": "Men at Work",
+        "ru_version": "Мужчины за работой",
+        "category_id": 6,
+        "bel_version": "Мужчыны за працай"
+    },
+    {
+        "xml_id": "party_name_185",
+        "eng_version": "Gatling Gun",
+        "ru_version": "Скорострел",
+        "category_id": 6,
+        "bel_version": "Пісталет Гатлінга"
+    },
+    {
+        "xml_id": "party_name_186",
+        "eng_version": "Leviticus",
+        "ru_version": "Leviticus",
+        "category_id": 6,
+        "bel_version": "Левіт"
+    },
+    {
+        "xml_id": "party_name_187",
+        "eng_version": "Red Riding Hood",
+        "ru_version": "Red Riding Hood",
+        "category_id": 6,
+        "bel_version": "Чырвоная шапачка"
+    },
+    {
+        "xml_id": "party_name_188",
+        "eng_version": "The Dregs",
+        "ru_version": "The Dregs",
+        "category_id": 6,
+        "bel_version": "Асадак"
+    },
+    {
+        "xml_id": "party_name_189",
+        "eng_version": "The Beasts",
+        "ru_version": "The Beasts",
+        "category_id": 6,
+        "bel_version": "Звяры"
+    },
+    {
+        "xml_id": "party_name_190",
+        "eng_version": "Spice and Wolf",
+        "ru_version": "Spice and Wolf",
+        "category_id": 6,
+        "bel_version": "Спайс і воўк"
+    },
+    {
+        "xml_id": "party_name_191",
+        "eng_version": "Antiques Roadshow",
+        "ru_version": "Antiques Roadshow",
+        "category_id": 6,
+        "bel_version": "Антыкварыят Roadshow"
+    },
+    {
+        "xml_id": "party_name_192",
+        "eng_version": "Sightseeing Tour",
+        "ru_version": "Sightseeing Tour",
+        "category_id": 6,
+        "bel_version": "Аглядная экскурсія"
+    },
+    {
+        "xml_id": "party_name_193",
+        "eng_version": "Bloody Retribution",
+        "ru_version": "Bloody Retribution",
+        "category_id": 6,
+        "bel_version": "Крывавая адплата"
+    },
+    {
+        "xml_id": "party_name_194",
+        "eng_version": "Critters and Glitters",
+        "ru_version": "Critters and Glitters",
+        "category_id": 6,
+        "bel_version": "Звяркі і бліскаўкі"
+    },
+    {
+        "xml_id": "party_name_195",
+        "eng_version": "Old Dog, New Trick",
+        "ru_version": "Old Dog, New Trick",
+        "category_id": 6,
+        "bel_version": "Стары сабака, новы трук"
+    },
+    {
+        "xml_id": "party_name_196",
+        "eng_version": "Pilfering Pillagers",
+        "ru_version": "Pilfering Pillagers",
+        "category_id": 6,
+        "bel_version": "Крадзяжы-рабаўнікі"
+    },
+    {
+        "xml_id": "party_name_197",
+        "eng_version": "Hired Muscle",
+        "ru_version": "Hired Muscle",
+        "category_id": 6,
+        "bel_version": "Наёмныя мускулы"
+    },
+    {
+        "xml_id": "party_name_198",
+        "eng_version": "The Logisticians",
+        "ru_version": "The Logisticians",
+        "category_id": 6,
+        "bel_version": "Лагісты"
+    },
+    {
+        "xml_id": "party_name_199",
+        "eng_version": "The Murine Clique",
+        "ru_version": "The Murine Clique",
+        "category_id": 6,
+        "bel_version": "Мышыная кліка"
+    },
+    {
+        "xml_id": "party_name_200",
+        "eng_version": "The Relentless Tide",
+        "ru_version": "The Relentless Tide",
+        "category_id": 6,
+        "bel_version": "Няўмольны прыліў"
+    },
+    {
+        "xml_id": "party_name_201",
+        "eng_version": "Fortune Seekers",
+        "ru_version": "Fortune Seekers",
+        "category_id": 6,
+        "bel_version": "Шукальнікі ўдачы"
+    },
+    {
+        "xml_id": "party_name_202",
+        "eng_version": "Penny Pinchers",
+        "ru_version": "Penny Pinchers",
+        "category_id": 6,
+        "bel_version": "Пені Пінчарс"
+    },
+    {
+        "xml_id": "party_name_203",
+        "eng_version": "Dreadlings",
+        "ru_version": "Dreadlings",
+        "category_id": 6,
+        "bel_version": "Дрэдлінгі"
+    },
+    {
+        "xml_id": "party_name_204",
+        "eng_version": "The Wicked",
+        "ru_version": "The Wicked",
+        "category_id": 6,
+        "bel_version": "Злыя"
+    },
+    {
+        "xml_id": "party_name_205",
+        "eng_version": "Misfortune",
+        "ru_version": "Misfortune",
+        "category_id": 6,
+        "bel_version": "Няшчасце"
+    },
+    {
+        "xml_id": "party_name_206",
+        "eng_version": "Beasts of Burden",
+        "ru_version": "Beasts of Burden",
+        "category_id": 6,
+        "bel_version": "Вьючныя звяры"
+    },
+    {
+        "xml_id": "party_name_207",
+        "eng_version": "The Reflex",
+        "ru_version": "The Reflex",
+        "category_id": 6,
+        "bel_version": "Рэфлекс"
+    },
+    {
+        "xml_id": "party_name_208",
+        "eng_version": "Civil Forfeiture",
+        "ru_version": "Civil Forfeiture",
+        "category_id": 6,
+        "bel_version": "Грамадзянская канфіскацыя"
+    },
+    {
+        "xml_id": "party_name_209",
+        "eng_version": "Despair Faction",
+        "ru_version": "Despair Faction",
+        "category_id": 6,
+        "bel_version": "Фракцыя роспачы"
+    },
+    {
+        "xml_id": "party_name_210",
+        "eng_version": "Basuras",
+        "ru_version": "Basuras",
+        "category_id": 6,
+        "bel_version": "Басуры"
+    },
+    {
+        "xml_id": "party_name_211",
+        "eng_version": "The Profiteers",
+        "ru_version": "The Profiteers",
+        "category_id": 6,
+        "bel_version": "Нажывальнікі"
+    },
+    {
+        "xml_id": "party_name_212",
+        "eng_version": "Divina Commedia",
+        "ru_version": "Divina Commedia",
+        "category_id": 6,
+        "bel_version": "Боская камедыя"
+    },
+    {
+        "xml_id": "party_name_213",
+        "eng_version": "Curiosity Circus",
+        "ru_version": "Curiosity Circus",
+        "category_id": 6,
+        "bel_version": "Цырк Кур'ёзы"
+    },
+    {
+        "xml_id": "party_name_214",
+        "eng_version": "The Seekers",
+        "ru_version": "The Seekers",
+        "category_id": 6,
+        "bel_version": "Шукальнікі"
+    },
+    {
+        "xml_id": "party_name_215",
+        "eng_version": "Soldiers of Fortune",
+        "ru_version": "Soldiers of Fortune",
+        "category_id": 6,
+        "bel_version": "Салдаты ўдачы"
+    },
+    {
+        "xml_id": "party_name_216",
+        "eng_version": "Dead Man's Party",
+        "ru_version": "Dead Man's Party",
+        "category_id": 6,
+        "bel_version": "Вечарына мерцвяка"
+    },
+    {
+        "xml_id": "party_name_217",
+        "eng_version": "Glory Seekers",
+        "ru_version": "Glory Seekers",
+        "category_id": 6,
+        "bel_version": "Шукальнікі славы"
+    },
+    {
+        "xml_id": "party_name_218",
+        "eng_version": "Tomb Raiders",
+        "ru_version": "Tomb Raiders",
+        "category_id": 6,
+        "bel_version": "Раскрадальніцы магіл"
+    },
+    {
+        "xml_id": "party_name_219",
+        "eng_version": "Eldritch Combatants",
+        "ru_version": "Eldritch Combatants",
+        "category_id": 6,
+        "bel_version": "Eldritch Combatants"
+    },
+    {
+        "xml_id": "party_name_220",
+        "eng_version": "The Lost and the Damned",
+        "ru_version": "The Lost and the Damned",
+        "category_id": 6,
+        "bel_version": "Страчаныя і праклятыя"
+    },
+    {
+        "xml_id": "party_name_221",
+        "eng_version": "Blasphemous Scavengers",
+        "ru_version": "Blasphemous Scavengers",
+        "category_id": 6,
+        "bel_version": "Блюзнерскія сметнікі"
+    },
+    {
+        "xml_id": "party_name_222",
+        "eng_version": "The Collection",
+        "ru_version": "The Collection",
+        "category_id": 6,
+        "bel_version": "Калекцыя"
+    },
+    {
+        "xml_id": "party_name_223",
+        "eng_version": "Seekers of the Grail",
+        "ru_version": "Seekers of the Grail",
+        "category_id": 6,
+        "bel_version": "Шукальнікі Грааля"
+    },
+    {
+        "xml_id": "party_name_224",
+        "eng_version": "The Abyssal Vanguard",
+        "ru_version": "The Abyssal Vanguard",
+        "category_id": 6,
+        "bel_version": "Абісальскі авангард"
+    },
+    {
+        "xml_id": "party_name_225",
+        "eng_version": "AAAH!",
+        "ru_version": "AAAH!",
+        "category_id": 6,
+        "bel_version": "АААА!"
+    },
+    {
+        "xml_id": "party_name_226",
+        "eng_version": "The A Team",
+        "ru_version": "The A Team",
+        "category_id": 6,
+        "bel_version": "Каманда"
+    },
+    {
+        "xml_id": "party_name_227",
+        "eng_version": "Easy Money",
+        "ru_version": "Easy Money",
+        "category_id": 6,
+        "bel_version": "Лёгкія грошы"
+    },
+    {
+        "xml_id": "party_name_228",
+        "eng_version": "Protective Howl",
+        "ru_version": "Protective Howl",
+        "category_id": 6,
+        "bel_version": "Ахоўны вой"
+    },
+    {
+        "xml_id": "party_name_229",
+        "eng_version": "Motley Crew",
+        "ru_version": "Motley Crew",
+        "category_id": 6,
+        "bel_version": "Стракатая каманда"
+    },
+    {
+        "xml_id": "party_name_230",
+        "eng_version": "Jin-Roh",
+        "ru_version": "Jin-Roh",
+        "category_id": 6,
+        "bel_version": "Джын-Ро"
+    },
+    {
+        "xml_id": "party_name_231",
+        "eng_version": "Missile Command",
+        "ru_version": "Missile Command",
+        "category_id": 6,
+        "bel_version": "Ракетнае камандаванне"
+    },
+    {
+        "xml_id": "party_name_232",
+        "eng_version": "Head Hunters",
+        "ru_version": "Head Hunters",
+        "category_id": 6,
+        "bel_version": "Паляўнічыя за галовамі"
+    },
+    {
+        "xml_id": "party_name_233",
+        "eng_version": "Artema's Dance",
+        "ru_version": "Artema's Dance",
+        "category_id": 6,
+        "bel_version": "Танец Арцёма"
+    },
+    {
+        "xml_id": "party_name_234",
+        "eng_version": "Beauties and the Beast",
+        "ru_version": "Beauties and the Beast",
+        "category_id": 6,
+        "bel_version": "Прыгажуні і Пачвара"
+    },
+    {
+        "xml_id": "party_name_235",
+        "eng_version": "Never Miss A Beat",
+        "ru_version": "Never Miss A Beat",
+        "category_id": 6,
+        "bel_version": "Ніколі не прапусціце рытм"
+    },
+    {
+        "xml_id": "party_name_236",
+        "eng_version": "Rebel Yell",
+        "ru_version": "Rebel Yell",
+        "category_id": 6,
+        "bel_version": "Паўстанцкі крык"
+    },
+    {
+        "xml_id": "party_name_237",
+        "eng_version": "Firing Squad",
+        "ru_version": "Firing Squad",
+        "category_id": 6,
+        "bel_version": "Расстрэл"
+    },
+    {
+        "xml_id": "party_name_238",
+        "eng_version": "Deadly Mercenaries",
+        "ru_version": "Deadly Mercenaries",
+        "category_id": 6,
+        "bel_version": "Смяротныя найміты"
+    },
+    {
+        "xml_id": "party_name_239",
+        "eng_version": "Theory of Relativity",
+        "ru_version": "Theory of Relativity",
+        "category_id": 6,
+        "bel_version": "Тэорыя адноснасці"
+    },
+    {
+        "xml_id": "party_name_240",
+        "eng_version": "Dark Deeds",
+        "ru_version": "Dark Deeds",
+        "category_id": 6,
+        "bel_version": "Цёмныя справы"
+    },
+    {
+        "xml_id": "party_name_241",
+        "eng_version": "Dogs of War",
+        "ru_version": "Dogs of War",
+        "category_id": 6,
+        "bel_version": "Псы вайны"
+    },
+    {
+        "xml_id": "party_name_242",
+        "eng_version": "Long Arm of the Law",
+        "ru_version": "Long Arm of the Law",
+        "category_id": 6,
+        "bel_version": "Доўгая рука закона"
+    },
+    {
+        "xml_id": "party_name_243",
+        "eng_version": "On Your Mark",
+        "ru_version": "On Your Mark",
+        "category_id": 6,
+        "bel_version": "На вашым знаку"
+    },
+    {
+        "xml_id": "party_name_244",
+        "eng_version": "Soldier On",
+        "ru_version": "Soldier On",
+        "category_id": 6,
+        "bel_version": "Салдат На"
+    },
+    {
+        "xml_id": "party_name_245",
+        "eng_version": "Let there be blood",
+        "ru_version": "Let there be blood",
+        "category_id": 6,
+        "bel_version": "Хай будзе кроў"
+    },
+    {
+        "xml_id": "party_name_246",
+        "eng_version": "Armored Core",
+        "ru_version": "Armored Core",
+        "category_id": 6,
+        "bel_version": "Браняванае ядро"
+    },
+    {
+        "xml_id": "party_name_247",
+        "eng_version": "All or nothing",
+        "ru_version": "All or nothing",
+        "category_id": 6,
+        "bel_version": "Усё ці нічога"
+    },
+    {
+        "xml_id": "party_name_248",
+        "eng_version": "Marked for Death",
+        "ru_version": "Marked for Death",
+        "category_id": 6,
+        "bel_version": "Пазначаны на смерць"
+    },
+    {
+        "xml_id": "party_name_249",
+        "eng_version": "Hounds of War",
+        "ru_version": "Hounds of War",
+        "category_id": 6,
+        "bel_version": "Сабакі вайны"
+    },
+    {
+        "xml_id": "party_name_250",
+        "eng_version": "Hit Squad",
+        "ru_version": "Hit Squad",
+        "category_id": 6,
+        "bel_version": "Ударны атрад"
+    },
+    {
+        "xml_id": "party_name_251",
+        "eng_version": "Jericho",
+        "ru_version": "Jericho",
+        "category_id": 6,
+        "bel_version": "Ерыхон"
+    },
+    {
+        "xml_id": "party_name_252",
+        "eng_version": "War Party",
+        "ru_version": "War Party",
+        "category_id": 6,
+        "bel_version": "Партыя вайны"
+    },
+    {
+        "xml_id": "party_name_253",
+        "eng_version": "Stun and Gun",
+        "ru_version": "Stun and Gun",
+        "category_id": 6,
+        "bel_version": "Электрашокер і пісталет"
+    },
+    {
+        "xml_id": "party_name_254",
+        "eng_version": "Discount Medicine",
+        "ru_version": "Discount Medicine",
+        "category_id": 6,
+        "bel_version": "Медыцына са зніжкай"
+    },
+    {
+        "xml_id": "party_name_255",
+        "eng_version": "Quarantine Specialist",
+        "ru_version": "Quarantine Specialist",
+        "category_id": 6,
+        "bel_version": "Спецыяліст па каранціну"
+    },
+    {
+        "xml_id": "party_name_256",
+        "eng_version": "Indestructible",
+        "ru_version": "Indestructible",
+        "category_id": 6,
+        "bel_version": "Непарушны"
+    },
+    {
+        "xml_id": "party_name_257",
+        "eng_version": "Heavy Metal",
+        "ru_version": "Heavy Metal",
+        "category_id": 6,
+        "bel_version": "Хэві-метал"
+    },
+    {
+        "xml_id": "party_name_258",
+        "eng_version": "Sisterhood",
+        "ru_version": "Sisterhood",
+        "category_id": 6,
+        "bel_version": "Сястрынства"
+    },
+    {
+        "xml_id": "party_name_259",
+        "eng_version": "The Huntsmen Corps",
+        "ru_version": "The Huntsmen Corps",
+        "category_id": 6,
+        "bel_version": "Корпус егераў"
+    },
+    {
+        "xml_id": "party_name_260",
+        "eng_version": "K-9 Unit",
+        "ru_version": "K-9 Unit",
+        "category_id": 6,
+        "bel_version": "Падраздзяленне К-9"
+    },
+    {
+        "xml_id": "party_name_261",
+        "eng_version": "The Iron Fist",
+        "ru_version": "The Iron Fist",
+        "category_id": 6,
+        "bel_version": "Жалезны кулак"
+    },
+    {
+        "xml_id": "party_name_262",
+        "eng_version": "Battlefield Squad",
+        "ru_version": "Battlefield Squad",
+        "category_id": 6,
+        "bel_version": "Баявы атрад"
+    },
+    {
+        "xml_id": "party_name_263",
+        "eng_version": "Wall of Steel",
+        "ru_version": "Wall of Steel",
+        "category_id": 6,
+        "bel_version": "Сталёвая сцяна"
+    },
+    {
+        "xml_id": "party_name_264",
+        "eng_version": "Movers and Shakers",
+        "ru_version": "Movers and Shakers",
+        "category_id": 6,
+        "bel_version": "Рухальнікі і шэйкеры"
+    },
+    {
+        "xml_id": "party_name_265",
+        "eng_version": "The Dance of Death",
+        "ru_version": "The Dance of Death",
+        "category_id": 6,
+        "bel_version": "Танец смерці"
+    },
+    {
+        "xml_id": "party_name_266",
+        "eng_version": "Les Miserables",
+        "ru_version": "Les Miserables",
+        "category_id": 6,
+        "bel_version": "Няшчасныя"
+    },
+    {
+        "xml_id": "party_name_267",
+        "eng_version": "The Four Horsemen",
+        "ru_version": "The Four Horsemen",
+        "category_id": 6,
+        "bel_version": "Чатыры вершнікі"
+    },
+    {
+        "xml_id": "party_name_268",
+        "eng_version": "Backlash",
+        "ru_version": "Backlash",
+        "category_id": 6,
+        "bel_version": "Люфт"
+    },
+    {
+        "xml_id": "party_name_269",
+        "eng_version": "Charlie's Angels",
+        "ru_version": "Charlie's Angels",
+        "category_id": 6,
+        "bel_version": "Анёлы Чарлі"
+    },
+    {
+        "xml_id": "party_name_270",
+        "eng_version": "Highway to hellion",
+        "ru_version": "Highway to hellion",
+        "category_id": 6,
+        "bel_version": "Шаша ў пекла"
+    },
+    {
+        "xml_id": "party_name_271",
+        "eng_version": "Master of the Hounds",
+        "ru_version": "Master of the Hounds",
+        "category_id": 6,
+        "bel_version": "Майстар ганчакоў"
+    },
+    {
+        "xml_id": "party_name_272",
+        "eng_version": "Manhunt",
+        "ru_version": "Manhunt",
+        "category_id": 6,
+        "bel_version": "Паляванне"
+    },
+    {
+        "xml_id": "party_name_273",
+        "eng_version": "Meat Grinder",
+        "ru_version": "Meat Grinder",
+        "category_id": 6,
+        "bel_version": "Мясарубка"
+    },
+    {
+        "xml_id": "party_name_274",
+        "eng_version": "The Messy Four",
+        "ru_version": "The Messy Four",
+        "category_id": 6,
+        "bel_version": "Брудная чацвёрка"
+    },
+    {
+        "xml_id": "party_name_275",
+        "eng_version": "The Untouchables",
+        "ru_version": "The Untouchables",
+        "category_id": 6,
+        "bel_version": "Недатыкальныя"
+    },
+    {
+        "xml_id": "party_name_276",
+        "eng_version": "Wild Bunch",
+        "ru_version": "Wild Bunch",
+        "category_id": 6,
+        "bel_version": "Дзікая кучка"
+    },
+    {
+        "xml_id": "party_name_277",
+        "eng_version": "Board and Kennel",
+        "ru_version": "Board and Kennel",
+        "category_id": 6,
+        "bel_version": "Савет і гадавальнік"
+    },
+    {
+        "xml_id": "party_name_278",
+        "eng_version": "Boba Fetch",
+        "ru_version": "Boba Fetch",
+        "category_id": 6,
+        "bel_version": "Боба Фетч"
+    },
+    {
+        "xml_id": "party_name_279",
+        "eng_version": "Persephone and Cerberus",
+        "ru_version": "Persephone and Cerberus",
+        "category_id": 6,
+        "bel_version": "Персефона і Цэрбер"
+    },
+    {
+        "xml_id": "party_name_280",
+        "eng_version": "Diamond Dogs",
+        "ru_version": "Diamond Dogs",
+        "category_id": 6,
+        "bel_version": "Алмазныя сабакі"
+    },
+    {
+        "xml_id": "party_name_281",
+        "eng_version": "The Howlers",
+        "ru_version": "The Howlers",
+        "category_id": 6,
+        "bel_version": "Рэвуны"
+    },
+    {
+        "xml_id": "party_name_282",
+        "eng_version": "Cry Havoc",
+        "ru_version": "Cry Havoc",
+        "category_id": 6,
+        "bel_version": "Cry Havoc"
+    },
+    {
+        "xml_id": "party_name_283",
+        "eng_version": "Raining Blood",
+        "ru_version": "Raining Blood",
+        "category_id": 6,
+        "bel_version": "Крывавы дождж"
+    },
+    {
+        "xml_id": "party_name_284",
+        "eng_version": "Poetic Justice",
+        "ru_version": "Poetic Justice",
+        "category_id": 6,
+        "bel_version": "Паэтычная справядлівасць"
+    },
+    {
+        "xml_id": "party_name_285",
+        "eng_version": "Bloody Murder",
+        "ru_version": "Bloody Murder",
+        "category_id": 6,
+        "bel_version": "Крывавае забойства"
+    },
+    {
+        "xml_id": "party_name_286",
+        "eng_version": "Squad on Patrol",
+        "ru_version": "Squad on Patrol",
+        "category_id": 6,
+        "bel_version": "Атрад на патруль"
+    },
+    {
+        "xml_id": "party_name_287",
+        "eng_version": "Mark and Bark",
+        "ru_version": "Mark and Bark",
+        "category_id": 6,
+        "bel_version": "Марк і Барк"
+    },
+    {
+        "xml_id": "party_name_288",
+        "eng_version": "Garston's Garrison",
+        "ru_version": "Garston's Garrison",
+        "category_id": 6,
+        "bel_version": "Гарнізон Гарстана"
+    },
+    {
+        "xml_id": "party_name_289",
+        "eng_version": "The Travelling Fools",
+        "ru_version": "The Travelling Fools",
+        "category_id": 6,
+        "bel_version": "Падарожныя дурні"
+    },
+    {
+        "xml_id": "party_name_290",
+        "eng_version": "We Die Like Heroes",
+        "ru_version": "We Die Like Heroes",
+        "category_id": 6,
+        "bel_version": "Мы паміраем як героі"
+    },
+    {
+        "xml_id": "party_name_291",
+        "eng_version": "The Hunchback of Notre Dame",
+        "ru_version": "The Hunchback of Notre Dame",
+        "category_id": 6,
+        "bel_version": "Гарбун з Нотр-Дама"
+    },
+    {
+        "xml_id": "party_name_292",
+        "eng_version": "The Bloody Mummers",
+        "ru_version": "The Bloody Mummers",
+        "category_id": 6,
+        "bel_version": "Крывавыя баяры"
+    },
+    {
+        "xml_id": "party_name_293",
+        "eng_version": "Court of Beasts",
+        "ru_version": "Court of Beasts",
+        "category_id": 6,
+        "bel_version": "Суд звяроў"
+    },
+    {
+        "xml_id": "party_name_294",
+        "eng_version": "Freakshow",
+        "ru_version": "Freakshow",
+        "category_id": 6,
+        "bel_version": "Фрык-шоў"
+    },
+    {
+        "xml_id": "party_name_295",
+        "eng_version": "The Ugly Kid",
+        "ru_version": "The Ugly Kid",
+        "category_id": 6,
+        "bel_version": "Гадкае дзіця"
+    },
+    {
+        "xml_id": "party_name_296",
+        "eng_version": "Dance With The Devil",
+        "ru_version": "Dance With The Devil",
+        "category_id": 6,
+        "bel_version": "Танец з д'яблам"
+    },
+    {
+        "xml_id": "party_name_297",
+        "eng_version": "The Jilted",
+        "ru_version": "The Jilted",
+        "category_id": 6,
+        "bel_version": "Адкінутыя"
+    },
+    {
+        "xml_id": "party_name_298",
+        "eng_version": "Suicide Squad",
+        "ru_version": "Suicide Squad",
+        "category_id": 6,
+        "bel_version": "Атрад самагубцаў"
+    },
+    {
+        "xml_id": "party_name_299",
+        "eng_version": "Rocky Roady Warriors",
+        "ru_version": "Rocky Roady Warriors",
+        "category_id": 6,
+        "bel_version": "Rocky Roady Warriors"
+    },
+    {
+        "xml_id": "party_name_300",
+        "eng_version": "Bodyguards",
+        "ru_version": "Bodyguards",
+        "category_id": 6,
+        "bel_version": "Целаахоўнікі"
+    },
+    {
+        "xml_id": "party_name_301",
+        "eng_version": "Left For Dead",
+        "ru_version": "Left For Dead",
+        "category_id": 6,
+        "bel_version": "Пакінуты на смерць"
+    },
+    {
+        "xml_id": "party_name_302",
+        "eng_version": "Rats In The Walls",
+        "ru_version": "Rats In The Walls",
+        "category_id": 6,
+        "bel_version": "Пацукі ў сценах"
+    },
+    {
+        "xml_id": "party_name_303",
+        "eng_version": "Command and Conquer",
+        "ru_version": "Command and Conquer",
+        "category_id": 6,
+        "bel_version": "Камандуйце і перамагайце"
+    },
+    {
+        "xml_id": "party_name_304",
+        "eng_version": "The Walking Heads",
+        "ru_version": "The Walking Heads",
+        "category_id": 6,
+        "bel_version": "Хадзячыя галовы"
+    },
+    {
+        "xml_id": "party_name_305",
+        "eng_version": "Belle and the Beasts",
+        "ru_version": "Belle and the Beasts",
+        "category_id": 6,
+        "bel_version": "Бель і пачвары"
+    },
+    {
+        "xml_id": "party_name_306",
+        "eng_version": "The Travelers",
+        "ru_version": "The Travelers",
+        "category_id": 6,
+        "bel_version": "Падарожнікі"
+    },
+    {
+        "xml_id": "party_name_307",
+        "eng_version": "Lost and Damned",
+        "ru_version": "Lost and Damned",
+        "category_id": 6,
+        "bel_version": "Страчаны і пракляты"
+    },
+    {
+        "xml_id": "party_name_308",
+        "eng_version": "Black Gold",
+        "ru_version": "Black Gold",
+        "category_id": 6,
+        "bel_version": "Чорнае золата"
+    },
+    {
+        "xml_id": "party_name_309",
+        "eng_version": "Crypt Robbers",
+        "ru_version": "Crypt Robbers",
+        "category_id": 6,
+        "bel_version": "Рабаўнікі склепаў"
+    },
+    {
+        "xml_id": "party_name_310",
+        "eng_version": "Lullaby",
+        "ru_version": "Lullaby",
+        "category_id": 6,
+        "bel_version": "Калыханка"
+    },
+    {
+        "xml_id": "party_name_311",
+        "eng_version": "Custodian Crew",
+        "ru_version": "Custodian Crew",
+        "category_id": 6,
+        "bel_version": "Экіпаж захавальніка"
+    },
+    {
+        "xml_id": "party_name_312",
+        "eng_version": "Bite the Bullet",
+        "ru_version": "Bite the Bullet",
+        "category_id": 6,
+        "bel_version": "Укусіць кулю"
+    },
+    {
+        "xml_id": "party_name_313",
+        "eng_version": "Open Season",
+        "ru_version": "Open Season",
+        "category_id": 6,
+        "bel_version": "Адкрыты сезон"
+    },
+    {
+        "xml_id": "party_name_314",
+        "eng_version": "Black Monday Murder",
+        "ru_version": "Black Monday Murder",
+        "category_id": 6,
+        "bel_version": "Забойства ў чорны панядзелак"
+    },
+    {
+        "xml_id": "party_name_315",
+        "eng_version": "Bad Karma",
+        "ru_version": "Bad Karma",
+        "category_id": 6,
+        "bel_version": "Дрэнная карма"
+    },
+    {
+        "xml_id": "party_name_316",
+        "eng_version": "Heaven's Devils",
+        "ru_version": "Heaven's Devils",
+        "category_id": 6,
+        "bel_version": "Нябесныя д'яблы"
+    },
+    {
+        "xml_id": "party_name_317",
+        "eng_version": "Redemption",
+        "ru_version": "Redemption",
+        "category_id": 6,
+        "bel_version": "Адкупленне"
+    },
+    {
+        "xml_id": "party_name_318",
+        "eng_version": "Gallows Walk",
+        "ru_version": "Gallows Walk",
+        "category_id": 6,
+        "bel_version": "Шыбеніца"
+    },
+    {
+        "xml_id": "party_name_319",
+        "eng_version": "Bloodbourne",
+        "ru_version": "Bloodbourne",
+        "category_id": 6,
+        "bel_version": "Бладборн"
+    },
+    {
+        "xml_id": "party_name_320",
+        "eng_version": "Death sentence",
+        "ru_version": "Death sentence",
+        "category_id": 6,
+        "bel_version": "Смяротны прысуд"
+    },
+    {
+        "xml_id": "party_name_321",
+        "eng_version": "Bard And Guard",
+        "ru_version": "Bard And Guard",
+        "category_id": 6,
+        "bel_version": "Бард і гвардыя"
+    },
+    {
+        "xml_id": "party_name_322",
+        "eng_version": "Monster Within",
+        "ru_version": "Monster Within",
+        "category_id": 6,
+        "bel_version": "Монстар ўнутры"
+    },
+    {
+        "xml_id": "party_name_323",
+        "eng_version": "The Last Resort",
+        "ru_version": "The Last Resort",
+        "category_id": 6,
+        "bel_version": "Апошні сродак"
+    },
+    {
+        "xml_id": "party_name_324",
+        "eng_version": "Highway to Hell",
+        "ru_version": "Highway to Hell",
+        "category_id": 6,
+        "bel_version": "Шаша ў пекла"
+    },
+    {
+        "xml_id": "party_name_325",
+        "eng_version": "The Hounds of Hell",
+        "ru_version": "The Hounds of Hell",
+        "category_id": 6,
+        "bel_version": "Пякельныя сабакі"
+    },
+    {
+        "xml_id": "party_name_326",
+        "eng_version": "Cruel Fates",
+        "ru_version": "Cruel Fates",
+        "category_id": 6,
+        "bel_version": "Жорсткія лёсы"
+    },
+    {
+        "xml_id": "party_name_327",
+        "eng_version": "The Wolf Parade",
+        "ru_version": "The Wolf Parade",
+        "category_id": 6,
+        "bel_version": "Воўчы парад"
+    },
+    {
+        "xml_id": "party_name_328",
+        "eng_version": "Freak Show",
+        "ru_version": "Freak Show",
+        "category_id": 6,
+        "bel_version": "Фрык-шоу"
+    },
+    {
+        "xml_id": "party_name_329",
+        "eng_version": "Cirque des Damnés",
+        "ru_version": "Cirque des Damnés",
+        "category_id": 6,
+        "bel_version": "Cirque des Damnés"
+    },
+    {
+        "xml_id": "party_name_330",
+        "eng_version": "Singer For The Stained",
+        "ru_version": "Singer For The Stained",
+        "category_id": 6,
+        "bel_version": "Спявачка для Stained"
+    },
+    {
+        "xml_id": "party_name_331",
+        "eng_version": "We of Little Faith",
+        "ru_version": "We of Little Faith",
+        "category_id": 6,
+        "bel_version": "Мы з Маленькай веры"
+    },
+    {
+        "xml_id": "party_name_332",
+        "eng_version": "Metal Before Madness",
+        "ru_version": "Metal Before Madness",
+        "category_id": 6,
+        "bel_version": "Метал перад вар'яцтвам"
+    },
+    {
+        "xml_id": "party_name_333",
+        "eng_version": "Inglorious Bastards",
+        "ru_version": "Inglorious Bastards",
+        "category_id": 6,
+        "bel_version": "Бясслаўныя ўблюдкі"
+    },
+    {
+        "xml_id": "party_name_334",
+        "eng_version": "Cirque du Slay",
+        "ru_version": "Cirque du Slay",
+        "category_id": 6,
+        "bel_version": "Цырк дзю Сле"
+    },
+    {
+        "xml_id": "party_name_335",
+        "eng_version": "Blood Drive",
+        "ru_version": "Blood Drive",
+        "category_id": 6,
+        "bel_version": "Крывавы драйв"
+    },
+    {
+        "xml_id": "party_name_336",
+        "eng_version": "Darkest Humour",
+        "ru_version": "Darkest Humour",
+        "category_id": 6,
+        "bel_version": "Чорны гумар"
+    },
+    {
+        "xml_id": "party_name_337",
+        "eng_version": "Fire With Fire",
+        "ru_version": "Fire With Fire",
+        "category_id": 6,
+        "bel_version": "Агонь з агнём"
+    },
+    {
+        "xml_id": "party_name_338",
+        "eng_version": "Unspoken Horror",
+        "ru_version": "Unspoken Horror",
+        "category_id": 6,
+        "bel_version": "Нявыказаны жах"
+    },
+    {
+        "xml_id": "party_name_339",
+        "eng_version": "Heathen Yell",
+        "ru_version": "Heathen Yell",
+        "category_id": 6,
+        "bel_version": "Паганскі крык"
+    },
+    {
+        "xml_id": "party_name_340",
+        "eng_version": "Grindhouse",
+        "ru_version": "Grindhouse",
+        "category_id": 6,
+        "bel_version": "Грайндхаус"
+    },
+    {
+        "xml_id": "party_name_341",
+        "eng_version": "The Trench",
+        "ru_version": "The Trench",
+        "category_id": 6,
+        "bel_version": "Траншэя"
+    },
+    {
+        "xml_id": "party_name_342",
+        "eng_version": "League of the Damned",
+        "ru_version": "League of the Damned",
+        "category_id": 6,
+        "bel_version": "Ліга праклятых"
+    },
+    {
+        "xml_id": "party_name_343",
+        "eng_version": "The Unlikely Tetret",
+        "ru_version": "The Unlikely Tetret",
+        "category_id": 6,
+        "bel_version": "Наўрад ці тэтрэць"
+    },
+    {
+        "xml_id": "party_name_344",
+        "eng_version": "Killing Joke",
+        "ru_version": "Killing Joke",
+        "category_id": 6,
+        "bel_version": "Забойны жарт"
+    },
+    {
+        "xml_id": "party_name_345",
+        "eng_version": "Chain the Beast",
+        "ru_version": "Chain the Beast",
+        "category_id": 6,
+        "bel_version": "Ланцуг звера"
+    },
+    {
+        "xml_id": "party_name_346",
+        "eng_version": "Toxic Teammates",
+        "ru_version": "Toxic Teammates",
+        "category_id": 6,
+        "bel_version": "Таксічныя таварышы па камандзе"
+    },
+    {
+        "xml_id": "party_name_347",
+        "eng_version": "The Blighters",
+        "ru_version": "The Blighters",
+        "category_id": 6,
+        "bel_version": "Знішчальнікі"
+    },
+    {
+        "xml_id": "party_name_348",
+        "eng_version": "Damned and Forgotten",
+        "ru_version": "Damned and Forgotten",
+        "category_id": 6,
+        "bel_version": "Праклятыя і забытыя"
+    },
+    {
+        "xml_id": "party_name_349",
+        "eng_version": "Meddling Kids",
+        "ru_version": "Meddling Kids",
+        "category_id": 6,
+        "bel_version": "Дзеці, якія ўмешваюцца"
+    },
+    {
+        "xml_id": "party_name_350",
+        "eng_version": "Riot Control",
+        "ru_version": "Riot Control",
+        "category_id": 6,
+        "bel_version": "Барацьба з беспарадкамі"
+    },
+    {
+        "xml_id": "party_name_351",
+        "eng_version": "Containment",
+        "ru_version": "Containment",
+        "category_id": 6,
+        "bel_version": "Утрыманне"
+    },
+    {
+        "xml_id": "party_name_352",
+        "eng_version": "Masked Avengers",
+        "ru_version": "Masked Avengers",
+        "category_id": 6,
+        "bel_version": "Мсціўцы ў масках"
+    },
+    {
+        "xml_id": "party_name_353",
+        "eng_version": "Eldritch Plague",
+        "ru_version": "Eldritch Plague",
+        "category_id": 6,
+        "bel_version": "Элдрыцкая чума"
+    },
+    {
+        "xml_id": "party_name_354",
+        "eng_version": "Rack and Ruin",
+        "ru_version": "Rack and Ruin",
+        "category_id": 6,
+        "bel_version": "Стэлаж і руіны"
+    },
+    {
+        "xml_id": "party_name_355",
+        "eng_version": "Observational Study",
+        "ru_version": "Observational Study",
+        "category_id": 6,
+        "bel_version": "Назіральнае даследаванне"
+    },
+    {
+        "xml_id": "party_name_356",
+        "eng_version": "Slow Advance",
+        "ru_version": "Slow Advance",
+        "category_id": 6,
+        "bel_version": "Павольнае прасоўванне"
+    },
+    {
+        "xml_id": "party_name_357",
+        "eng_version": "Cloak and Dagger",
+        "ru_version": "Cloak and Dagger",
+        "category_id": 6,
+        "bel_version": "Плашч і кінжал"
+    },
+    {
+        "xml_id": "party_name_358",
+        "eng_version": "Trial and Conviction",
+        "ru_version": "Trial and Conviction",
+        "category_id": 6,
+        "bel_version": "Суд і асуджэнне"
+    },
+    {
+        "xml_id": "party_name_359",
+        "eng_version": "The Hard Way",
+        "ru_version": "The Hard Way",
+        "category_id": 6,
+        "bel_version": "Цяжкі шлях"
+    },
+    {
+        "xml_id": "party_name_360",
+        "eng_version": "Protect The Weak",
+        "ru_version": "Protect The Weak",
+        "category_id": 6,
+        "bel_version": "Абарона слабых"
+    },
+    {
+        "xml_id": "party_name_361",
+        "eng_version": "Rival Collector",
+        "ru_version": "Rival Collector",
+        "category_id": 6,
+        "bel_version": "Сапернік Калекцыянер"
+    },
+    {
+        "xml_id": "party_name_362",
+        "eng_version": "The Caged Beast",
+        "ru_version": "The Caged Beast",
+        "category_id": 6,
+        "bel_version": "Звер у клетцы"
+    },
+    {
+        "xml_id": "party_name_363",
+        "eng_version": "The Relentless Crusade",
+        "ru_version": "The Relentless Crusade",
+        "category_id": 6,
+        "bel_version": "Няўмольны крыжовы паход"
+    },
+    {
+        "xml_id": "party_name_364",
+        "eng_version": "Greed is Need",
+        "ru_version": "Greed is Need",
+        "category_id": 6,
+        "bel_version": "Прагнасць - гэта патрэба"
+    },
+    {
+        "xml_id": "party_name_365",
+        "eng_version": "Gold in the Grave",
+        "ru_version": "Gold in the Grave",
+        "category_id": 6,
+        "bel_version": "Золата ў магіле"
+    },
+    {
+        "xml_id": "party_name_366",
+        "eng_version": "Composition Equilibre",
+        "ru_version": "Composition Equilibre",
+        "category_id": 6,
+        "bel_version": "Раўнавага складу"
+    },
+    {
+        "xml_id": "party_name_367",
+        "eng_version": "Raiders of the Oft Dark",
+        "ru_version": "Raiders of the Oft Dark",
+        "category_id": 6,
+        "bel_version": "Raiders of the Oft Dark"
+    },
+    {
+        "xml_id": "party_name_368",
+        "eng_version": "Headhunters",
+        "ru_version": "Headhunters",
+        "category_id": 6,
+        "bel_version": "Паляўнічыя за галовамі"
+    },
+    {
+        "xml_id": "party_name_369",
+        "eng_version": "Contingency Plan",
+        "ru_version": "Contingency Plan",
+        "category_id": 6,
+        "bel_version": "План дзеянняў у надзвычайных сітуацыях"
+    },
+    {
+        "xml_id": "party_name_370",
+        "eng_version": "Law and Order",
+        "ru_version": "Law and Order",
+        "category_id": 6,
+        "bel_version": "Правапарадак"
+    },
+    {
+        "xml_id": "party_name_371",
+        "eng_version": "The Hunting Hounds of Hell",
+        "ru_version": "The Hunting Hounds of Hell",
+        "category_id": 6,
+        "bel_version": "Паляўнічыя сабакі пекла"
+    },
+    {
+        "xml_id": "party_name_372",
+        "eng_version": "Attrition Disposition",
+        "ru_version": "Attrition Disposition",
+        "category_id": 6,
+        "bel_version": "Распараджэнне знясілення"
+    },
+    {
+        "xml_id": "party_name_373",
+        "eng_version": "Fool's Congregration",
+        "ru_version": "Fool's Congregration",
+        "category_id": 6,
+        "bel_version": "Сход дурняў"
+    },
+    {
+        "xml_id": "party_name_374",
+        "eng_version": "Vox Machina",
+        "ru_version": "Vox Machina",
+        "category_id": 6,
+        "bel_version": "Vox Machina"
+    },
+    {
+        "xml_id": "party_name_375",
+        "eng_version": "Blood and Guts",
+        "ru_version": "Blood and Guts",
+        "category_id": 6,
+        "bel_version": "Кроў і кішкі"
+    },
+    {
+        "xml_id": "party_name_376",
+        "eng_version": "The Wall",
+        "ru_version": "The Wall",
+        "category_id": 6,
+        "bel_version": "Сцяна"
+    },
+    {
+        "xml_id": "party_name_377",
+        "eng_version": "Ramming Speed",
+        "ru_version": "Ramming Speed",
+        "category_id": 6,
+        "bel_version": "Хуткасць тарана"
+    },
+    {
+        "xml_id": "party_name_378",
+        "eng_version": "Sages of Ancient Ways",
+        "ru_version": "Sages of Ancient Ways",
+        "category_id": 6,
+        "bel_version": "Мудрацы старажытных шляхоў"
+    },
+    {
+        "xml_id": "party_name_379",
+        "eng_version": "Better Safe Than Sorry",
+        "ru_version": "Better Safe, Than Sorry",
+        "category_id": 6,
+        "bel_version": "Лепш перастрахавацца, чым потым шкадаваць"
+    },
+    {
+        "xml_id": "party_name_380",
+        "eng_version": "Bloody Stunday",
+        "ru_version": "Bloody Stunday",
+        "category_id": 6,
+        "bel_version": "Крывавая нядзеля"
+    },
+    {
+        "xml_id": "party_name_381",
+        "eng_version": "Scholars of War",
+        "ru_version": "Scholars of War",
+        "category_id": 6,
+        "bel_version": "Вучоныя вайны"
+    },
+    {
+        "xml_id": "party_name_382",
+        "eng_version": "Bloodbath",
+        "ru_version": "Bloodbath",
+        "category_id": 6,
+        "bel_version": "Крывавая лазня"
+    },
+    {
+        "xml_id": "party_name_383",
+        "eng_version": "Burden of Faith",
+        "ru_version": "Burden of Faith",
+        "category_id": 6,
+        "bel_version": "Цяжар веры"
+    },
+    {
+        "xml_id": "party_name_384",
+        "eng_version": "Bloody Hell",
+        "ru_version": "Bloody Hell",
+        "category_id": 6,
+        "bel_version": "Крывавы пекла"
+    },
+    {
+        "xml_id": "party_name_385",
+        "eng_version": "Sacrosanct Vigilance",
+        "ru_version": "Sacrosanct Vigilance",
+        "category_id": 6,
+        "bel_version": "Святая пільнасць"
+    },
+    {
+        "xml_id": "party_name_386",
+        "eng_version": "Night of the Hunt",
+        "ru_version": "Night of the Hunt",
+        "category_id": 6,
+        "bel_version": "Ноч палявання"
+    },
+    {
+        "xml_id": "party_name_387",
+        "eng_version": "Blood and Iron",
+        "ru_version": "Blood and Iron",
+        "category_id": 6,
+        "bel_version": "Кроў і жалеза"
+    },
+    {
+        "xml_id": "party_name_388",
+        "eng_version": "Hemogoblins",
+        "ru_version": "Hemogoblins",
+        "category_id": 6,
+        "bel_version": "Гемагабліны"
+    },
+    {
+        "xml_id": "party_name_389",
+        "eng_version": "White Light Fever",
+        "ru_version": "White Light Fever",
+        "category_id": 6,
+        "bel_version": "Ліхаманка белага святла"
+    },
+    {
+        "xml_id": "party_name_390",
+        "eng_version": "Blood for the Blood God",
+        "ru_version": "Blood for the Blood God",
+        "category_id": 6,
+        "bel_version": "Кроў за Бога Крыві"
+    },
+    {
+        "xml_id": "party_name_391",
+        "eng_version": "A Bloody Banquet",
+        "ru_version": "A Bloody Banquet",
+        "category_id": 6,
+        "bel_version": "Крывавы банкет"
+    },
+    {
+        "xml_id": "party_name_392",
+        "eng_version": "For All that is Good",
+        "ru_version": "For All that is Good",
+        "category_id": 6,
+        "bel_version": "Для ўсяго добрага"
+    },
+    {
+        "xml_id": "party_name_393",
+        "eng_version": "A Feast of Blood",
+        "ru_version": "A Feast of Blood",
+        "category_id": 6,
+        "bel_version": "Свята крыві"
+    },
+    {
+        "xml_id": "party_name_394",
+        "eng_version": "The Last Supper",
+        "ru_version": "The Last Supper",
+        "category_id": 6,
+        "bel_version": "Тайная вячэра"
+    },
+    {
+        "xml_id": "party_name_395",
+        "eng_version": "Clown Car",
+        "ru_version": "Clown Car",
+        "category_id": 6,
+        "bel_version": "Аўтамабіль-клоун"
+    },
+    {
+        "xml_id": "party_name_396",
+        "eng_version": "Poison Jam",
+        "ru_version": "Poison Jam",
+        "category_id": 6,
+        "bel_version": "Атрутнае варэнне"
+    },
+    {
+        "xml_id": "party_name_397",
+        "eng_version": "Solid Snakes",
+        "ru_version": "Solid Snakes",
+        "category_id": 6,
+        "bel_version": "Цвёрдыя змеі"
+    },
+    {
+        "xml_id": "party_name_398",
+        "eng_version": "Sisters of Battle",
+        "ru_version": "Sisters of Battle",
+        "category_id": 6,
+        "bel_version": "Сёстры бітвы"
+    },
+    {
+        "xml_id": "party_name_399",
+        "eng_version": "Eastern Promises",
+        "ru_version": "Eastern Promises",
+        "category_id": 6,
+        "bel_version": "Усходнія абяцанні"
+    },
+    {
+        "xml_id": "party_name_400",
+        "eng_version": "The Phalanx",
+        "ru_version": "The Phalanx",
+        "category_id": 6,
+        "bel_version": "Фаланга"
+    },
+    {
+        "xml_id": "party_name_401",
+        "eng_version": "The Undesirables",
+        "ru_version": "The Undesirables",
+        "category_id": 6,
+        "bel_version": "Непажаданыя"
+    },
+    {
+        "xml_id": "party_name_402",
+        "eng_version": "Desert Wanderers",
+        "ru_version": "Desert Wanderers",
+        "category_id": 6,
+        "bel_version": "Вандроўнікі па пустыні"
+    },
+    {
+        "xml_id": "party_name_403",
+        "eng_version": "Merchant Caravan",
+        "ru_version": "Merchant Caravan",
+        "category_id": 6,
+        "bel_version": "Купецкі караван"
+    },
+    {
+        "xml_id": "party_name_404",
+        "eng_version": "Alpha Strike",
+        "ru_version": "Alpha Strike",
+        "category_id": 6,
+        "bel_version": "Альфа страйк"
+    },
+    {
+        "xml_id": "party_name_405",
+        "eng_version": "The Supreme Suppressors",
+        "ru_version": "Supreme Suppressors",
+        "category_id": 6,
+        "bel_version": "Вярхоўныя душыцелі"
+    },
+    {
+        "xml_id": "party_name_406",
+        "eng_version": "Tonight's Entertainment",
+        "ru_version": "Tonight's Entertainment",
+        "category_id": 6,
+        "bel_version": "Сённяшнія забавы"
+    },
+    {
+        "xml_id": "party_name_407",
+        "eng_version": "Masquerade",
+        "ru_version": "Masquerade",
+        "category_id": 6,
+        "bel_version": "маскарад"
+    },
+    {
+        "xml_id": "party_name_408",
+        "eng_version": "The Nutcracker Suite",
+        "ru_version": "The Nutcracker Suite",
+        "category_id": 6,
+        "bel_version": "Сюіта «Шчаўкунок»."
+    },
+    {
+        "xml_id": "party_name_409",
+        "eng_version": "Swan Lake",
+        "ru_version": "Swan Lake",
+        "category_id": 6,
+        "bel_version": "Лебядзінае возера"
+    }
+]

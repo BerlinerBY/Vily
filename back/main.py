@@ -188,6 +188,7 @@ async def upload_items(requset: List[ItemCreateInput]):
                     eng_version=item.eng_version,
                     ru_version=item.ru_version,
                     category_id=item.category_id,
+                    readiness=item.readiness,
                 )
             else:
                 new_item = models.Item(

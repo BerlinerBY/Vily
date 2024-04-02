@@ -1,7 +1,7 @@
 import requests
 import json
 
-name = "heroes.string_table"
+name = "dialogue.string_table"
 
 print("Open file")
 with open(f"json_files/{name}.json", "r") as file:

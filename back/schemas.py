@@ -11,6 +11,7 @@ class ItemCreateInput(BaseModel):
     eng_version: str
     ru_version: str
     category_id: int
+    readiness: Optional[bool] = False
 
 
 class UploadItems(BaseModel):
