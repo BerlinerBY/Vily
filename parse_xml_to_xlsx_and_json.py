@@ -8,8 +8,8 @@ t0 = time.time()
 print("Open file")
 
 ### IMPORTANT
-category_id = 2
-name = "dialogue.string_table"
+category_id = 7
+name = "miscellaneous.string_table"
 
 tree = etree.parse(f"xml_files/{name}.xml")
 root = tree.getroot()

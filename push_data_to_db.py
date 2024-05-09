@@ -1,7 +1,7 @@
 import requests
 import json
 
-name = "dialogue.string_table"
+name = "miscellaneous.string_table"
 
 print("Open file")
 with open(f"json_files/{name}.json", "r") as file:
