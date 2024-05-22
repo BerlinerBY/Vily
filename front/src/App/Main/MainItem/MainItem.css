@@ -103,13 +103,15 @@
                 display: flex;
                 margin-top: auto;
                 margin-bottom: auto;
+                margin-right: 10px;
                 height: calc(100% - 80px);
                 justify-content: center;
                 overflow-y: scroll;
 
                 .Main-Item-SourceStrings-Strings-Versions-version {
-                    max-height: calc(50% - 5px);
-                    margin-bottom: 10px;
+                    max-height: calc(50% - 20px);
+                    margin-top: 20px;
+                    margin-bottom: 20px;
                     font-size: 1vw;
                 }
             }
@@ -212,6 +214,11 @@
                 align-items: center;
                 justify-content: center;
                 width: 110px;
+                -webkit-user-select: none;
+                -webkit-touch-callout: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
 
                 img {
                     height: 80%;

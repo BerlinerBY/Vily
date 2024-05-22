@@ -13,8 +13,8 @@
 
 .SideBar-category-button {
     height: 50px;
-    width: calc(100% - 30px);
-    margin-left: 15px;
+    width: calc(100% - 20px);
+    margin-left: 10px;
     margin-top: 15px;
     display: flex;
     justify-content: flex-start;
@@ -36,13 +36,20 @@
 }
 
 .Icon-button {
-    margin-left: 10px;
+    margin-left: 8px;
+    width: 28px;
 }
 
 .Name-button {
     margin-left: 10px;
+    width: calc(100% - 46px);
 }
 
-.change_date {
+.Name-button-title {
+    overflow: hidden;
+    text-overflow: "...  ";
+}
+
+.Name-button-change_date {
     color: #8f8f8f;
 }

@@ -5,10 +5,9 @@ import copy_icon from './icons/copy.png';
 import clear_icon from './icons/clear.png';
 import save_icon from './icons/save.png';
 import { useEffect, useState } from 'react';
-import { setPreviousItem, setNextItem } from '../../../features/slices/content/contentSlice';
 import { updateItemRequest } from '../../../features/ApiRequests/MainRequests';
 
-function MainItem({changeBackground, itemsLength, 
+function MainItem({handlePreviousItem, handleNextItem,
                     selectedItemFromStore, selectedItemIndexFromStore,
                     selectedCategoryFromStore}) {
     const item = selectedItemFromStore;
@@ -20,19 +19,6 @@ function MainItem({changeBackground, itemsLength,
     useEffect(() => {
         setBelValue(item.bel_version);
     }, [item.bel_version])
-
-    const handlePreviousItem = () => {
-        if (index - 1 >= 0) {
-            dispatch(setPreviousItem(index));
-            changeBackground(index - 1);
-        }
-    };
-    const handleNextItem = () => {
-        if (index + 1 <= itemsLength - 1) {
-            dispatch(setNextItem(index));
-            changeBackground(index + 1);
-        }
-    };
 
     const submitButton = () => {
         updateItemRequest(index, item.id, belValue, dispatch);

@@ -1,7 +1,21 @@
 2. пераправерыць пераклады слоў Darkest і Dungeon 
-3. Courtyard
-4. Farmstead
-5. Hamlet = Гамлет
+3. Courtyard - Дзядзінец +
+4. Farmstead - Фальварак +
+Endless Harvest - Бясконцае жніво +
+Sleeper - Спячага(misc) +
+
+Tutorial - інструктаж + 
+Daze - Ашаламленне +
+Restoration - Аднаўленне +
+Tier - ступень +
+Cancel - скасаваць +
+Mastery - майстэрства +
+Provisioning - набыццё забеспячэння +
+
+ступені складанасці
+Glossary - слоўнік +
+RESPITE POINT - АЧКІ АДПАЧЫНКУ +
+balloons - рэплікі +
 
 
 Afflict(ion) - Пакута
@@ -57,8 +71,8 @@ Resolve Level - Узровень рашучасці
 Districts - Прадмесце
 Cove- Бухта
 Ruins - Руіны
-Warrens - Запаведнік
-Weald - Гушчар (мо памяняць?)
+Warrens - Чарвяточына +
+Weald - Гушчар +
 Sanitarium - Санаторый
 Abbey - абацтва
 Tavern - карчма
@@ -120,16 +134,18 @@ DIM LIGHT - ЦЬМЯНАЕ СВЯТЛО
 SHADOWY - ЗМЯРКАННЕ
 DARK - ЦЕМРА
 
-Normal - звычайны
-Bloodmoon - Крывавы месяц
-Stygain - Пякельны
-Radiant - Ззянне
+Normal - звычайны +
+Bloodmoon - Крывавы месяц +
+Stygian - Пякельны +
+Radiant - Ззянне +
 
-Antivenom - Супрацьяддзе
-Bandage - Павязка
-Bust - Бюст
-Camping Skill - Навык прывалу
-Combat Skill - Баявы навык
+Antivenom - Супрацьяддзе + (Anti-Venom +)
+Bandage - Павязка +
+Bust - Бюст +
+Camping - кемпінг +
+Camp - лагер +
+Camping Skill - Навык прывалу (замяніць на навык кемпінгу) +
+Combat Skill - Баявы навык -----------
 Corpse - Труп
 Crest - Герб
 Curio - Цікавостка
@@ -169,7 +185,7 @@ Hat - Капялюш
 
 Bloodletter - Крывапускальнік
 INVENTORY - Інвентар
-Hamlet - Паселішча (а не горад)
+Hamlet - Паселішча (а не горад) +
 Surprise Check - Праверка гатоўнасці?!?
 Farmstead
 Endless Harvest
@@ -180,3 +196,23 @@ Man-at-Arms - Ваяр
 Vestal - Вясталка
 
 
+STAGECOACH - Дыліжанс
+BLACKSMITH - Каваль
+GUILD - Гільдыя
+SURVIVALIST - Выжывальшчык
+TAVERN - Карчма
+ABBEY - Абацтва
+SANITARIUM - Санаторый
+NOMAD'S WAGON - ФУРМАНКА ВАНДРОЎНІКА
+
+
+DLC - Дапаўненні -
+The Crimson Court - The Crimson Court
+The Color of Madness
+
+from dialogue.string_table.xml
+1, 2, 3, 4, the human heart shall beat no more...
+5, 6, 7, 8, store the bodies in a crate...
+9, 10, 11, 12, in mind and body, I must delve...
+13, 14, 15, 16, excise the heart, the liver, the spleen...
+17, 18, 19, 20, splatter the ground with blood aplenty!

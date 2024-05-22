@@ -1,0 +1,86 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+  }
+  
+.modal-main {
+    position:fixed;
+    background: rgb(97, 93, 93);
+    width: 40%;
+    height: auto;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+
+    p, label {
+        font:
+            1rem 'Fira Sans',
+            sans-serif;
+    }
+
+    .modal-header {
+        text-align: center;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .modal-body {
+        margin-left: 10px;
+        display: flex;
+        flex-direction: row;
+
+        fieldset {
+            width: calc(50% - 50px);
+            height: 150px;
+        }
+    }
+    .model-input {
+        margin-top: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+
+        .model-input-textarea {
+            width: calc(100%);
+            height: 40px;
+            padding: 6px 10px;
+            box-sizing: border-box;
+            border: 0px solid #ccc;
+            color: #ccc;
+            border-radius: 4px;
+            background-color: #444242;
+            font-size: 20px;
+            resize: none;
+            outline: #ffffff;
+        }
+        .model-input-textarea:focus {
+            border: 2px solid #ccc; 
+        }
+    }
+    .modal-footer {
+        margin-left: 10px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+        display: flex;
+        flex-direction: row-reverse;
+
+        .modal-footer-button {
+            margin-top: 5px;
+            margin-right: 10px;            
+        }
+    }
+  }
+  
+.display-block {
+    display: inline-block;
+  }
+  
+.display-none {
+    display: none;
+  }

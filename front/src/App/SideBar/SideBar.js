@@ -50,8 +50,8 @@ function SideBar({categoryFromStore}) {
                                         <img src={xml_icon} className="SideBar-icon" alt="icon" />
                                     </div>
                                     <div className='Name-button'>
-                                        <div className='title'>{category.title}</div>
-                                        <div className='change_date'>{convertData(category.date_updated)}</div>
+                                        <div className='Name-button-title'>{category.title}</div>
+                                        <div className='Name-button-change_date'>{convertData(category.date_updated)}</div>
                                     </div>
                                 </div>
                             </div>

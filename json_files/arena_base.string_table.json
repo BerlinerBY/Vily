@@ -1,0 +1,457 @@
+[
+    {
+        "xml_id": "menu_options_element_always_show_circus_tutorials",
+        "eng_version": "Always Show Circus Tutorials",
+        "ru_version": "Всегда показывать обучение в цирке",
+        "category_id": 8,
+        "bel_version": "Заўсёды паказваць падручнікі па цырку"
+    },
+    {
+        "xml_id": "menu_options_element_playfab_sandbox",
+        "eng_version": "Use Sandbox Profile",
+        "ru_version": "null",
+        "category_id": 8,
+        "bel_version": "Выкарыстоўвайце профіль Sandbox"
+    },
+    {
+        "xml_id": "menu_options_element_playfab_private_matchmaking",
+        "eng_version": "Use Private Matchmaking Queue",
+        "ru_version": "null",
+        "category_id": 8,
+        "bel_version": "Выкарыстоўвайце прыватную чаргу падбору"
+    },
+    {
+        "xml_id": "menu_options_element_trinket_warning",
+        "eng_version": "Circus Trinket Warning",
+        "ru_version": "Предупреждение о цирковом украшении",
+        "category_id": 8,
+        "bel_version": "Папярэджанне аб цыркавой цацанцы"
+    },
+    {
+        "xml_id": "str_circus_summary",
+        "eng_version": "Compete in The Ring",
+        "ru_version": "Сражение на арене",
+        "category_id": 8,
+        "bel_version": "Спаборнічаць на рынгу"
+    },
+    {
+        "xml_id": "str_glossary_term_2001",
+        "eng_version": "Daze",
+        "ru_version": "Поражение сознания",
+        "category_id": 8,
+        "bel_version": "Ашаломленне"
+    },
+    {
+        "xml_id": "str_glossary_term_2002",
+        "eng_version": "Restoration",
+        "ru_version": "Исцеление",
+        "category_id": 8,
+        "bel_version": "Рэстаўрацыя"
+    },
+    {
+        "xml_id": "str_glossary_term_2003",
+        "eng_version": "Prestige",
+        "ru_version": "Престиж",
+        "category_id": 8,
+        "bel_version": "Прэстыж"
+    },
+    {
+        "xml_id": "str_glossary_term_2004",
+        "eng_version": "Rank",
+        "ru_version": "Ранг",
+        "category_id": 8,
+        "bel_version": "Ранг"
+    },
+    {
+        "xml_id": "str_glossary_term_2005",
+        "eng_version": "Tier",
+        "ru_version": "Уровень",
+        "category_id": 8,
+        "bel_version": "Ярус"
+    },
+    {
+        "xml_id": "str_glossary_term_2006",
+        "eng_version": "League",
+        "ru_version": "Лига",
+        "category_id": 8,
+        "bel_version": "Ліга"
+    },
+    {
+        "xml_id": "str_glossary_term_2007",
+        "eng_version": "The Circus",
+        "ru_version": "Цирк",
+        "category_id": 8,
+        "bel_version": "Цырк"
+    },
+    {
+        "xml_id": "str_glossary_term_2008",
+        "eng_version": "The Ring",
+        "ru_version": "Арена",
+        "category_id": 8,
+        "bel_version": "Кальцо"
+    },
+    {
+        "xml_id": "str_glossary_term_2009",
+        "eng_version": "Challenge",
+        "ru_version": "Вызов",
+        "category_id": 8,
+        "bel_version": "Выклік"
+    },
+    {
+        "xml_id": "str_glossary_term_2010",
+        "eng_version": "Banner",
+        "ru_version": "Знамя",
+        "category_id": 8,
+        "bel_version": "Расцяжка"
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2001",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nAn effect that forces a hero to act last in the round. If the hero has already acted this round, they will go last next round.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Эффект, который вынуждает героя действовать последним в раунде. Если герой уже действовал в этом раунде, эффект переносится на следующий.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Эфект, які прымушае героя дзейнічаць апошнім у раўндзе. Калі герой ужо дзейнічаў у гэтым раўндзе, ён пойдзе апошнім у наступным раўндзе."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2002",
+        "eng_version": "{colour_start|notable}The Crimson Court DLC{colour_end}\n{colour_start|notable}The Butcher's Circus DLC{colour_end}\nAn effect that restores health at the beginning of a hero's turn.",
+        "ru_version": "Дополнение {colour_start|notable}The Crimson Court{colour_end}\n  Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Эффект, который восстанавливает здоровье в начале хода героя.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Crimson Court DLC{colour_end} {colour_start|notable}The Butcher's Circus DLC{colour_end} Эфект, які аднаўляе здароўе ў пачатку ходу героя."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2003",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nA measurement of popularity in The Circus, used to reward contenders for repeated performance. Current prestige and rewards can be seen in the Prize Box.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Измерение успеха в цирке, служит для награждения успешных претендентов. Текущий престиж и награды можно посмотреть в призовом ящике.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Вымярэнне папулярнасці ў The Circus, якое выкарыстоўваецца для ўзнагароджання прэтэндэнтаў за паўторнае выступленне. Бягучы прэстыж і ўзнагароды можна ўбачыць у скрынцы прызоў."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2004",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nA mark of competitive prowess in The Circus. Contenders increase in rank by gaining skulls through victory, but may lose them in defeat. Rank progress can be found on the Ranking Board.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Знак конкурентоспособности в цирке. Претенденты растут в ранге, получая черепа за победы — или теряют их при проигрыше. Ранг можно посмотреть в таблице лидеров.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Знак спаборніцкага майстэрства ў The Circus. Прэтэндэнты павышаюць ранг, атрымліваючы чэрапы праз перамогу, але могуць страціць іх у выпадку паразы. Прагрэс у рэйтынгу можна знайсці на рэйтынгавай дошцы."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2005",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nEach ranked league in The Circus has several tiers. The lowest numbered tier in a league is the highest.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Каждая лига цирка состоит из нескольких уровней. Чем меньше номер уровня, тем выше он стоит.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Кожная рэйтынгавая ліга ў The Circus мае некалькі узроўняў. Узровень з самым нізкім нумарам у лізе з'яўляецца самым высокім."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2006",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nA bracket of ranking in The Circus comprised of several tiers. Once a contender enters a new league, they cannot fall into a lower league by losing.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Группа рангов в цирке состоит из нескольких уровней. Достигнув новой лиги, нельзя вернуться в более низкую даже при проигрыше.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Група рэйтынгу ў The Circus, якая складаецца з некалькіх узроўняў. Калі прэтэндэнт трапляе ў новую лігу, ён не можа трапіць у ніжэйшую лігу, прайграўшы."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2007",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nA place of bloodshed and revelry where you can battle against other contenders. You must be online and logged into Steam to enter The Circus.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Кровавое и грязное место, где можно сразиться с другими претендентами. Чтобы войти в цирк, подключитесь к сети и войдите в аккаунт Steam.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Месца кровапраліцця і разгулу, дзе вы можаце змагацца з іншымі супернікамі. Вы павінны быць онлайн і ўвайсці ў Steam, каб увайсці ў The Circus."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2008",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nA fighting pit in The Circus where you can find opponents to battle.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Бойцовая яма в цирке, где можно найти соперников для боя.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Баявая яма ў The Circus, дзе вы можаце знайсці праціўнікаў для барацьбы."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2009",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nAn invitation to battle in the Dueling Grounds. Challenges can be sent to players in your Steam friends list.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Вызов на бой на дуэльной площадке. Его можно отправить игрокам из списка друзей в Steam.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Запрашэнне да бітвы на пляцоўцы дуэлі. Выклікі можна адпраўляць гульцам у вашым спісе сяброў Steam."
+    },
+    {
+        "xml_id": "str_glossary_term_definition_2010",
+        "eng_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end}\nPersonal heraldry displayed in The Circus, customized using the banner designer.",
+        "ru_version": "Дополнение {colour_start|notable}The Butcher's Circus{colour_end}\n  Личные гербы, выставленные в цирке, можно изменить при помощи редактора знамен.",
+        "category_id": 8,
+        "bel_version": "{colour_start|notable}The Butcher's Circus DLC{colour_end} Асабістая геральдыка, адлюстраваная ў The Circus, наладжаная з дапамогай дызайнера банэраў."
+    },
+    {
+        "xml_id": "str_open_store_1117860",
+        "eng_version": "Download the Butcher's Circus DLC",
+        "ru_version": "Скачать дополнение The Butcher's Circus",
+        "category_id": 8,
+        "bel_version": "Спампаваць DLC Butcher's Circus"
+    },
+    {
+        "xml_id": "str_open_store_ans_no",
+        "eng_version": "Cancel",
+        "ru_version": "Отмена",
+        "category_id": 8,
+        "bel_version": "Адмяніць"
+    },
+    {
+        "xml_id": "str_open_store_ans_yes",
+        "eng_version": "Store",
+        "ru_version": "Перейти в магазин",
+        "category_id": 8,
+        "bel_version": "Крама"
+    },
+    {
+        "xml_id": "str_start_screen_circus_button",
+        "eng_version": "The Butcher's Circus",
+        "ru_version": "The Butcher's Circus",
+        "category_id": 8,
+        "bel_version": "Цырк мясніка"
+    },
+    {
+        "xml_id": "str_vo_arena_season_ended",
+        "eng_version": "The bleachers are emptied, the arena washed clean - the inexorable cycle of bloodshed begins anew.",
+        "ru_version": "Трибуны пусты, арена очищена. Неумолимый цикл кровопролития начинается заново.",
+        "category_id": 8,
+        "bel_version": "Трыбуны апусцелі, арэна вымыта - няўмольны цыкл кровапраліцця пачынаецца зноўку."
+    },
+    {
+        "xml_id": "str_vo_pit_town_event_arena_appear_0",
+        "eng_version": "The tents are pitched, banners fly, and the corpse wagons stand at the ready.  The Circus has come to town.",
+        "ru_version": "Шатры разбиты, флаги развеваются на ветру, труповозки стоят наготове. В город приехал цирк.",
+        "category_id": 8,
+        "bel_version": "Стаяць палаткі, лунаюць харугвы, стаяць напагатове фурманкі з трупамі. Цырк прыехаў у горад."
+    },
+    {
+        "xml_id": "str_vo_pit_town_event_arena_redirect_0",
+        "eng_version": "Festivity and ferocity - united for the decadent pleasure of a bawdy crowd.",
+        "ru_version": "Веселье и кровь — вот в чем счастье простого народа.",
+        "category_id": 8,
+        "bel_version": "Святочнасць і лютасць - аб'яднаныя дзеля дэкадэнцкага задавальнення распуснага натоўпу."
+    },
+    {
+        "xml_id": "town_event_description_arena_first",
+        "eng_version": "A traveling circus has arrived on the outskirts of town, bringing with them all manner of crude sport.",
+        "ru_version": "Бродячий цирк встал на окраинах города и привез с собой кровь и смерть.",
+        "category_id": 8,
+        "bel_version": "Вандроўны цырк прыбыў на ўскраіну горада, прыносячы з сабой разнастайныя грубыя віды спорту."
+    },
+    {
+        "xml_id": "town_event_description_arena_win",
+        "eng_version": "The jeering crowd demands blood! Only a sacrifice will slake its thirst.",
+        "ru_version": "Толпа жаждет крови! Ее устроят только человеческие жертвы!",
+        "category_id": 8,
+        "bel_version": "Здзеклівы натоўп патрабуе крыві! Толькі ахвяра здаволіць яго смагу."
+    },
+    {
+        "xml_id": "town_event_info_format_roster_stress_heal",
+        "eng_version": "Enter The Ring this week to relieve %d stress from all heroes.",
+        "ru_version": "Выйдите на арену на этой неделе, чтобы снять стресс (%d) со всех героев.",
+        "category_id": 8,
+        "bel_version": "На гэтым тыдні выйдзіце ў The Ring, каб зняць %d стрэс ад усіх герояў."
+    },
+    {
+        "xml_id": "town_event_info_format_roster_stress_heal_win",
+        "eng_version": "Win a match in The Ring this week to relieve %d stress from all heroes.",
+        "ru_version": "Выиграйте матч на арене на этой неделе, чтобы снять стресс (%d) со всех героев.",
+        "category_id": 8,
+        "bel_version": "Выйграйце матч у The Ring на гэтым тыдні, каб зняць %d стрэс з усіх герояў."
+    },
+    {
+        "xml_id": "town_event_title_arena_first",
+        "eng_version": "The Butcher's Circus",
+        "ru_version": "The Butcher's Circus",
+        "category_id": 8,
+        "bel_version": "Цырк мясніка"
+    },
+    {
+        "xml_id": "town_event_title_arena_win",
+        "eng_version": "Bloodthirsty Crowds",
+        "ru_version": "Кровожадные толпы",
+        "category_id": 8,
+        "bel_version": "Крыважэрныя натоўпы"
+    },
+    {
+        "xml_id": "town_event_tooltip_arena_any",
+        "eng_version": "Travel to The Circus",
+        "ru_version": "Дорога в цирк",
+        "category_id": 8,
+        "bel_version": "Падарожжа ў цырк"
+    },
+    {
+        "xml_id": "town_event_tooltip_arena_win",
+        "eng_version": "Travel to The Circus",
+        "ru_version": "Дорога в цирк",
+        "category_id": 8,
+        "bel_version": "Падарожжа ў цырк"
+    },
+    {
+        "xml_id": "town_name_circus",
+        "eng_version": "Butcher's Circus",
+        "ru_version": "The Butcher's Circus",
+        "category_id": 8,
+        "bel_version": "Мясніцкі цырк"
+    },
+    {
+        "xml_id": "str_circus_unlocked",
+        "eng_version": "{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.",
+        "ru_version": "{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} Стало доступно здание: %s.",
+        "category_id": 8,
+        "bel_version": "{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} %s зараз разблакіраваны."
+    },
+    {
+        "xml_id": "str_confirm_dlc_arena_mp",
+        "eng_version": "Enable The Butcher's Circus?",
+        "ru_version": "Включить дополнение The Butcher's Circus?",
+        "category_id": 8,
+        "bel_version": "Уключыць The Butcher's Circus?"
+    },
+    {
+        "xml_id": "str_confirm_dlc_arena_mp_yes",
+        "eng_version": "Enable",
+        "ru_version": "Включить",
+        "category_id": 8,
+        "bel_version": "Уключыць"
+    },
+    {
+        "xml_id": "str_confirm_dlc_arena_mp_no",
+        "eng_version": "Cancel",
+        "ru_version": "Отмена",
+        "category_id": 8,
+        "bel_version": "Адмяніць"
+    },
+    {
+        "xml_id": "x_unused_allow",
+        "eng_version": "Allow",
+        "ru_version": "Разрешить",
+        "category_id": 8,
+        "bel_version": "Дазволіць"
+    },
+    {
+        "xml_id": "x_unused_no_thanks",
+        "eng_version": "No Thanks",
+        "ru_version": "Нет, спасибо",
+        "category_id": 8,
+        "bel_version": "Не, дзякуй"
+    },
+    {
+        "xml_id": "x_unuxed_disable",
+        "eng_version": "Disable",
+        "ru_version": "Отключить",
+        "category_id": 8,
+        "bel_version": "Адключыць"
+    },
+    {
+        "xml_id": "menu_options_element_allow_analytics_and_multiplayer",
+        "eng_version": "Enable Data Collection and Multiplayer",
+        "ru_version": "Включить сбор данных и многопользовательский режим",
+        "category_id": 8,
+        "bel_version": "Уключыць збор даных і шматкарыстальніцкую гульню"
+    },
+    {
+        "xml_id": "allow_analytics_and_multiplayer_query",
+        "eng_version": "In order to access multiplayer features in The Butcher’s Circus DLC you must enable data collection.\nYou can change this setting in the options menu at any time.",
+        "ru_version": "Чтобы включить многопользовательский режим в дополнении The Butcher’s Circus, необходимо разрешить сбор данных.\n Этот параметр можно изменить в меню в любой момент.",
+        "category_id": 8,
+        "bel_version": "Каб атрымаць доступ да шматкарыстальніцкіх функцый у The Butcher's Circus DLC, вы павінны ўключыць збор даных. Вы можаце змяніць гэты параметр у меню параметраў у любы час."
+    },
+    {
+        "xml_id": "allow_analytics_and_multiplayer_query_yes",
+        "eng_version": "Enable Data Collection",
+        "ru_version": "Включить сбор данных",
+        "category_id": 8,
+        "bel_version": "Уключыць збор даных"
+    },
+    {
+        "xml_id": "allow_analytics_and_multiplayer_query_no",
+        "eng_version": "Disable Data Collection",
+        "ru_version": "Отключить сбор данных",
+        "category_id": 8,
+        "bel_version": "Адключыць збор даных"
+    },
+    {
+        "xml_id": "menu_options_element_tooltip_allow_analytics_and_multiplayer",
+        "eng_version": "See EULA on the Darkest Dungeon Steam store page for our privacy policy.",
+        "ru_version": "Политику конфиденциальности можно найти на нашей странице в Steam, в разделе с лицензионным соглашением.",
+        "category_id": 8,
+        "bel_version": "Глядзіце EULA на старонцы крамы Steam Darkest Dungeon, каб даведацца пра нашу палітыку прыватнасці."
+    },
+    {
+        "xml_id": "str_backend_disabled",
+        "eng_version": "In order to access multiplayer features in The Butcher’s Circus DLC you must enable data collection.\nYou can change this setting in the options menu at any time.",
+        "ru_version": "Чтобы включить многопользовательский режим в дополнении The Butcher’s Circus, необходимо разрешить сбор данных.\n Этот параметр можно изменить в меню в любой момент.",
+        "category_id": 8,
+        "bel_version": "Каб атрымаць доступ да шматкарыстальніцкіх функцый у The Butcher's Circus DLC, вы павінны ўключыць збор даных. Вы можаце змяніць гэты параметр у меню параметраў у любы час."
+    },
+    {
+        "xml_id": "str_initializing_analytics",
+        "eng_version": "...",
+        "ru_version": "...",
+        "category_id": 8,
+        "bel_version": "..."
+    },
+    {
+        "xml_id": "str_ui_guard_break",
+        "eng_version": "Guardbreak!",
+        "ru_version": "Блок пробит!",
+        "category_id": 8,
+        "bel_version": "Узлом варты!"
+    },
+    {
+        "xml_id": "tray_icon_tooltip_death_blow_resistance_permanent_debuff",
+        "eng_version": "-%d%% Deathblow resistance",
+        "ru_version": "-%d%% к сопротивлению смертельному удару",
+        "category_id": 8,
+        "bel_version": "-%d%% супраціўляльнасць смяротным ударам"
+    },
+    {
+        "xml_id": "trinket_attack_crit_additional_effects_hit",
+        "eng_version": "On Attack Crit:",
+        "ru_version": "При крит. атаке:",
+        "category_id": 8,
+        "bel_version": "Пры атацы:"
+    },
+    {
+        "xml_id": "trinket_melee_attack_skill_additional_effects_hit",
+        "eng_version": "On Melee Attack Hit:",
+        "ru_version": "При успешной атаке в ближнем бою:",
+        "category_id": 8,
+        "bel_version": "Пры атацы ў блізкім бою:"
+    },
+    {
+        "xml_id": "trinket_ranged_attack_skill_additional_effects_hit",
+        "eng_version": "On Ranged Attack Hit:",
+        "ru_version": "При успешной атаке издали:",
+        "category_id": 8,
+        "bel_version": "Пры ўдары далёкай атакі:"
+    },
+    {
+        "xml_id": "trinket_riposte_skill_additional_effects_hit",
+        "eng_version": "On Riposte Hit:",
+        "ru_version": "При успешном парировании:",
+        "category_id": 8,
+        "bel_version": "Пры зваротным удары:"
+    },
+    {
+        "xml_id": "tray_icon_tooltip_buff_duration_after_round_format",
+        "eng_version": "%s (Until end of Round %d)",
+        "ru_version": "%s (до конца раунда %d)",
+        "category_id": 8,
+        "bel_version": "%s (Да канца раунда %d)"
+    },
+    {
+        "xml_id": "skill_ignore_deathsdoor",
+        "eng_version": "Bypass {colour_start|deathblow}Death's Door{colour_end}",
+        "ru_version": "Игнорировать состояние {colour_start|deathblow}при смерти{colour_end}",
+        "category_id": 8,
+        "bel_version": "Абыдзіце {colour_start|deathblow}Дзверы смерці{colour_end}"
+    },
+    {
+        "xml_id": "front_end_controls_element_load_circus",
+        "eng_version": "Enter Circus",
+        "ru_version": "Войти в цирк",
+        "category_id": 8,
+        "bel_version": "Увайдзіце ў цырк"
+    },
+    {
+        "xml_id": "menu_options_element_alternate_controller_glyphs",
+        "eng_version": "Alternative Controller Glyphs",
+        "ru_version": "Альтернативные символы",
+        "category_id": 8,
+        "bel_version": "Альтэрнатыўныя гліфы кантролера"
+    }
+]
