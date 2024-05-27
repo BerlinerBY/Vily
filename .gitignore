@@ -1,8 +1,10 @@
 /env
 TODO.txt
 curios_table.xlsx
-json_temp/*
-xlsx_files/*
-xlsx_files_temp/*
+json_temp
+json_files
+xlsx_files
+xlsx_files_temp
 Web-app.drawio
 xml_files_steam
+scripts/xml/__pycache__

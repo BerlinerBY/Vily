@@ -14,7 +14,7 @@ def get_data(category_id: int):
 
 def add_data_to_xml(filename, data):
     # Parse the existing XML file
-    tree = etree.parse(f'../../xml_files/{filename}')
+    tree = etree.parse(f'../../files_input/{filename}')
     root = tree.getroot()
 
     # Create a new language element
@@ -40,7 +40,7 @@ def add_data_to_xml(filename, data):
 
     # Write the updated XML tree to the file
     output_tree = etree.ElementTree(root)
-    output_tree.write(f'../../xml_files_output/{filename}', pretty_print=True, xml_declaration=True, encoding="utf-8")
+    output_tree.write(f'../../files_output/{filename}', pretty_print=True, xml_declaration=True, encoding="utf-8")
 
     return True
 

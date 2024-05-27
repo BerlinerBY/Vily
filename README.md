@@ -1,204 +1,172 @@
-# Алгарытм перакладу
-## 1. Збор данных
+# Вілы (Vily)
 
-1. Адкрываем файл `parse_xml_to_xlsx_and_json.py`. І мяняем у ім палі _category_id_ і _name_. 
+Добры дзень, шаноўныя. Гэты праект з'яўляецца дапамогай аматарам перакладу гульняў на беларуску мову.
 
-2. Запускаем файл `parse_xml_to_xlsx_and_json.py` 
+Праца з "праграмай" складаецца з дзьвух частак:
+1. Апрацоўка файлаў лакалізацыі.
+2. Рэдактура аўтаматычнага перакладу.
 
-    ```
-    python parse_xml_to_xlsx_and_json.py
-    ```
+План:
+1. [Частка першая](#частка-першая-scriptsxml)
+2. [Частка другая](#частка-другая)
+    1. [Праца з радком](#праца-з-радком)
+    2. [Праца з радкамі](#праца-з-радкамі)
+3. [Выкарыстанне](#выкарыстанне)
+4. [Усталёўка](#усталёўка)
+5. [Планы](#планы)
+6. [P.S.](#ps)
 
-3. Генеруем json-файл фармату і захоўваем у дырэкторыю json_temp:
+## Частка першая (./scripts/xml)
+### Як працуе:
+1. Скануе дырэкторыю з файламі лакалізацыі
+2. Па чарзе парсіць файлы
+3. Аўтаматычна перакладае іх з англійскай на беларускую
+4. Запісвае ў БД
+5. Вынімае данныя з базы
 
-    ```JSON
-    [
-        {
-            "xml_id": "str_curio_content_nothing",
-            "eng_version": "Error - no curio found!",
-            "ru_version": "Ошибка: диковинка не найдена!",
-            "category_id": 1
-        },
-        {
-            "xml_id": "str_curio_no_negative_quirks_to_remove",
-            "eng_version": "No negative quirks to remove.",
-            "ru_version": "Негативных черт нет.",
-            "category_id": 1
-        },
-        ...
-    ]
-    ```
-2. Генеруем xlsx-файл фармату і захоўваем у дырэкторыю xlsx_files_temp:
+Гэтая частка праграмы пабудаваная вакол гульні Darkest Dungeon. Таму, вам, напэўна, будзе патрэбна адаптаваць яе пад сваю. Фармат лакалізацыі Darkest Dungeon:
+```XML
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <language id="english">
+    <entry id="str_curio_no_negative_quirks_to_remove"><![CDATA[No negative quirks to remove.]]></entry>
+    <entry id="str_curio_title_bandits_trapped_chest"><![CDATA[Bandit's Trapped Chest]]></entry>
+  </language>
+  <language id="french">
+    <entry id="str_curio_no_negative_quirks_to_remove"><![CDATA[Aucun attribut négatif à supprimer.]]></entry>
+    <entry id="str_curio_title_bandits_trapped_chest"><![CDATA[Coffre piégé de bandit]]></entry>
+  </language>
+<root>
+```
 
-    |   | xml_id                                              | eng_version_for_tr                                  | category_id |
-    |---|-----------------------------------------------------|-----------------------------------------------------|-------------|
-    | 0 | str_curio_title_nothing                             | Error - no curio found!                             | 1           |
-    | 1 | str_curio_content_nothing                           | Error - no curio found!                             | 1           |
-    | 2 | str_curio_no_negative_quirks_to_remove              | No negative quirks to remove.                       | 1           |
-    | 3 | str_curio_title_bandits_trapped_chest               | Bandit's Trapped Chest                              | 1           |
-    | 4 | str_curio_content_bandits_trapped_chest             | Something doesn't look quite right with this one... | 1           |
-    | 5 | str_curio_tooltip_investigate_bandits_trapped_chest | Open the chest...                                   | 1           |
+Каб было прасцей, усё зроблена так, што трэба толькі перапісаць парсер (знаходзіцца ў `parse_xml_to_xlsx_and_json.py`) і экстрактар данных з БД (`write_output_xml.py`).
 
-## 2. "Машынны" пераклад
-Бяром xlsx-файл і ідзем на Google Перакладчык. Абіраем `Дакументы`. Перакладаем яго, спампоўваем і кладзем яго ў дырэкторыю xlsx_files.
 
-|   | xml_id                                               |  eng_version_for_tr                               |  category_id |
-|---|------------------------------------------------------|---------------------------------------------------|--------------|
-| 0 |  str_curio_title_nothing                             |  Памылка - кур'ёз не знойдзены!                   | 1            |
-| 1 |  str_curio_content_nothing                           |  Памылка - кур'ёз не знойдзены!                   | 1            |
-| 2 |  str_curio_no_negative_quirks_to_remove              |  Няма негатыўных дзівацтваў, якія трэба выдаліць. | 1            |
-| 3 |  str_curio_title_bandits_trapped_chest               |  Куфар бандыта ў пастцы                           | 1            |
-| 4 |  str_curio_content_bandits_trapped_chest             |  З гэтым нешта не так...                          | 1            |
-| 5 |  str_curio_tooltip_investigate_bandits_trapped_chest |  Адкрыйце куфар...                                | 1            |
 
-## 3. Зброрка вынікаў у json-файл
-
-1. Адкрываем файл `fusion_data.py` і мяняем у ім поле _name_.
-
-2. Запускаем файл `fusion_data.py`
-    ```
-    python fusion_data.py
-    ```
-    Каб скампанаваць вынікі папярэдніх крокаў у адзіны json-файл фармата: 
-    ```JSON
-    [
-        {
-            "xml_id": "str_curio_knife_rack_effect",
-            "eng_version": "The hero receives a nasty gash.",
-            "ru_version": "Герой сильно порезался.",
-            "category_id": 1,
-            "bel_version": "Герой атрымлівае непрыемную рану."
-        },
-        {
-            "xml_id": "str_curio_knife_rack_bandage_loot",
-            "eng_version": "The bandage protects the hero's hands during the search.",
-            "ru_version": "Повязка защищает руки героя во время осмотра.",
-            "category_id": 1,
-            "bel_version": "Павязка абараняе рукі героя падчас пошукаў."
-        },
-    ]
-    ```
-
-## 4. Закідваем файл ў базу данных
-
-- Дадаць катэгорыю у базу данных.
-
+Аб'екты(Мадэлі):
+1. Катэгорыя. У кантэксце Darkest Dungeon, катэгорыяй з'яўляецца файл з лакалізацыяй.
+У БД катэгорыя мае наступныя палі:
     ```JSON
     {
-        "title": "heroes.string_table.xml",
-        "date_updated": "2024-03-21T17:08:03",
-        "id": 3
+        "title": "miscellaneous.string_table.xml",
+        "date_updated": "2024-05-27T14:44:48",
+        "id": 1
+    }
+    ```
+    Каб самастойна стварыць новую катэгорыю дастаткова даслаць запыт на адрас `http://127.0.0.1:8000/api/category` з json фармата 
+    ```JSON
+    {
+        "title": "your_title"
     }
     ``` 
-- Адкрыць файл `push_data_to_db.py` і памяняць _name_.
-- Запусціць `push_data_to_db.py`
-    ```
-    python push_data_to_db.py
-    ```
+    Поле `title` з'яўляецца адзіным абавязковым для стварэння катэгорыі.
 
+2. Айтэм. У кантэксце Darkest Dungeon, айтэмам з'яўляецца радок у файле лакалізацыі. У БД айтэм мае наступныя палі:
     ```JSON
     {
-        'status_code': 200, 
-        'detail': {'status': '200', 'msg': 'Successfully'}, 
-        'headers': None
+        "eng_version": "Bandit's Trapped Chest",
+        "id": 4,
+        "readiness": false,
+        "date_updated": "2024-03-20T16:10:49",
+        "xml_id": "str_curio_title_bandits_trapped_chest",
+        "bel_version": "Бандыцкі куфар з пасткай",
+        "ru_version": "Сундук с ловушкой",
+        "data_created": "2024-03-19T20:29:29",
+        "category_id": 1
     }
     ```
+    Каб самастойна стварыць новы айтэм дастаткова даслаць запыт на адрас `http://127.0.0.1:8000/api/item` з json фармата 
+    ```JSON
+    {
+        "xml_id": "buff_rule_tooltip_monster_type_count_min",
+        "eng_version": "%s vs %s",
+        "ru_version": "%s в бою с противниками типа «%s»",
+        "category_id": 7
+    }
+    ```
+    Усе, прадсаўленыя ў прыкладзе палі, з'яўляюцца абавязковымі.
 
-## 5. Спампоўваем данныя з БД і запісваем іх у новыя xml-файлы
+## Частка другая
 
-1. Запускаем файл `write_output_xml.py`
+Тут усё значна прасцей, бо другая частка складаецца выключна з веб-праграмы. Праграмма складаецца з трох відаў узаемадзеяння:
+1. Праца з катэгорыямі (тут іх можна толькі выбіраць)
+2. Праца з радком
+3. Праца з радкамі
+![alt text](readmi_source/first.png)
 
+### Праца з радком
+Складаецца з (зверху ў ніз):
+1. Шапка, дзе паказаны дата апошняга рэдагавання, статус (DONE/RAW) і кнопкі навігацыі.
+2. Прыклады лакалізацыі на дзвух мовах.
+3. Кантэкст (назва файла, адкуль узяты радок, і ключ/id па якім яго можна знайсці ў файле)
+4. Поле для рэдагавання. Акрамя самаго поля ёсць тры кнопкі (капіраваць, ачысціць поле і захаваць)
+5. Поле з каментарыямі да радка (зараз не працуе)
+![alt text](readmi_source/second.png)
 
-## P.S. 
-### На ўсякі выпадак раю зрабіць просценькую праверку паміж старымі і новымі файламі
+### Праца з радкамі
 
-Для гэтага трэба скарыстацца `find_diff.py`
+Тут усё як і ў катэгорый, за выключэннем таго, што тут ёсць магчымасць ажыцяўляць пошук.
+![alt text](readmi_source/search.png)
+1. Пошук ва ўсіх катэгорыях (зараз не працуе)
+2. Пошук у бягучай катэгорыі. Калі выбраць гэты від пошуку, з'явіцца дадатковае поле з 4 варыянтамі дадатковых налад.
+    1) Шукаць радкі па ключу/id
+    2) Па першай мове (пакуль што ў наладах гэта англійская)
+    3) Па другой мове (пакуль што ў наладах гэта руская)
+    4) Па радкам з беларускай мовай
+    ![alt text](readmi_source/search2.png)
 
-Мне гэта спатрэбілася, бо я пачынаў рабіць пераклад з не сцімаўскай версіі гульні. У выніку атрымаў такі вывад (_пісаўся скрыпт хутка, таму доўга апроцоўвае вялікія файлы_):
+__!!! Падчас пошуку ігнаруюцца верхнія і ніжнія рэгістры__.
 
+Прыклад пошуку з дадатковымі наладамі (відэа ў добрай якасці можна паглядзець `readmi_source/search.webm`):
+![alt text](readmi_source/search.gif)
+
+## Выкарыстанне
+
+Для таго, каб скарыстацца Віламі, вам трэба:
+1. Змясціць вашыя файлы/файл з лакалізацыіяй у дырэкторыю `files_input`.
+2. Калі патрэбна, адрэгаваць парсер у файле `parse_xml_to_xlsx_and_json.py`.
+3. Запусціць backend-сервер актываваўшы перад гэтым віртуальнае асяроддзе Python
+    ```bash
+    (env) user@laptop:~/Vily/back$ uvicorn main:app --reload
+    ```
+4. Запусціць файл 
+    ```bash
+    (env) user@laptop:~/Vily/scripts/xml$ python main_script.py
+    ```
+5. Зараз можна запускаць веб-сервер. Праграма сама адкрыецца ў браўзеры (калі не, дык зайдзіце ў браўзер і пошук устаўце `http://localhost:3000/`)
+    ```bash
+    (env) user@laptop:~/Vily/front$ npm start
+    ```
+
+Каб выгрузіць данныя з праграммы трэба:
+- Калі не змянялі парсер, проста запусціце `write_output_xml.py`
+- Калі змянялі, то вам трэба змяніць і `write_output_xml.py` пад вас
+
+## Усталёўка
+1. Спампуйце праект любым спосабам
+```bash
+git clone https://github.com/BerlinerBY/Vily.git
 ```
-(env) user@user: (path)$ python find_diff.py
-Old xml-files --- 16
-New xml-files --- 16
-iOS.string_table.xml : old - 121, new - 121
-121---121
-old --- []
-new --- []
------------
-backertrinkets.string_table.xml : old - 293, new - 293
-293---293
-old --- []
-new --- []
------------
-miscellaneous.string_table.xml : old - 4045, new - 4047
-4045---4047
-old --- []
-new --- ['buff_rule_tooltip_attacking_monster_type', 'buff_rule_tooltip_monster_type_count_min']
------------
-workshop.string_table.xml : old - 2, new - 2
-2---2
-old --- []
-new --- []
------------
-dialogue.string_table.xml : old - 6302, new - 6302
-6302---6302
-old --- []
-new --- []
------------
-curios.string_table.xml : old - 433, new - 433
-433---433
-old --- []
-new --- []
------------
-apple_inapps.string_table.xml : old - 17, new - 17
-17---17
-old --- []
-new --- []
------------
-steamdeck.string_table.xml : old - 147, new - 147
-147---147
-old --- []
-new --- []
------------
-journal.string_table.xml : old - 46, new - 46
-46---46
-old --- []
-new --- []
------------
-heroes.string_table.xml : old - 577, new - 577
-577---577
-old --- []
-new --- []
------------
-arena_base.string_table.xml : old - 65, new - 65
-65---65
-old --- []
-new --- []
------------
-switch.string_table.xml : old - 218, new - 218
-218---218
-old --- []
-new --- []
------------
-PSN.string_table.xml : old - 509, new - 509
-509---509
-old --- []
-new --- []
------------
-party_names.string_table.xml : old - 411, new - 411
-411---411
-old --- []
-new --- []
------------
-xb1.string_table.xml : old - 194, new - 194
-194---194
-old --- []
-new --- []
------------
-names.string_table.xml : old - 562, new - 562
-562---562
-old --- []
-new --- []
------------
-
+2. Backend
+```bash
+user@laptop:~/Vily$ python -m venv env
+user@laptop:~/Vily$ sourse env/bin/activate
+(env) user@laptop:~/Vily$ pip install -r back/requirements.txt
+``` 
+3. Frontend
+```bash
+user@laptop:~/Vily/front$ npm install
 ```
+
+## Планы
+
+1. Дадаць пошук ва ўсіх катэгорыях.
+2. Прывязаць Enter да кнопкі захавання.
+3. Выправіць навігацыю па спісе радкоў з дапамогай стрэлак.
+4. Падумаць над тым, каб запакаваць гэты праект у партатыўную дэсктопную праграму.
+Чарга не адпавядае важнасці планаў.
+5. Выпраўленне багаў.
+
+## P.S.
+
+Калі знойдзеце нейкія памылкі, апісвайце іх у Issues (пажадана з дакладным апісаннем і відэа)
