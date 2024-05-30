@@ -29,8 +29,7 @@ function Main({selectedCategoryFromStore, itemsFromStore, selectedItemIndexFromS
             document.getElementById('item_button_' + itemButtonID).style.backgroundColor='';
         }
         document.getElementById('item_button_' + itemIndex).style.backgroundColor="#232323";
-
-        setItemButtonID(itemIndex);        
+        setItemButtonID(itemIndex);
     };
 
     const goToItem = (index) => {
@@ -109,6 +108,7 @@ function Main({selectedCategoryFromStore, itemsFromStore, selectedItemIndexFromS
       }, {once: true});
 
     useEffect(() => {
+        setItemButtonID(-1);
         setShowSearchPanel(false);
         getItemsRequest(selectedCategory, dispatch);
         // eslint-disable-next-line react-hooks/exhaustive-deps
