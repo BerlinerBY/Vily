@@ -5,7 +5,7 @@ import search_image from '../icons/search.png'
 import { useEffect, useState } from 'react';
 
 function SearchPanel({searchResultList, searchValue, transferDataToSearch,
-            handleCloseSearchPanel, changeItemBySearch, xml_flag}) {
+            handleCloseSearchPanel, changeItemBySearch, field_flag}) {
     const [value, setValue] = useState(searchValue);
     const [selectedItem, setSelectedItem] = useState(0);
 
@@ -15,7 +15,7 @@ function SearchPanel({searchResultList, searchValue, transferDataToSearch,
 
     const handleSearch = () => {
         setSelectedItem(0);
-        transferDataToSearch(xml_flag, value);
+        transferDataToSearch(field_flag, value);
     };
 
     const handlePreviousSearchItem = () => {

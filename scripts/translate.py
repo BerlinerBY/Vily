@@ -15,21 +15,23 @@ def translate(file_name: str):
         f_button = "//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[1]/c-wiz/div[2]/button"
         s_button = "//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[1]/c-wiz/div[5]/button"
 
-        print("    Choose English")
+        print("    Choose Main Language")
+        l_code = "en"
         page.wait_for_selector(f_button)
         page.locator(f_button).click()
-        en_button = ""
+        l_button = ""
         for i in range(1, page.locator("xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[1]/div/div[3]/div/div[3]/span").count()):
-            if page.locator(f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[1]/div/div[3]/div/div[3]/span[{i}]/div[1]").get_attribute("data-language-code") == "en":
-                en_button = f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[1]/div/div[3]/div/div[3]/span[{i}]"
-        page.locator(en_button).click()
+            if page.locator(f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[1]/div/div[3]/div/div[3]/span[{i}]/div[1]").get_attribute("data-language-code") == l_code:
+                l_button = f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[1]/div/div[3]/div/div[3]/span[{i}]"
+        page.locator(l_button).click()
 
         print("    Choose Belarus")
+        b_code = "be"
         page.wait_for_timeout(70)
         page.locator(s_button).click()
         be_button = ""
         for i in range(1, page.locator("xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[2]/div/div[3]/div/div[2]/span").count()):
-            if page.locator(f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[2]/div/div[3]/div/div[2]/span[{i}]/div[1]").get_attribute("data-language-code") == "be":
+            if page.locator(f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[2]/div/div[3]/div/div[2]/span[{i}]/div[1]").get_attribute("data-language-code") == b_code:
                 be_button = f"xpath=//html/body/c-wiz/div/div[2]/c-wiz/div[3]/c-wiz/div[1]/c-wiz/div[2]/c-wiz/div[2]/div/div[3]/div/div[2]/span[{i}]"
         page.locator(be_button).click()
 

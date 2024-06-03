@@ -22,7 +22,7 @@ function Main({selectedCategoryFromStore, itemsFromStore, selectedItemIndexFromS
     const [showMWSearch, setShowMWSearch] = useState(false);
     const [searchResultList, setSearchResultList] = useState([]);
     const [searchValue, setSearchValue] = useState([]);
-    const [xml_flag, setXml_flag] = useState('');
+    const [field_flag, setField_flag] = useState('');
 
     const changeBackground = (itemIndex) => {
         if (itemButtonID !== -1) {
@@ -66,7 +66,7 @@ function Main({selectedCategoryFromStore, itemsFromStore, selectedItemIndexFromS
     const transferDataToSearch = (flag, value) => {
         // get data from MWSearch and transfet it to SearchPanel
         // enable SearchPanel
-        setXml_flag(flag)
+        setField_flag(flag)
         var list = search(items, flag, value);
 
         if (list.length !== 0) {
@@ -157,7 +157,7 @@ function Main({selectedCategoryFromStore, itemsFromStore, selectedItemIndexFromS
                                                     changeItemBySearch={changeItemBySearch}
                                                     searchResultList={searchResultList}
                                                     searchValue={searchValue}
-                                                    xml_flag={xml_flag}/>
+                                                    field_flag={field_flag}/>
                                             </div>
                                             :
                                             <></>}
@@ -179,7 +179,7 @@ function Main({selectedCategoryFromStore, itemsFromStore, selectedItemIndexFromS
                                                         <img src={no_image} alt=''/>}
                                                 </div>
                                                 <div className='item-body-text'>
-                                                    <div className='item-body-text-eng_version'>{item.eng_version}</div>
+                                                    <div className='item-body-text-first_version'>{item.first_version}</div>
                                                     <div className='item-body-text-change_date'>{convertData(item.date_updated)}</div>
                                                 </div>
                                             </div>

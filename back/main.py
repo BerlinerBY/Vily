@@ -3,7 +3,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from model.database import DBSession
 from model import models
-from schemas import CategoryInput, ItemPutInput, ItemCreateInput, UploadItems
+from schemas import CategoryInput, ItemPutInput, ItemCreateInput
 from sqlalchemy.orm.exc import UnmappedInstanceError
 from typing import List
 
@@ -136,28 +136,22 @@ async def read_items_by_category(category_id: int):
 async def create_item(item: ItemCreateInput):
     db = DBSession()
     try:
-        if len(item.xml_id) == 0 and len(item.eng_version) == 0 and len(item.ru_version) == 0:
+        if len(item.item_id) == 0 and len(item.first_version) == 0 and len(item.second_version) == 0:
             raise HTTPException(
                 status_code=400, detail={
                     "status": "Error 400 - Bad Request",
                     "msg": "Empty fields" 
                 }
             )
-        if item.bel_version:
-            new_item = models.Item(
-                xml_id=item.xml_id,
-                bel_version=item.bel_version,
-                eng_version=item.eng_version,
-                ru_version=item.ru_version,
-                category_id=item.category_id,
-            )
-        else:
-            new_item = models.Item(
-                xml_id=item.xml_id,
-                eng_version=item.eng_version,
-                ru_version=item.ru_version,
-                category_id=item.category_id,
-            )
+        new_item = models.Item(
+            item_id=item.item_id,
+            bel_version=item.bel_version,
+            first_version=item.first_version,
+            second_version=item.second_version,
+            readiness=item.readiness,
+            category_id=item.category_id,
+            context=item.context,
+        )
 
         db.add(new_item)
         db.commit()
@@ -174,29 +168,22 @@ async def upload_items(requset: List[ItemCreateInput]):
     try:
         arr = []
         for item in requset:
-            if len(item.xml_id) == 0 and len(item.eng_version) == 0 and len(item.ru_version) == 0:
+            if len(item.item_id) == 0 and len(item.first_version) == 0 and len(item.second_version) == 0:
                 raise HTTPException(
                     status_code=400, detail={
                         "status": "Error 400 - Bad Request",
-                        "msg": f"Empty fields. {item.xml_id}" 
+                        "msg": f"Empty fields. {item.item_id}" 
                     }
                 )
-            if item.bel_version:
-                new_item = models.Item(
-                    xml_id=item.xml_id,
-                    bel_version=item.bel_version,
-                    eng_version=item.eng_version,
-                    ru_version=item.ru_version,
-                    category_id=item.category_id,
-                    readiness=item.readiness,
-                )
-            else:
-                new_item = models.Item(
-                    xml_id=item.xml_id,
-                    eng_version=item.eng_version,
-                    ru_version=item.ru_version,
-                    category_id=item.category_id,
-                )
+            new_item = models.Item(
+                item_id=item.item_id,
+                bel_version=item.bel_version,
+                first_version=item.first_version,
+                second_version=item.second_version,
+                readiness=item.readiness,
+                category_id=item.category_id,
+                context=item.context,
+            )
     
             db.add(new_item)
             db.commit()

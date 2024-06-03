@@ -10,7 +10,7 @@
 }
 
 .Main-Item-SourceStrings {
-    height: calc(40% - 1px);
+    height: calc(30% - 1px);
     width: 100%;
 
     .Main-Item-SourceStrings-entry {
@@ -104,31 +104,15 @@
                 margin-top: auto;
                 margin-bottom: auto;
                 margin-right: 10px;
-                height: calc(100% - 80px);
+                height: calc(100% - 20px);
                 justify-content: center;
                 overflow-y: scroll;
 
                 .Main-Item-SourceStrings-Strings-Versions-version {
                     max-height: calc(50% - 20px);
-                    margin-top: 20px;
+                    margin-top: 10px;
                     margin-bottom: 20px;
                     font-size: 1vw;
-                }
-            }
-
-            .Main-Item-SourceStrings-Strings-Context {
-                flex-direction: column;
-                display: flex;
-                height: 100px;
-                margin-bottom: 10px;
-
-                .Main-Item-SourceStrings-Strings-Context-context {
-                    margin-bottom: 5px;
-                }
-
-                .Main-Item-SourceStrings-Strings-Context-fields {
-                    color: #8f8f8f;
-                    margin-left: 10px;
                 }
             }
         }
@@ -238,68 +222,49 @@
     }
 }
 
-.Main-Item-Comments {
-    height: calc(20% - 1px);
+.Main-Item-Context {
+    height: calc(30% - 1px);
     width: 100%;    
 
-    .Main-Item-Comments-Entry {
+    .Main-Item-Context-Entry {
         height: 100%;
         margin-left: 10px;
         display: flex;
         flex-direction: column;
+        margin-bottom: 10px;
 
-        .Main-Item-Comments-Entry-main {
-            margin-top: 10px;
+        .Main-Item-Context-Entry-context {
+            margin-bottom: 5px;
         }
-        .Main-Item-Comments-Entry-comments {
-            margin-top: auto;
-            margin-bottom: auto;
+
+        .Main-Item-Context-Entry-fields {
+            color: #8a8383;
+            margin-left: 10px;
+            font-size: 1vw;
         }
-        .Main-Item-Comments-Entry-new_comment {
-            margin-bottom: 10px;
-            display: flex;
-            flex-direction: column;
 
-            hr {
-                width: 70%;
-                margin-bottom: 0px;
-                border-top: 1px solid;
-            }
+        .Main-Item-Context-Entry-textarea {
+            margin-top: 5px;
+            margin-left: 5px;
+            margin-bottom: 5px;
+            height: 100%;
+        
 
-            .Main-Item-Comments-Entry-new_comment-textarea {
+            .Main-Item-Context-Entry-textarea-area {
                 width: calc(100% - 20px);
                 height: 100%;
                 padding: 12px 20px;
                 box-sizing: border-box;
                 border: 0px solid #ccc;
                 color: #ccc;
-                border-radius: 4px;
+                border-radius: 10px;
                 background-color: #242424;
                 font-size: 20px;
                 resize: none;
                 outline: #ffffff;
             }
-
-            .Main-Item-Comments-Entry-new_comment-button {
-                color: #8f8f8f;
-                border: 2px solid #282c33;
-                border-radius: 5px;
-                background-color:#242424;
-                margin-left: auto;
-                margin-right: 20px;
-                margin-top: 5px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                width: 110px;                
-            }
-
-            .Main-Item-Comments-Entry-new_comment-button:hover {
-                background-color:#353535;
-                color: #ffffff;
-            }
-            .Main-Item-Comments-Entry-new_comment-button:active {
-                background-color:#080808;
+            .Main-Item-Context-Entry-textarea-area:focus {
+                    border: 0px solid #ccc; 
             }
         }
     }

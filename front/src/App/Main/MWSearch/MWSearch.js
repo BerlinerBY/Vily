@@ -6,7 +6,7 @@ function MWSearch({showMWSearch, handleCloseMWSearch, items, transferDataToSearc
     const showHideClassName = showMWSearch ? "modal display-block" : "modal display-none";
     const [searchValue, setSearchValue] = useState("");
     const [source, setSource] = useState("all categories");
-    const [stringType, setStringType] = useState("xml_id");
+    const [stringType, setStringType] = useState("item_id");
 
 
     const onOptionChahgeSource = (e) => {
@@ -22,29 +22,29 @@ function MWSearch({showMWSearch, handleCloseMWSearch, items, transferDataToSearc
 
     const handleClose = () => {
         setSource("all categories");
-        setStringType("xml_id");
+        setStringType("item_id");
         setSearchValue("");
         handleCloseMWSearch();
     };
     const handleSearch = () => {
         if (searchValue !== "") {        
-            var xml_flag;
+            var field_flag;
 
             if (source === "all categories") {
                 // request to back-end
                 alert("Sorry, I don't work now");
             } else if (source === "current category") {
-                if (stringType === "xml_id") {
-                    xml_flag = "xml_id";
+                if (stringType === "item_id") {
+                    field_flag = "item_id";
                 } else if (stringType === "1-st language") {
-                    xml_flag = "eng_version";
+                    field_flag = "first_version";
                 } else if (stringType === "2-nd language") {
-                    xml_flag = "ru_version";
+                    field_flag = "second_version";
                 } else if (stringType === "belarus") {
-                    xml_flag = "bel_versio";
+                    field_flag = "bel_version";
                 }
             }
-            transferDataToSearch(xml_flag, searchValue);
+            transferDataToSearch(field_flag, searchValue);
             handleClose();
         }
     };
@@ -111,11 +111,11 @@ function MWSearch({showMWSearch, handleCloseMWSearch, items, transferDataToSearc
                                 <input 
                                     type="radio" 
                                     name="stringType" 
-                                    value="xml_id" 
-                                    id="xml_id" 
-                                    checked={stringType === "xml_id"}
+                                    value="item_id" 
+                                    id="item_id" 
+                                    checked={stringType === "item_id"}
                                     onChange={onOptionChangeLvl1}/>
-                                <label htmlFor="xml_id">xml_id</label>
+                                <label htmlFor="item_id">item_id</label>
                             </div>
 
                             <div>

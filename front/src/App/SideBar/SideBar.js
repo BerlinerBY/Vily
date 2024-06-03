@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import './SideBar.css';
 import { useDispatch, connect } from 'react-redux';
 import { getCategoryRequest } from "../../features/ApiRequests/SideBarRequests";
-import xml_icon from './xml.png'
+import doc_icon from './document.png'
 import { setCategoryID, setCategoryName } from '../../features/slices/category/categorySlice';
 import { setDefaultItem } from '../../features/slices/content/contentSlice';
 
@@ -47,7 +47,7 @@ function SideBar({categoryFromStore}) {
                                         handleClick(category.id, category.title);
                                     }}>
                                     <div className="Icon-button">
-                                        <img src={xml_icon} className="SideBar-icon" alt="icon" />
+                                        <img src={doc_icon} className="SideBar-icon" alt="icon" />
                                     </div>
                                     <div className='Name-button'>
                                         <div className='Name-button-title'>{category.title}</div>

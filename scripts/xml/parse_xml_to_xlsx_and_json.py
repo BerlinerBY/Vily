@@ -1,21 +1,21 @@
 import xml.etree.ElementTree as ET
 from lxml import etree
-import time
 import pandas as pd
 import numpy as np
-import json
-
-
 
 def parse(category_id: int, file_name: str):
     print("    Open file")
+
+    # Change it to set other language
+    first_lang = "english"
+    second_lang = "russian"
 
     tree = etree.parse(f"../../files_input/{file_name}.xml")
     root = tree.getroot()
 
     col_type = [
-        ('xml_id', 'str'), 
-        ('eng_version_for_tr', 'str'), 
+        ('item_id', 'str'), 
+        ('lang_version_for_tr', 'str'), 
         ('category_id', 'int')
         ]
     df = pd.DataFrame(np.empty(0, dtype=col_type))
@@ -27,55 +27,55 @@ def parse(category_id: int, file_name: str):
     while i < len(root[0]):
         if i % 100 == 0:
             print(f"    Progress: {i} or {(i/len(root[0])) * 100}%")
-        id = tree.xpath('//root/language[@id="english"]/entry/@id')[i]
+        id = tree.xpath(f'//root/language[@id="{first_lang}"]/entry/@id')[i]
 
-        if len(tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]')) > 1:
-            eng_item = tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]')
-            ru_item = tree.xpath(f'//root/language[@id="russian"]/entry[@id="{id}"]')
-            for y in range(len(eng_item)):
+        if len(tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]')) > 1:
+            first_item = tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]')
+            second_item = tree.xpath(f'//root/language[@id="{second_lang}"]/entry[@id="{id}"]')
+            for y in range(len(first_item)):
                 row_for_df = {
-                    "xml_id": id,
-                    "eng_version_for_tr": eng_item[y].text,
+                    "item_id": id,
+                    "lang_version_for_tr": first_item[y].text,
                     "category_id": category_id
                 }
                 df.loc[len(df)] = row_for_df
 
                 try:
                     row = {
-                        "xml_id": id, 
-                        "eng_version": eng_item[y].text,
-                        "ru_version": ru_item[y].text,
+                        "item_id": id, 
+                        "first_version": first_item[y].text,
+                        "second_version": second_item[y].text,
                         "category_id": category_id
                     }
                 except IndexError:
                     row = {
-                        "xml_id": id, 
-                        "eng_version": eng_item[y].text,
-                        "ru_version": eng_item[y].text,
+                        "item_id": id, 
+                        "first_version": first_item[y].text,
+                        "second_version": first_item[y].text,
                         "category_id": category_id
                     }
                 data.append(row)
-            i += len(tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]'))
+            i += len(tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]'))
         else:
             row_for_df = {
-                "xml_id": id,
-                "eng_version_for_tr":tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]')[0].text,
+                "item_id": id,
+                "lang_version_for_tr":tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]')[0].text,
                 "category_id": category_id
             }
             df.loc[len(df)] = row_for_df
 
             try:
                 row = {
-                    "xml_id": id, 
-                    "eng_version": tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]')[0].text,
-                    "ru_version": tree.xpath(f'//root/language[@id="russian"]/entry[@id="{id}"]')[0].text,
+                    "item_id": id, 
+                    "first_version": tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]')[0].text,
+                    "second_version": tree.xpath(f'//root/language[@id="{second_lang}"]/entry[@id="{id}"]')[0].text,
                     "category_id": category_id
                 }
             except IndexError:
                 row = {
-                    "xml_id": id, 
-                    "eng_version": tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]')[0].text,
-                    "ru_version": tree.xpath(f'//root/language[@id="english"]/entry[@id="{id}"]')[0].text,
+                    "item_id": id, 
+                    "first_version": tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]')[0].text,
+                    "second_version": tree.xpath(f'//root/language[@id="{first_lang}"]/entry[@id="{id}"]')[0].text,
                     "category_id": category_id
                 }
             data.append(row)

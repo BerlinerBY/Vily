@@ -1,6 +1,5 @@
 from lxml import etree
 import requests
-import json
 
 def get_categories():
     req = requests.get("http://127.0.0.1:8000/api/categories")
@@ -22,7 +21,7 @@ def add_data_to_xml(filename, data):
 
     # Create new entry elements
     for elem in data:
-        new_entry1 = etree.SubElement(new_language, "entry", {"id": elem["xml_id"]})
+        new_entry1 = etree.SubElement(new_language, "entry", {"id": elem["item_id"]})
         new_entry1.text = etree.CDATA(elem["bel_version"])
     
     # Check existing entries and preserve CDATA formatting
@@ -48,7 +47,7 @@ print(f"Start")
 for elem in get_categories():
     c_id = elem["id"]
     c_title = elem["title"]
-    data = get_data(elem["id"])
+    data = get_data(c_id)
 
     print(f"    ------------")
     print(f"    {c_id} --- {len(data)} --- {c_title}")

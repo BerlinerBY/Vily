@@ -1,7 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import requests
-import parse_xml_to_xlsx_and_json as parse
+import parse_po as parse
 import sys
 sys.path.append('../..')
 from scripts import translate as translate
@@ -10,18 +10,19 @@ from scripts import push_data_to_db as push
 
 path = "../../files_input"
 
-files = [f for f in listdir(path) if isfile(join(path, f))]
+# files = [f for f in listdir(path) if isfile(join(path, f))]
+files = ["en_GB.po"]
 
 for file in files:
     print(f"\n{file}")
-    file_name = file[:file.find(".xml")]
+    file_name = file[:file.find(".po")]
 
     # Create a category 
     json_data = {"title": file}
     req = requests.post("http://127.0.0.1:8000/api/category", json=json_data)
     print(req.json())
 
-    # Parse a xml-file 
+    # Parse a po-file 
     print("-----------")
     print("Parse a file")
     data = parse.parse(category_id=req.json()["id"], file_name=file_name)

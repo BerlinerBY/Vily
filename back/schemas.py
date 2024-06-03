@@ -6,22 +6,15 @@ class CategoryInput(BaseModel):
 
 
 class ItemCreateInput(BaseModel):
-    xml_id: str
+    item_id: str
     bel_version: Optional[str] = None
-    eng_version: str
-    ru_version: str
+    first_version: str
+    second_version: Optional[str] = None
     category_id: int
     readiness: Optional[bool] = False
-
-
-class UploadItems(BaseModel):
-    xml_id: str
-    bel_version: Optional[str] = None
-    eng_version: str
-    ru_version: str
-    category_id: int
+    context: Optional[str] = None
 
 
 class ItemPutInput(BaseModel):
     bel_version: str
-    readiness:bool
+    readiness: bool

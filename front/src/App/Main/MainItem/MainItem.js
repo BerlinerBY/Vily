@@ -85,20 +85,15 @@ function MainItem({handlePreviousItem, handleNextItem,
                             <div className='Main-Item-SourceStrings-Strings'>
                                 <div className='Main-Item-SourceStrings-Strings-Versions'>
                                     <div className='Main-Item-SourceStrings-Strings-Versions-version'>
-                                        {item.eng_version}
+                                        {item.first_version}
                                     </div>
-                                    <div className='Main-Item-SourceStrings-Strings-Versions-version'>
-                                        {item.ru_version}
-                                    </div>
-                                </div>
-                                <div className='Main-Item-SourceStrings-Strings-Context'>
-                                    <div className='Main-Item-SourceStrings-Strings-Context-context'>
-                                        Context
-                                    </div>
-                                    <div className='Main-Item-SourceStrings-Strings-Context-fields'>
-                                        <div>file_name: {category}</div>
-                                        <div>key: {item.xml_id}</div>
-                                    </div>
+                                    {item.second_version ?
+                                        <div className='Main-Item-SourceStrings-Strings-Versions-version'>
+                                            {item.second_version}
+                                        </div>
+                                        :
+                                        <></>
+                                    }
                                 </div>
                             </div>
                         </div>
@@ -135,23 +130,23 @@ function MainItem({handlePreviousItem, handleNextItem,
                         </div>
                     </div>
                     <hr />
-                    <div className='Main-Item-Comments'>
-                        <div className='Main-Item-Comments-Entry'>
-                            <div className='Main-Item-Comments-Entry-main'>
-                                Comments
+                    <div className='Main-Item-Context'>
+                        <div className='Main-Item-Context-Entry'>
+                            <div className='Main-Item-Context-Entry-context'>
+                                Context
                             </div>
-                            <div className='Main-Item-Comments-Entry-comments'></div>
-                            <div className='Main-Item-Comments-Entry-new_comment'>
-                                <hr />
-                                <textarea 
-                                    className='Main-Item-Comments-Entry-new_comment-textarea'
-                                    placeholder='New Comment'/>
-                                <div 
-                                    className='Main-Item-Comments-Entry-new_comment-button'
-                                    role='button'
-                                    >
-                                    save
-                                </div>
+                            <div className='Main-Item-Context-Entry-fields'>
+                                <div>file_name: {category}</div>
+                                <div>item_id: {item.item_id}</div>
+                            </div>
+                            <div className='Main-Item-Context-Entry-textarea'>
+                                {item.context ?
+                                    <textarea 
+                                        className='Main-Item-Context-Entry-textarea-area'
+                                        value={item.context}/>
+                                    :
+                                    <></>
+                                }
                             </div>
                         </div>
                     </div>
